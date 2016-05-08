@@ -7,8 +7,8 @@ Meteor.startup(function () {
          "crse": "1001",
          "day1": "TR",
          "prof": "Constance J Crawford",
-         "time1finish": "11:45 AM",
-         "time1start": "10:30 AM",
+         "time1finish": "11:45",
+         "time1start": "10:30",
          "time2finish": "",
          "time2start": "",
          "title": "Accounting Principles I"
@@ -21,8 +21,8 @@ Meteor.startup(function () {
          "crse": "1002",
          "day1": "TR",
          "prof": "David Hornung",
-         "time1finish": "10:15 AM",
-         "time1start": "9:00 AM",
+         "time1finish": "10:15",
+         "time1start": "9:00",
          "time2finish": "",
          "time2start": "",
          "title": "Accounting Principles II"
