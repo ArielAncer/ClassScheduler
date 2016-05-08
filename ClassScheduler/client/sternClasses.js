@@ -21,6 +21,7 @@ Template.SternClasses.events({
     $('#modal1').openModal();
   },
 
+
   'click h5.title': function (e) {
     e.preventDefault();
 

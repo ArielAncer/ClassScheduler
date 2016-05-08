@@ -1,6 +1,6 @@
 {
    "Accounting": {
-      "Accounting Principles I -- Constance J. Crawford": {
+
          "credits": 3,
          "crn": "34424",
          "crse": "1001",
@@ -10,9 +10,11 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
-         "title": "Accounting Principles I"
+         "title": "Accounting Principles I",
+         "subject": "Accounting"
       },
-      "Accounting Principles II -- David Hornung": {
+      
+      {
          "credits": 3,
          "crn": "34371",
          "crse": "1002",
@@ -22,9 +24,11 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
-         "title": "Accounting Principles II"
+         "title": "Accounting Principles II",
+         "subject": "Accounting"
+         
       },
-      "Advanced Accounting -- Martin A. Leibowitz": {
+      {
          "credits": 3,
          "crn": "34220",
          "crse": "3201",
@@ -34,9 +38,10 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Accounting"
          "title": "Advanced Accounting"
       },
-      "Financial Statement Analysis -- Sidney J. Mehl": {
+ {
          "credits": 3,
          "crn": "34327",
          "crse": "3851",
@@ -46,9 +51,10 @@
          "time1start": "1:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Accounting"
          "title": "Financial Statement Analysis"
       },
-      "Intermediate Accounting I -- David Hornung": {
+       {
          "credits": 3,
          "crn": "34166",
          "crse": "1101",
@@ -58,11 +64,12 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Accounting"
          "title": "Intermediate Accounting I"
       }
    },
    "Art": {
-      "Baroque Art -- Jacob Wisse": {
+      {
          "credits": 3,
          "crn": "35504",
          "crse": "1350",
@@ -72,9 +79,10 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art"
          "title": "Baroque Art"
       },
-      "Beginning Painting -- Mary Therese Creede": {
+      {
          "credits": 3,
          "crn": "34217",
          "crse": "2511",
@@ -84,9 +92,10 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art"
          "title": "Beginning Painting"
       },
-      "Beginning Painting Lab -- Mary Therese Creede": {
+       {
          "credits": 0,
          "crn": "34506",
          "crse": "2511Y",
@@ -96,9 +105,10 @@
          "time1start": "11:55 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art"
          "title": "Beginning Painting Lab"
       },
-      "Creativity -- John Jerard": {
+      {
          "credits": 3,
          "crn": "35493",
          "crse": "2831",
@@ -108,6 +118,7 @@
          "time1start": "4:40 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Creativity"
       },
       "Digital Photography -- TBA": {
@@ -120,6 +131,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Digital Photography"
       },
       "History of Art I -- Melanie Hanan": {
@@ -132,6 +144,7 @@
          "time1start": "1:25 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "History of Art I"
       },
       "History of Art II -- Marnin Young": {
@@ -144,6 +157,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art"
          "title": "History of Art II"
       },
       "Intro Computer Design -- Alexander Rysdon-Moulitsas": {
@@ -156,6 +170,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art"
          "title": "Intro Computer Design"
       },
       "Introduction to Art -- Margaret Samu": {
@@ -168,6 +183,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Introduction to Art"
       },
       "Introduction to Art -- Marnin Young": {
@@ -180,6 +196,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Introduction to Art"
       },
       "Introduction to Art -- Miriam Weinberg": {
@@ -192,6 +209,7 @@
          "time1start": "11:55 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Introduction to Art"
       },
       "Introduction to Video -- TBA": {
@@ -204,6 +222,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Introduction to Video"
       },
       "Late-Nineteenth Century Art -- Marnin Young": {
@@ -216,6 +235,7 @@
          "time1start": "1:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Late-Nineteenth Century Art"
       },
       "NYC Architecture &Urban Design -- John Kriskiewicz": {
@@ -228,6 +248,7 @@
          "time1start": "9:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "NYC Architecture &Urban Design"
       },
       "Philosophy of Art -- Herb Leventer": {
@@ -241,6 +262,7 @@
          "time1start": "4:40 PM",
          "time2finish": "6:15 PM",
          "time2start": "5:00 PM",
+         "subject": "Art",
          "title": "Philosophy of Art"
       },
       "Pre-Senior Project -- Mary Therese Creede": {
@@ -253,6 +275,7 @@
          "time1start": "2:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Pre-Senior Project"
       },
       "Principles of Design -- Mary Therese Creede": {
@@ -265,6 +288,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Principles of Design"
       },
       "Principles of Drawing -- John Jerard": {
@@ -277,6 +301,7 @@
          "time1start": "1:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Principles of Drawing"
       },
       "Principles of Drawing Lab -- John Jerard": {
@@ -289,6 +314,7 @@
          "time1start": "3:15 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Principles of Drawing Lab"
       },
       "Senior Project -- Mary Therese Creede": {
@@ -301,6 +327,7 @@
          "time1start": "TBA",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Senior Project"
       },
       "The Image of Jerusalem -- TBA": {
@@ -313,6 +340,7 @@
          "time1start": "3:15 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "The Image of Jerusalem"
       },
       "Topics: Book Arts -- Barbara L Suhr": {
@@ -325,6 +353,7 @@
          "time1start": "5:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Topics: Book Arts"
       },
       "Typography -- Alexander Rysdon-Moulitsas": {
@@ -337,6 +366,7 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Art",
          "title": "Typography"
       }
    },
@@ -351,6 +381,7 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Biblical Exegetes II"
       },
       "Biblical Narrative -- Ronit Gross": {
@@ -363,6 +394,7 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Biblical Narrative"
       },
       "Book of Deuteronomy -- Shoshana Schechter": {
@@ -375,6 +407,7 @@
          "time1start": "1:25 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Book of Deuteronomy"
       },
       "Book of Exodus I -- Elozor Preil": {
@@ -387,6 +420,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Book of Exodus I"
       },
       "Book of Exodus I -- Mindy F. Eisenman": {
@@ -399,6 +433,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Book of Exodus I"
       },
       "Book of Genesis -- Shoshana Schechter": {
@@ -411,6 +446,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Book of Genesis"
       },
       "Book of Joshua -- Ronit Gross": {
@@ -424,6 +460,7 @@
          "time1start": "3:10 PM",
          "time2finish": "4:50 PM",
          "time2start": "3:35 PM",
+         "subject": "Bible",
          "title": "Book of Joshua"
       },
       "Book of Leviticus -- Deena S. Rabinovich": {
@@ -436,6 +473,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Book of Leviticus"
       },
       "Daniel -- Michelle J. Levine": {
@@ -449,6 +487,7 @@
          "time1start": "3:10 PM",
          "time2finish": "4:50 PM",
          "time2start": "3:35 PM",
+         "subject": "Bible",
          "title": "Daniel"
       },
       "Esther -- Moriah Rachel Rosensweig": {
@@ -461,6 +500,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Esther"
       },
       "Intro to Exegesis II -- Nechama Esther Price": {
@@ -473,6 +513,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Intro to Exegesis II"
       },
       "Isaiah: Geulah and the Messianic Era. Use to fulfil JPHIL requirement. -- Naomi Cohen Grunhaus": {
@@ -485,6 +526,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Isaiah: Geulah and the Messianic Era. Use to fulfil JPHIL requirement."
       },
       "Jeremiah. Confronting the false prophets. U.INT.  -- Naomi Cohen Grunhaus": {
@@ -497,6 +539,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Jeremiah. Confronting the false prophets. U.INT. "
       },
       "Judges -- Ian Shaffer": {
@@ -509,6 +552,7 @@
          "time1start": "3:15 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Judges"
       },
       "Later Prophets: Yonah -- Ronit Gross": {
@@ -521,6 +565,7 @@
          "time1start": "1:25 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Later Prophets: Yonah"
       },
       "Methods of Peshat: Biblical Stylistics, building blocks of perushim -- Naomi Cohen Grunhaus": {
@@ -533,6 +578,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Methods of Peshat: Biblical Stylistics, building blocks of perushim"
       },
       "Personal Devlop in the Bible I -- Shoshana Schechter": {
@@ -545,6 +591,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Personal Devlop in the Bible I"
       },
       "Proverbs -- Michelle J. Levine": {
@@ -557,6 +604,7 @@
          "time1start": "1:25 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Proverbs"
       },
       "Psalms II -- Gideon I. Shloush": {
@@ -569,6 +617,7 @@
          "time1start": "11:55 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Psalms II"
       },
       "Samuel I - Part I -- Elozor Preil": {
@@ -581,6 +630,7 @@
          "time1start": "9:00 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Samuel I - Part I"
       },
       "Samuel I -- Smadar Rosensweig": {
@@ -593,6 +643,7 @@
          "time1start": "1:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Samuel I"
       },
       "Samuel I, Part II -- Ian Shaffer": {
@@ -605,6 +656,7 @@
          "time1start": "4:40 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Samuel I, Part II"
       },
       "Topics in Exegesis: Sforno -- Michelle J. Levine": {
@@ -617,6 +669,7 @@
          "time1start": "11:55 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Topics in Exegesis: Sforno"
       },
       "Topics in Genesis -- Moshe M. Tessone": {
@@ -629,6 +682,7 @@
          "time1start": "4:30 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Topics in Genesis"
       },
       "Topics in Leviticus -- Moriah Rachel Rosensweig": {
@@ -641,6 +695,7 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Topics in Leviticus"
       },
       "Topics in Numbers -- Gideon I. Shloush": {
@@ -653,6 +708,7 @@
          "time1start": "10:25 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Topics in Numbers"
       },
       "Tps in Exegesis: N. Leibowitz -- Smadar Rosensweig": {
@@ -665,6 +721,7 @@
          "time1start": "10:30 AM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Tps in Exegesis: N. Leibowitz"
       },
       "Weekly Portion -- Deena S. Rabinovich": {
@@ -677,6 +734,7 @@
          "time1start": "1:45 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Weekly Portion"
       },
       "Women in Bible & Rabbinic Lit -- Smadar Rosensweig": {
@@ -689,6 +747,7 @@
          "time1start": "12:00 PM",
          "time2finish": "",
          "time2start": "",
+         "subject": "Bible",
          "title": "Women in Bible & Rabbinic Lit"
       }
    },
