@@ -21,7 +21,11 @@ Template.SternClasses.events({
     $('#modal1').openModal();
   },
 
-  'click h4.title': function () {
+  'click h5.title': function (e) {
+    e.preventDefault();
+
+    Session.set('eventObject', this);
+    var eventObjectSession = Session.get('eventObject');
     var eventObject = {
       title: eventObjectSession.title,
       start: '2016-05-10 ' + eventObjectSession.time1start,
@@ -32,6 +36,6 @@ Template.SternClasses.events({
 
     CalEvents.insert(eventObject);
 
-    // $('#calendar').fullCalendar('refetchEvents');
+    $('#calendar').fullCalendar('refetchEvents');
   }
 });

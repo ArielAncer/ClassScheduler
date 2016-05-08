@@ -22,7 +22,7 @@ Meteor.startup(function () {
          "day1": "TR",
          "prof": "David Hornung",
          "time1finish": "10:15",
-         "time1start": "9:00",
+         "time1start": "09:00",
          "time2finish": "",
          "time2start": "",
          "title": "Accounting Principles II"
