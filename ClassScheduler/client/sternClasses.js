@@ -32,6 +32,6 @@ Template.SternClasses.events({
 
     CalEvents.insert(eventObject);
 
-    $('#calendar').fullCalendar('refetchEvents');
+    // $('#calendar').fullCalendar('refetchEvents');
   }
 });
