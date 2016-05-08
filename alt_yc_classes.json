@@ -62,12 +62,12 @@
       }
    },
    "Bible": {
-      "Bible:Text, Context, Tradition -- Moshe J. Bernstein": {
+      "Bible:Text, Context, Tradition -- Moshe J Bernstein": {
          "credits": 2,
          "crn": "33971",
          "crse": "1000",
          "day1": "R",
-         "prof": "Moshe J. Bernstein",
+         "prof": "Moshe J Bernstein",
          "time1finish": "2:45 PM",
          "time1start": "1:05 PM",
          "time2finish": "",
@@ -110,12 +110,12 @@
          "time2start": "",
          "title": "Biblical Midrashim"
       },
-      "Daniel -- J. Mitchell Orlian": {
+      "Daniel -- J Mitchell Orlian": {
          "credits": 2,
          "crn": "35572",
          "crse": "2800",
          "day1": "R",
-         "prof": "J. Mitchell Orlian",
+         "prof": "J Mitchell Orlian",
          "time1finish": "2:45 PM",
          "time1start": "1:05 PM",
          "time2finish": "",
@@ -134,12 +134,12 @@
          "time2start": "",
          "title": "Exodus"
       },
-      "Genesis -- Barry L. Eichler": {
+      "Genesis -- Barry L Eichler": {
          "credits": 2,
          "crn": "35571",
          "crse": "2000H",
          "day1": "T",
-         "prof": "Barry L. Eichler",
+         "prof": "Barry L Eichler",
          "time1finish": "2:45 PM",
          "time1start": "1:05 PM",
          "time2finish": "",
@@ -170,12 +170,12 @@
          "time2start": "",
          "title": "Proverbs"
       },
-      "Psalms -- Joseph L. Angel": {
+      "Psalms -- Joseph L Angel": {
          "credits": 2,
          "crn": "34637",
          "crse": "2700",
          "day1": "R",
-         "prof": "Joseph L. Angel",
+         "prof": "Joseph L Angel",
          "time1finish": "2:45 PM",
          "time1start": "1:05 PM",
          "time2finish": "",
@@ -234,13 +234,13 @@
          "time2start": "6:45 PM",
          "title": "Cell Structure & Function"
       },
-      "Genetics -- Josefa M. Steinhauer": {
+      "Genetics -- Josefa M Steinhauer": {
          "credits": 4,
          "crn": "33939",
          "crse": "3513C",
          "day1": "MW",
          "day2": "W",
-         "prof": "Josefa M. Steinhauer",
+         "prof": "Josefa M Steinhauer",
          "time1finish": "3:50 PM",
          "time1start": "3:00 PM",
          "time2finish": "10:05 PM",
@@ -260,12 +260,12 @@
          "time2start": "6:45 PM",
          "title": "Human & Animal Physiology"
       },
-      "Microbiology -- Moses D. Tendler": {
+      "Microbiology -- Moses D Tendler": {
          "credits": 2,
          "crn": "33921",
          "crse": "4023R",
          "day1": "M",
-         "prof": "Moses D. Tendler",
+         "prof": "Moses D Tendler",
          "time1finish": "6:10 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -445,12 +445,12 @@
          "time2start": "",
          "title": "Organic Chemistry Lab"
       },
-      "Organic Chemistry Lab -- Racquel K. Malcolm-Whyte": {
+      "Organic Chemistry Lab -- Racquel K Malcolm-Whyte": {
          "credits": 2,
          "crn": "33962",
          "crse": "1215L",
          "day1": "T",
-         "prof": "Racquel K. Malcolm-Whyte",
+         "prof": "Racquel K Malcolm-Whyte",
          "time1finish": "10:45 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -619,12 +619,12 @@
          "time2start": "",
          "title": "Politics and Global Markets"
       },
-      "Religion and Society -- Jonathan J. Zisook": {
+      "Religion and Society -- Jonathan J Zisook": {
          "credits": 3,
          "crn": "35579",
          "crse": "1025",
          "day1": "F",
-         "prof": "Jonathan J. Zisook",
+         "prof": "Jonathan J Zisook",
          "time1finish": "12:00 PM",
          "time1start": "9:30 AM",
          "time2finish": "",
@@ -669,12 +669,12 @@
          "time2start": "",
          "title": "France and its Others"
       },
-      "History of the Alphabet -- Aaron J. Koller": {
+      "History of the Alphabet -- Aaron J Koller": {
          "credits": 3,
          "crn": "35649",
          "crse": "1026",
          "day1": "F",
-         "prof": "Aaron J. Koller",
+         "prof": "Aaron J Koller",
          "time1finish": "12:00 PM",
          "time1start": "9:30 AM",
          "time2finish": "",
@@ -731,24 +731,24 @@
          "time2start": "",
          "title": "Intermediate Macroeconomics"
       },
-      "International Economics -- Elias C. Grivoyannis": {
+      "International Economics -- Elias C Grivoyannis": {
          "credits": 3,
          "crn": "35584",
          "crse": "1701",
          "day1": "TR",
-         "prof": "Elias C. Grivoyannis",
+         "prof": "Elias C Grivoyannis",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
          "time2start": "",
          "title": "International Economics"
       },
-      "Money and Banking -- Elias C. Grivoyannis": {
+      "Money and Banking -- Elias C Grivoyannis": {
          "credits": 3,
          "crn": "35846",
          "crse": "1221H",
          "day1": "TR",
-         "prof": "Elias C. Grivoyannis",
+         "prof": "Elias C Grivoyannis",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -926,7 +926,7 @@
          "title": "Writing the Essay"
       }
    },
-   "Experimental & Quant. Methods": {
+   "Experimental & Quant Methods": {
       "Analysis of Environmntl Toxins -- Raji Viswanathan": {
          "credits": 3,
          "crn": "34007",
@@ -1030,7 +1030,7 @@
          "time2start": "",
          "title": "Elementary Biblical Hebrew II"
       },
-      "Intermed. Biblical Hebrew I -- Rachel Kra Schaum": {
+      "Intermed Biblical Hebrew I -- Rachel Kra Schaum": {
          "credits": 3,
          "crn": "33952",
          "crse": "1005",
@@ -1041,20 +1041,20 @@
          "time1start": "3:00 PM",
          "time2finish": "6:40 PM",
          "time2start": "5:50 PM",
-         "title": "Intermed. Biblical Hebrew I"
+         "title": "Intermed Biblical Hebrew I"
       },
-      "Intermed. Biblical Hebrew II -- Ezra H. Frazer": {
+      "Intermed Biblical Hebrew II -- Ezra H Frazer": {
          "credits": 3,
          "crn": "34014",
          "crse": "1006",
          "day1": "MW",
          "day2": "T",
-         "prof": "Ezra H. Frazer",
+         "prof": "Ezra H Frazer",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "6:40 PM",
          "time2start": "5:50 PM",
-         "title": "Intermed. Biblical Hebrew II"
+         "title": "Intermed Biblical Hebrew II"
       },
       "Intermediate Hebrew I -- Chaya Glaser": {
          "credits": 3,
@@ -1144,17 +1144,17 @@
          "time2start": "",
          "title": "Europe since 1945"
       },
-      "His. of the Ancient Near East -- Shalom E. Holtz": {
+      "His of the Ancient Near East -- Shalom E Holtz": {
          "credits": 3,
          "crn": "35602",
          "crse": "1105",
          "day1": "MW",
-         "prof": "Shalom E. Holtz",
+         "prof": "Shalom E Holtz",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
          "time2start": "",
-         "title": "His. of the Ancient Near East"
+         "title": "His of the Ancient Near East"
       },
       "Piracy & the Nation State -- Douglas Burgess": {
          "credits": 3,
@@ -1195,7 +1195,7 @@
          "title": "Honors Thesis Proposal"
       },
       "Honors Thesis Seminar I -- TBA": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33929",
          "crse": "4978H",
          "day1": " ",
@@ -1207,7 +1207,7 @@
          "title": "Honors Thesis Seminar I"
       },
       "Honors Thesis Seminar II -- TBA": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33930",
          "crse": "4979H",
          "day1": " ",
@@ -1256,24 +1256,24 @@
          "time2start": "",
          "title": "American Public Policy"
       },
-      "Courts and Social Change -- Akiva J. Covitz": {
+      "Courts and Social Change -- Akiva J Covitz": {
          "credits": 3,
          "crn": "35585",
          "crse": "1012",
          "day1": "F",
-         "prof": "Akiva J. Covitz",
+         "prof": "Akiva J Covitz",
          "time1finish": "12:30 PM",
          "time1start": "10:00 AM",
          "time2finish": "",
          "time2start": "",
          "title": "Courts and Social Change"
       },
-      "Economics Efficiency & Justice -- Elias C. Grivoyannis": {
+      "Economics Efficiency & Justice -- Elias C Grivoyannis": {
          "credits": 3,
          "crn": "34050",
          "crse": "1006",
          "day1": "TR",
-         "prof": "Elias C. Grivoyannis",
+         "prof": "Elias C Grivoyannis",
          "time1finish": "8:00 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -1318,12 +1318,12 @@
          "time2start": "",
          "title": "Aesthetic Revolutions"
       },
-      "Culture of the Fin de Siecle -- Jess J. Olson": {
+      "Culture of the Fin de Siecle -- Jess J Olson": {
          "credits": 3,
          "crn": "33994",
          "crse": "1016",
          "day1": "TR",
-         "prof": "Jess J. Olson",
+         "prof": "Jess J Olson",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -1380,12 +1380,12 @@
       }
    },
    "Jewish History": {
-      "Classical Intellectual JHI -- Moshe J. Bernstein": {
+      "Classical Intellectual JHI -- Moshe J Bernstein": {
          "credits": 3,
          "crn": "35695",
          "crse": "2210H",
          "day1": "TR",
-         "prof": "Moshe J. Bernstein",
+         "prof": "Moshe J Bernstein",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -1428,12 +1428,12 @@
          "time2start": "",
          "title": "Modern Intellectual JHI"
       },
-      "Modern Jewish History -- Jess J. Olson": {
+      "Modern Jewish History -- Jess J Olson": {
          "credits": 3,
          "crn": "35668",
          "crse": "1400",
          "day1": "TR",
-         "prof": "Jess J. Olson",
+         "prof": "Jess J Olson",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -1454,12 +1454,12 @@
       }
    },
    "Jewish Philosophy": {
-      "Early Kabbalah -- Jonathan V. Dauber": {
+      "Early Kabbalah -- Jonathan V Dauber": {
          "credits": 3,
          "crn": "35610",
          "crse": "1380",
          "day1": "TR",
-         "prof": "Jonathan V. Dauber",
+         "prof": "Jonathan V Dauber",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -1776,36 +1776,36 @@
       }
    },
    "Philosophy": {
-      "Ancient & Medieval Philosophy -- David R. Johnson": {
+      "Ancient & Medieval Philosophy -- David R Johnson": {
          "credits": 3,
          "crn": "34109",
          "crse": "2170H",
          "day1": "MW",
-         "prof": "David R. Johnson",
+         "prof": "David R Johnson",
          "time1finish": "8:00 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Ancient & Medieval Philosophy"
       },
-      "Logic -- David R. Johnson": {
+      "Logic -- David R Johnson": {
          "credits": 3,
          "crn": "35618",
          "crse": "1100",
          "day1": "MW",
-         "prof": "David R. Johnson",
+         "prof": "David R Johnson",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Logic"
       },
-      "Seminar: Paradoxes -- David R. Johnson": {
+      "Seminar: Paradoxes -- David R Johnson": {
          "credits": 3,
          "crn": "35671",
          "crse": "4931",
          "day1": "MW",
-         "prof": "David R. Johnson",
+         "prof": "David R Johnson",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -1839,7 +1839,7 @@
    },
    "Physical Education": {
       "Team Baseball -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33906",
          "crse": "1611",
          "day1": "TBA",
@@ -1851,7 +1851,7 @@
          "title": "Team Baseball"
       },
       "Team Basketball -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33904",
          "crse": "1426",
          "day1": "TBA",
@@ -1863,7 +1863,7 @@
          "title": "Team Basketball"
       },
       "Team Cross-Country -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33907",
          "crse": "2316",
          "day1": "TBA",
@@ -1875,7 +1875,7 @@
          "title": "Team Cross-Country"
       },
       "Team Fencing -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33908",
          "crse": "2466",
          "day1": "TBA",
@@ -1887,7 +1887,7 @@
          "title": "Team Fencing"
       },
       "Team Golf -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33956",
          "crse": "1120",
          "day1": "TBA",
@@ -1899,7 +1899,7 @@
          "title": "Team Golf"
       },
       "Team Soccer -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33905",
          "crse": "1511",
          "day1": "TBA",
@@ -1911,7 +1911,7 @@
          "title": "Team Soccer"
       },
       "Team Tennis -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33944",
          "crse": "1346",
          "day1": "TBA",
@@ -1923,7 +1923,7 @@
          "title": "Team Tennis"
       },
       "Team Volleyball -- 08/29-01/11": {
-         "credits": 0.5,
+         "credits": 05,
          "crn": "33945",
          "crse": "1326",
          "day1": "TBA",
@@ -1960,12 +1960,12 @@
          "time2start": "",
          "title": "General Physics I-Recitation"
       },
-      "General Physics III -- Sergey V. Buldyrev": {
+      "General Physics III -- Sergey V Buldyrev": {
          "credits": 4,
          "crn": "34088",
          "crse": "2051R",
          "day1": "MW",
-         "prof": "Sergey V. Buldyrev",
+         "prof": "Sergey V Buldyrev",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -1984,12 +1984,12 @@
          "time2start": "",
          "title": "General Physics III Lab"
       },
-      "General Physics III-Recitation -- Sergey V. Buldyrev": {
+      "General Physics III-Recitation -- Sergey V Buldyrev": {
          "credits": 0,
          "crn": "35678",
          "crse": "2051T",
          "day1": "W",
-         "prof": "Sergey V. Buldyrev",
+         "prof": "Sergey V Buldyrev",
          "time1finish": "6:40 PM",
          "time1start": "5:50 PM",
          "time2finish": "",
@@ -2056,12 +2056,12 @@
          "time2start": "",
          "title": "Intro Physics Lecture"
       },
-      "Intro to Quantum Mechanics -- Sergey V. Buldyrev": {
+      "Intro to Quantum Mechanics -- Sergey V Buldyrev": {
          "credits": 3,
          "crn": "33926",
          "crse": "1621",
          "day1": "MW",
-         "prof": "Sergey V. Buldyrev",
+         "prof": "Sergey V Buldyrev",
          "time1finish": "8:00 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -2118,12 +2118,12 @@
       }
    },
    "Political Science": {
-      "American Foreign Policy -- Maria N. Zaitseva": {
+      "American Foreign Policy -- Maria N Zaitseva": {
          "credits": 3,
          "crn": "35620",
          "crse": "1305H",
          "day1": "TR",
-         "prof": "Maria N. Zaitseva",
+         "prof": "Maria N Zaitseva",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -2142,7 +2142,7 @@
          "time2start": "",
          "title": "American Political Thought"
       },
-      "Fundamentals of Political Sci. -- Ruth Bevan": {
+      "Fundamentals of Political Sci -- Ruth Bevan": {
          "credits": 3,
          "crn": "33988",
          "crse": "1501",
@@ -2152,7 +2152,7 @@
          "time1start": "3:00 PM",
          "time2finish": "",
          "time2start": "",
-         "title": "Fundamentals of Political Sci."
+         "title": "Fundamentals of Political Sci"
       },
       "Intro American Public Policy -- Jamie Aroosi": {
          "credits": 3,
@@ -2214,17 +2214,17 @@
          "time2start": "",
          "title": "Research Methods"
       },
-      "Writing Politics:Dir. Research -- Maria N. Zaitseva": {
+      "Writing Politics:Dir Research -- Maria N Zaitseva": {
          "credits": 3,
          "crn": "35639",
          "crse": "2505",
          "day1": "TR",
-         "prof": "Maria N. Zaitseva",
+         "prof": "Maria N Zaitseva",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
          "time2start": "",
-         "title": "Writing Politics:Dir. Research"
+         "title": "Writing Politics:Dir Research"
       }
    },
    "Psychology": {
@@ -2252,24 +2252,24 @@
          "time2start": "",
          "title": "Cognitive Psychology"
       },
-      "Developmental I: Child -- Eliezer H. Schnall": {
+      "Developmental I: Child -- Eliezer H Schnall": {
          "credits": 3,
          "crn": "33896",
          "crse": "1110",
          "day1": "M",
-         "prof": "Eliezer H. Schnall",
+         "prof": "Eliezer H Schnall",
          "time1finish": "9:30 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Developmental I: Child"
       },
-      "Developmental II -- Stephen I. Glicksman": {
+      "Developmental II -- Stephen I Glicksman": {
          "credits": 3,
          "crn": "35626",
          "crse": "1130",
          "day1": "M",
-         "prof": "Stephen I. Glicksman",
+         "prof": "Stephen I Glicksman",
          "time1finish": "9:30 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -2301,24 +2301,24 @@
          "time2start": "6:00 PM",
          "title": "Experimental Psychology"
       },
-      "Industrial & Organization Psyc -- E. Hoffman": {
+      "Industrial & Organization Psyc -- E Hoffman": {
          "credits": 3,
          "crn": "34047",
          "crse": "3435",
          "day1": "T",
-         "prof": "E. Hoffman",
+         "prof": "E Hoffman",
          "time1finish": "9:30 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Industrial & Organization Psyc"
       },
-      "Introduction to Psychology -- Eliezer H. Schnall": {
+      "Introduction to Psychology -- Eliezer H Schnall": {
          "credits": 3,
          "crn": "33895",
          "crse": "1010",
          "day1": "MW",
-         "prof": "Eliezer H. Schnall",
+         "prof": "Eliezer H Schnall",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
@@ -2397,12 +2397,12 @@
          "time2start": "",
          "title": "Research in Psychology"
       },
-      "Social Psychology -- Eliezer H. Schnall": {
+      "Social Psychology -- Eliezer H Schnall": {
          "credits": 3,
          "crn": "33898",
          "crse": "3105",
          "day1": "MW",
-         "prof": "Eliezer H. Schnall",
+         "prof": "Eliezer H Schnall",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -2459,24 +2459,24 @@
          "time2start": "",
          "title": "Introduction to Sociology"
       },
-      "Religion and Society -- Jonathan J. Zisook": {
+      "Religion and Society -- Jonathan J Zisook": {
          "credits": 3,
          "crn": "35630",
          "crse": "2105",
          "day1": "F",
-         "prof": "Jonathan J. Zisook",
+         "prof": "Jonathan J Zisook",
          "time1finish": "12:00 PM",
          "time1start": "9:30 AM",
          "time2finish": "",
          "time2start": "",
          "title": "Religion and Society"
       },
-      "Social Psychology -- Eliezer H. Schnall": {
+      "Social Psychology -- Eliezer H Schnall": {
          "credits": 3,
          "crn": "34004",
          "crse": "2701",
          "day1": "MW",
-         "prof": "Eliezer H. Schnall",
+         "prof": "Eliezer H Schnall",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",

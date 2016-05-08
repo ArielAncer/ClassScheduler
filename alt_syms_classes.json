@@ -12,12 +12,12 @@
          "time2start": "",
          "title": "Accounting Principles I"
       },
-      "Accounting Principles I -- Constance J. Crawford": {
+      "Accounting Principles I -- Constance J Crawford": {
          "credits": 3,
          "crn": "33817",
          "crse": "1001",
          "day1": "MW",
-         "prof": "Constance J. Crawford",
+         "prof": "Constance J Crawford",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -60,24 +60,24 @@
          "time2start": "",
          "title": "Accounting Principles II"
       },
-      "Advanced Accounting -- Martin A. Leibowitz": {
+      "Advanced Accounting -- Martin A Leibowitz": {
          "credits": 3,
          "crn": "33798",
          "crse": "3201",
          "day1": "MW",
-         "prof": "Martin A. Leibowitz",
+         "prof": "Martin A Leibowitz",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Advanced Accounting"
       },
-      "Financial Statement Analysis -- Sidney J. Mehl": {
+      "Financial Statement Analysis -- Sidney J Mehl": {
          "credits": 3,
          "crn": "33816",
          "crse": "3851",
          "day1": "W",
-         "prof": "Sidney J. Mehl",
+         "prof": "Sidney J Mehl",
          "time1finish": "9:15 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -160,12 +160,12 @@
          "time2start": "",
          "title": "Business and Jewish Law"
       },
-      "Business as Human Enterprise -- Moses L. Pava": {
+      "Business as Human Enterprise -- Moses L Pava": {
          "credits": 3,
          "crn": "33851",
          "crse": "1800H",
          "day1": "W",
-         "prof": "Moses L. Pava",
+         "prof": "Moses L Pava",
          "time1finish": "8:00 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -210,24 +210,24 @@
          "time2start": "",
          "title": "Corporate Finance"
       },
-      "Financial Statement Analysis -- Sidney J. Mehl": {
+      "Financial Statement Analysis -- Sidney J Mehl": {
          "credits": 3,
          "crn": "33806",
          "crse": "3851",
          "day1": "W",
-         "prof": "Sidney J. Mehl",
+         "prof": "Sidney J Mehl",
          "time1finish": "9:15 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Financial Statement Analysis"
       },
-      "Fixed Income Securities -- S. Abraham Ravid": {
+      "Fixed Income Securities -- S Abraham Ravid": {
          "credits": 3,
          "crn": "33820",
          "crse": "3720",
          "day1": "M",
-         "prof": "S. Abraham Ravid",
+         "prof": "S Abraham Ravid",
          "time1finish": "9:15 PM",
          "time1start": "6:45 PM",
          "time2finish": "",
@@ -270,12 +270,12 @@
          "time2start": "",
          "title": "Principles of Finance"
       },
-      "Principles of Finance -- Sidney J. Mehl": {
+      "Principles of Finance -- Sidney J Mehl": {
          "credits": 3,
          "crn": "33802",
          "crse": "1001",
          "day1": "MW",
-         "prof": "Sidney J. Mehl",
+         "prof": "Sidney J Mehl",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -310,12 +310,12 @@
          "time2start": "",
          "title": "First Year Writing"
       },
-      "First Year Writing -- Timothy J. Berrigan": {
+      "First Year Writing -- Timothy J Berrigan": {
          "credits": 3,
          "crn": "33861",
          "crse": "1020",
          "day1": "TR",
-         "prof": "Timothy J. Berrigan",
+         "prof": "Timothy J Berrigan",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -324,17 +324,17 @@
       }
    },
    "Information & Decision Science": {
-      "Bus. Analytics & Programming -- Yitzchak S. Rosenthal": {
+      "Bus Analytics & Programming -- Yitzchak S Rosenthal": {
          "credits": 3,
          "crn": "33837",
          "crse": "2030",
          "day1": "MW",
-         "prof": "Yitzchak S. Rosenthal",
+         "prof": "Yitzchak S Rosenthal",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
          "time2start": "",
-         "title": "Bus. Analytics & Programming"
+         "title": "Bus Analytics & Programming"
       },
       "Business Algebra -- Avi Naiman": {
          "credits": 3,
@@ -348,12 +348,12 @@
          "time2start": "",
          "title": "Business Algebra"
       },
-      "Data Management-Bus Analytics -- Yitzchak S. Rosenthal": {
+      "Data Management-Bus Analytics -- Yitzchak S Rosenthal": {
          "credits": 3,
          "crn": "35689",
          "crse": "2460",
          "day1": "MW",
-         "prof": "Yitzchak S. Rosenthal",
+         "prof": "Yitzchak S Rosenthal",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -420,12 +420,12 @@
          "time2start": "",
          "title": "Quantitative Methods Managment"
       },
-      "Statistics for Business -- Avi H. Giloni": {
+      "Statistics for Business -- Avi H Giloni": {
          "credits": 3,
          "crn": "33833",
          "crse": "1131",
          "day1": "TR",
-         "prof": "Avi H. Giloni",
+         "prof": "Avi H Giloni",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -446,13 +446,13 @@
       }
    },
    "Jewish Values in Contemp Wrld": {
-      "Jewish Engagements -- Jacob J. Schacter": {
+      "Jewish Engagements -- Jacob J Schacter": {
          "credits": 2,
          "crn": "33863",
          "crse": "1001",
          "day1": "M",
          "day2": "R",
-         "prof": "Jacob J. Schacter",
+         "prof": "Jacob J Schacter",
          "time1finish": "8:00 PM",
          "time1start": "6:45 PM",
          "time2finish": "2:30 PM",
@@ -485,24 +485,24 @@
          "time2start": "",
          "title": "Entrepreneurial Leadership"
       },
-      "Leadership in Non-Profit World -- Richard M. Joel": {
+      "Leadership in Non-Profit World -- Richard M Joel": {
          "credits": 2,
          "crn": "35683",
          "crse": "4002",
          "day1": "W",
-         "prof": "Richard M. Joel",
+         "prof": "Richard M Joel",
          "time1finish": "6:10 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Leadership in Non-Profit World"
       },
-      "Management & Leadership -- Andrew M. Geller": {
+      "Management & Leadership -- Andrew M Geller": {
          "credits": 3,
          "crn": "33864",
          "crse": "3015",
          "day1": "MW",
-         "prof": "Andrew M. Geller",
+         "prof": "Andrew M Geller",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -521,24 +521,24 @@
          "time2start": "",
          "title": "Managing the Family Business"
       },
-      "Mangmnt in a Global Environmnt -- Andrew M. Geller": {
+      "Mangmnt in a Global Environmnt -- Andrew M Geller": {
          "credits": 3,
          "crn": "35681",
          "crse": "1020",
          "day1": "MW",
-         "prof": "Andrew M. Geller",
+         "prof": "Andrew M Geller",
          "time1finish": "4:15 PM",
          "time1start": "3:00 PM",
          "time2finish": "",
          "time2start": "",
          "title": "Mangmnt in a Global Environmnt"
       },
-      "Mangmnt in a Global Environmnt -- Steven M. Nissenfeld": {
+      "Mangmnt in a Global Environmnt -- Steven M Nissenfeld": {
          "credits": 3,
          "crn": "33812",
          "crse": "1020",
          "day1": "TR",
-         "prof": "Steven M. Nissenfeld",
+         "prof": "Steven M Nissenfeld",
          "time1finish": "5:45 PM",
          "time1start": "4:30 PM",
          "time2finish": "",
@@ -569,24 +569,24 @@
          "time2start": "",
          "title": "Sports Marketing Management"
       },
-      "Systematic Inventive Thinking -- Jonathan M. Stern": {
+      "Systematic Inventive Thinking -- Jonathan M Stern": {
          "credits": 3,
          "crn": "33842",
          "crse": "3504",
          "day1": " ",
-         "prof": "Jonathan M. Stern",
+         "prof": "Jonathan M Stern",
          "time1finish": "ERROR",
          "time1start": "TBA",
          "time2finish": "",
          "time2start": "",
          "title": "Systematic Inventive Thinking"
       },
-      "Turnaround Business Strategy -- Andrew M. Geller": {
+      "Turnaround Business Strategy -- Andrew M Geller": {
          "credits": 3,
          "crn": "35682",
          "crse": "2510H",
          "day1": "F",
-         "prof": "Andrew M. Geller",
+         "prof": "Andrew M Geller",
          "time1finish": "12:00 PM",
          "time1start": "9:30 AM",
          "time2finish": "",
@@ -631,7 +631,7 @@
          "time2start": "",
          "title": "Digital Media"
       },
-      "Managing Sales in Hi-Tech Co. -- TBA": {
+      "Managing Sales in Hi-Tech Co -- TBA": {
          "credits": 3,
          "crn": "35885",
          "crse": "3328",
@@ -641,7 +641,7 @@
          "time1start": "6:45 PM",
          "time2finish": "",
          "time2start": "",
-         "title": "Managing Sales in Hi-Tech Co."
+         "title": "Managing Sales in Hi-Tech Co"
       },
       "Principles of Marketing -- Frederick Palumbo": {
          "credits": 3,
@@ -679,12 +679,12 @@
          "time2start": "",
          "title": "Sports Marketing Management"
       },
-      "Systematic Inventive Thinking -- Jonathan M. Stern": {
+      "Systematic Inventive Thinking -- Jonathan M Stern": {
          "credits": 3,
          "crn": "33841",
          "crse": "3504",
          "day1": " ",
-         "prof": "Jonathan M. Stern",
+         "prof": "Jonathan M Stern",
          "time1finish": "ERROR",
          "time1start": "TBA",
          "time2finish": "",
