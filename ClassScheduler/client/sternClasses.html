@@ -1,0 +1,12 @@
+<template name="SternClasses">
+  <ul>
+    {{#each sternClasses}}
+      <p><h2>Course Title:</h2> {{title}}</p>
+      <p>Teacher: {{teacher}}</p>
+      <p>Time 1: {{time1start}}</p>
+      {{#if time2start}}
+        <p>Time 2: {{time2start}}</p>
+      {{/if}}
+    {{/each}}
+  </ul>
+</template>
