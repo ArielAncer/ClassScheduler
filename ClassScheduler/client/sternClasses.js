@@ -12,10 +12,7 @@ Template.SternClasses.helpers({
 
   'currentMoreInfo': function () {
     return Session.get('currentMoreInfo');
-  },
-      'slotA': function () {
-	  console.log("This works.");
-      }
+  }
 });
 
 Template.SternClasses.events({
@@ -27,18 +24,234 @@ Template.SternClasses.events({
   'click h5.title': function (e) {
     e.preventDefault();
 
-    Session.set('eventObject', this);
-    var eventObjectSession = Session.get('eventObject');
-    var eventObject = {
-      title: eventObjectSession.title,
-      start: '2016-05-10 ' + eventObjectSession.time1start,
-      end: '2016-05-10 ' + eventObjectSession.time1finish,
-      allDay: false
+    var time = this.time1start.split(":");
+    var startTime = time[0];
+
+    var day1 = this.day1.split("")[0];
+    var day2 = this.day1.split("")[1];
+
+    if (day1 == "M") {
+      if (startTime == "09") {
+        $('#09-mon').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-mon').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-mon').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-mon').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-mon').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-mon').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-mon').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-mon').html(this.title);
+      }
     }
-    console.log(eventObject)
 
-    CalEvents.insert(eventObject);
+    if (day1 == "T") {
+      if (startTime == "09") {
+        $('#09-tues').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-tues').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-tues').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-tues').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-tues').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-tues').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-tues').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-tues').html(this.title);
+      }
+    }
 
-    $('#calendar').fullCalendar('refetchEvents');
+    if (day1 == "W") {
+      if (startTime == "09") {
+        $('#09-wed').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-wed').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-wed').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-wed').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-wed').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-wed').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-wed').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-wed').html(this.title);
+      }
+    }
+
+    if (day1 == "R") {
+      if (startTime == "09") {
+        $('#09-thurs').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-thurs').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-thurs').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-thurs').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-thurs').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-thurs').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-thurs').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-thurs').html(this.title);
+      }
+    }
+
+    if (day1 == "F") {
+      $('#09-fri').html(this.title);
+    }
+
+    if (day2 == "M") {
+      if (startTime == "09") {
+        $('#09-mon').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-mon').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-mon').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-mon').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-mon').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-mon').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-mon').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-mon').html(this.title);
+      }
+    }
+
+    if (day2 == "T") {
+      if (startTime == "09") {
+        $('#09-tues').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-tues').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-tues').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-tues').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-tues').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-tues').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-tues').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-tues').html(this.title);
+      }
+    }
+
+    if (day2 == "W") {
+      if (startTime == "09") {
+        $('#09-wed').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-wed').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-wed').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-wed').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-wed').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-wed').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-wed').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-wed').html(this.title);
+      }
+    }
+
+    if (day2 == "R") {
+      if (startTime == "09") {
+        $('#09-thurs').html(this.title);
+      } 
+      else if (startTime == "10") {
+        $('#10-thurs').html(this.title);
+      }
+      else if (startTime == "11") {
+        $('#11-thurs').html(this.title);
+      }
+      else if (startTime == "01") {
+        $('#01-thurs').html(this.title);
+      }
+      else if (startTime == "03") {
+        $('#03-thurs').html(this.title);
+      }
+      else if (startTime == "04") {
+        $('#04-thurs').html(this.title);
+      }
+      else if (startTime == "06") {
+        $('#06-thurs').html(this.title);
+      }
+      else if (startTime == "07") {
+        $('#07-thurs').html(this.title);
+      }
+    }
+
+    if (day2 == "F") {
+      $('#09-fri').html(this.title);
+    }
   }
 });

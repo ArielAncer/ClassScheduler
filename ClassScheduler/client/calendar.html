@@ -1,73 +1,81 @@
 <template name="calendar">
-  <!--{{> fullcalendar options id="mycalendar"}}-->
-<body>
+  <table class="striped centered responsive">
+        <thead>
+          <tr>
+            <th>Times</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+          </tr>
+        </thead>
 
-<table style="width:100%">
-  <tr>
-    <td>Times</td>
-    <td>Monday</td>
-    <td>Tuesday</td>
-    <td>Wednesday</td>
-    <td>Thursday</td>
-    <td>Friday</td>
-  </tr>
-  <tr>
-    <td>9:00-10:15</td>
-    <td>{{slotA1}}</td>
-    <td>{{slotJ1}}</td>
-    <td>{{slotA2}}</td>
-    <td>{{slotJ2}}</td>
-  </tr>
-  <tr>
-    <td>10:25-11:40</td>
-    <td>{{slotB1}}</td>
-    <td>{{slotK1}}</td>
-    <td>{{slotB2}}</td>
-    <td>{{slotK2}}</td>
-  </tr>
-  <tr>
-    <td>11:55-1:10</td>
-    <td>{{slotC1}}</td>
-    <td>{{slotL1}}</td>
-    <td>{{slotC2}}</td>
-    <td>{{slotL2}}</td>
-  </tr>
-  <tr>
-    <td>1:25-2:55</td>
-    <td>{{slotD1}}</td>
-    <td>{{slotM1}}</td>
-    <td>{{slotD2}}</td>
-    <td>{{slotM2}}</td>
-  </tr>
-  <tr>
-    <td>3:10-4:25</td>
-    <td>{{slotE1}}</td>
-    <td>{{slotN1}}</td>
-    <td>{{slotE2}}</td>
-    <td>{{slotN2}}</td>
-  </tr>
-  <tr>
-    <td>4:40-5:55</td>
-    <td>{{slotF1}}</td>
-    <td>{{slotP1}}</td>
-    <td>{{slotF2}}</td>
-    <td>{{slotP2}}</td>
-  </tr>
-  <tr>
-    <td>6:05-7:20</td>
-    <td>{{slotG1}}</td>
-    <td>{{slotQ1}}</td>
-    <td>{{slotG2}}</td>
-    <td>{{slotQ2}}</td>
-  </tr>
-  <tr>
-    <td>7:25-8:40</td>
-    <td>{{slotH1}}</td>
-    <td>{{slotR1}}</td>
-    <td>{{slotH2}}</td>
-    <td>{{slotR2}}</td>
-  </tr>
-</table>
-
-</body>
+        <tbody>
+          <tr>
+            <td>9:00-10:15</td>
+            <td id="09-mon" class="bold"></td>
+            <td id="09-tues" class="bold"></td>
+            <td id="09-wed" class="bold"></td>
+            <td id="09-thurs" class="bold"></td>
+            <td id="09-fri" class="bold"></td>
+          </tr>
+          <tr>
+            <td>10:25-11:40</td>
+            <td id="10-mon" class="bold"></td>
+            <td id="10-tues" class="bold"></td>
+            <td id="10-wed" class="bold"></td>
+            <td id="10-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>11:55-1:10</td>
+            <td id="11-mon" class="bold"></td>
+            <td id="11-tues" class="bold"></td>
+            <td id="11-wed" class="bold"></td>
+            <td id="11-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>1:25-2:55</td>
+            <td id="01-mon" class="bold"></td>
+            <td id="01-tues" class="bold"></td>
+            <td id="01-wed" class="bold"></td>
+            <td id="01-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>3:10-4:25</td>
+            <td id="03-mon" class="bold"></td>
+            <td id="03-tues" class="bold"></td>
+            <td id="03-wed" class="bold"></td>
+            <td id="03-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>4:40-5:55</td>
+            <td id="04-mon" class="bold"></td>
+            <td id="04-tues" class="bold"></td>
+            <td id="04-wed" class="bold"></td>
+            <td id="04-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>6:05-7:20</td>
+            <td id="06-mon" class="bold"></td>
+            <td id="06-tues" class="bold"></td>
+            <td id="06-wed" class="bold"></td>
+            <td id="06-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+          <tr>
+            <td>7:25-8:40</td>
+            <td id="07-mon" class="bold"></td>
+            <td id="07-tues" class="bold"></td>
+            <td id="07-wed" class="bold"></td>
+            <td id="07-thurs" class="bold"></td>
+            <td class="bold"></td>
+          </tr>
+        </tbody>
+      </table>
 </template>
