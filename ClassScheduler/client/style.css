@@ -12,6 +12,10 @@ nav, h4 {
 
 }
 
+nav {
+	background-color: #296CD1;
+}
+
 .col.s12.m3.search {
 	margin-top: 40px;
 }
