@@ -1,23 +1,20 @@
-Template.calendar.rendered = function () {
+/*Template.calendar.rendered = function () {
   $(document).ready(function(){
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
-    $('.modal-trigger').leanModal();
+    //$('.modal-trigger').leanModal();
+    
   });
-};
+  };*/
 
 Template.calendar.helpers({
-  'calendar': function () {
-    return calendar.find({}).fetch();
-  },
-
-  'currentMoreInfo': function () {
-    return Session.get('currentMoreInfo');
+  'slotA': function () {
+      text: "Hello";
   }
 });
 
-Template.calendar.events({
-  'click a#more-info': function () {
-    Session.set('currentMoreInfo', this);
+/*Template.calendar.events({
+  'click a#add': function () {
+    Session.set('add', this);
     $('#modal1').openModal();
   },
 
@@ -38,4 +35,4 @@ Template.calendar.events({
 
     $('#calendar').fullCalendar('refetchEvents');
   }
-});
+  });*/

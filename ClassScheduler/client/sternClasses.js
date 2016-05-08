@@ -12,7 +12,10 @@ Template.SternClasses.helpers({
 
   'currentMoreInfo': function () {
     return Session.get('currentMoreInfo');
-  }
+  },
+      'slotA': function () {
+	  console.log("This works.");
+      }
 });
 
 Template.SternClasses.events({
