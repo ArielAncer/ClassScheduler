@@ -3,12 +3,13 @@ Template.calendar.rendered = function () {
   var events = [];
 
   for (var i = 0; i < eventsOrig.length; i++) {
-    events.push({
+    var x = {
       "title": eventsOrig[i].title,
       "start": eventsOrig[i].start,
       "end": eventsOrig[i].end,
       "allDay": false
-    })
+    }
+    events.push(x);
   }
   $('#calendar').fullCalendar({
     weekends: false,
