@@ -1,13 +1,13 @@
-Template.calendar.rendered = function () {
+Template.SternClasses.rendered = function () {
   $(document).ready(function(){
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
     $('.modal-trigger').leanModal();
   });
 };
 
-Template.calendar.helpers({
-  'calendar': function () {
-    return calendar.find({}).fetch();
+Template.SternClasses.helpers({
+  'sternClasses': function () {
+    return sternClasses.find({}).fetch();
   },
 
   'currentMoreInfo': function () {
@@ -15,7 +15,7 @@ Template.calendar.helpers({
   }
 });
 
-Template.calendar.events({
+Template.SternClasses.events({
   'click a#more-info': function () {
     Session.set('currentMoreInfo', this);
     $('#modal1').openModal();

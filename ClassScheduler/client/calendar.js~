@@ -1,0 +1,10 @@
+Template.calendar.helpers({
+	      'calendar': function () {
+		  return sternClasses.find({}).fetch();
+	      }//,
+
+		  //	      'slotA': function () {
+		  
+		  //}
+	  });
+

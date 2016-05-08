@@ -1,0 +1,15 @@
+<head>
+  <title>Scheduler</title>
+</head>
+
+<body>
+  {{> loginButtons}}
+  <div class="row">
+    <div class="col s12 m5">
+    {{> SternClasses}}
+    </div>
+    <div class="col s12 m7">
+
+    </div>
+  </div>
+</body>
