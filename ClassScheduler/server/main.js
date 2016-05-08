@@ -27,7 +27,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "3501",
         "title": "Israel Business Environment",
         "time2start": "",
@@ -39,7 +39,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1020",
         "title": "Mangmnt in a Global Environmnt",
         "time2start": "",
@@ -147,7 +147,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1107",
         "title": "Developmental Psyc: Life Span",
         "time2start": "",
@@ -171,7 +171,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2414",
         "title": "Abnormal Psychology",
         "time2start": "",
@@ -206,7 +206,7 @@ Meteor.startup(function () {
         "crn": "34520"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "3804",
         "title": "Psychobiology",
@@ -216,11 +216,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Amanda Mitchell",
         "crn": "34315",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2140",
         "title": "Learning",
         "time2start": "03:35 PM",
@@ -229,7 +229,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Rachel Ebner",
         "crn": "34519",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "10:30 AM",
@@ -269,7 +269,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1010H",
         "title": "Introductory Psychology",
         "time2start": "",
@@ -401,7 +401,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1020",
         "title": "Intro to Information Systems",
         "time2start": "",
@@ -412,8 +412,8 @@ Meteor.startup(function () {
         "crn": "35594"
     },
     {
-        "time1start": "4:45 PM",
-        "time1finish": "6:00 PM",
+        "time1start": "04:45 PM",
+        "time1finish": "06:00 PM",
         "crse": "3112",
         "title": "Phonetics",
         "time2start": "",
@@ -425,7 +425,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:25 PM",
+        "time1finish": "02:25 PM",
         "crse": "3940",
         "title": "Clinical Observation",
         "time2start": "",
@@ -449,7 +449,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "3034",
         "title": "Audiology II",
         "time2start": "",
@@ -461,7 +461,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "3001",
         "title": "Development of Language",
         "time2start": "03:35 PM",
@@ -470,10 +470,10 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Neva Goldstein",
         "crn": "34202",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "3024",
         "title": "Communication Disorders Adults",
@@ -483,7 +483,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Neva Goldstein",
         "crn": "34255",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "01:34 PM",
@@ -498,7 +498,7 @@ Meteor.startup(function () {
         "crn": "35529"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "1204",
         "title": "Jewish Ethics",
@@ -508,11 +508,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "David C. Shatz",
         "crn": "34200",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:55 PM",
+        "time1finish": "04:55 PM",
         "crse": "4932",
         "title": "Tps:Philo of Lubavitcher Rebbe",
         "time2start": "",
@@ -631,7 +631,7 @@ Meteor.startup(function () {
         "crn": "35511"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "3462",
         "title": "Chamber Ensemble",
@@ -656,7 +656,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "2111L",
         "title": "Elem Ear Train & Key",
         "time2start": "",
@@ -691,7 +691,7 @@ Meteor.startup(function () {
         "crn": "35552"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:30 PM",
         "crse": "3303",
         "title": "Choral Ensemble",
@@ -705,7 +705,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1111",
         "title": "Sense of Music",
         "time2start": "03:35 PM",
@@ -714,7 +714,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Stanley Dorn",
         "crn": "34229",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "09:00 AM",
@@ -742,7 +742,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1201",
         "title": "Intro to Comparative Politics",
         "time2start": "03:35 PM",
@@ -751,7 +751,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "TBA",
         "crn": "34240",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "09:00 AM",
@@ -778,8 +778,8 @@ Meteor.startup(function () {
         "crn": "35613"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "8:30 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "08:30 PM",
         "crse": "2497H",
         "title": "Topics: Bible & Amer Democracy",
         "time2start": "",
@@ -802,8 +802,8 @@ Meteor.startup(function () {
         "crn": "34396"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "8:30 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "08:30 PM",
         "crse": "2197",
         "title": "Tps:Essentials of US Legal Sys",
         "time2start": "",
@@ -827,7 +827,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2299",
         "title": "Topics: Culture & Politics",
         "time2start": "",
@@ -850,7 +850,7 @@ Meteor.startup(function () {
         "crn": "35564"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "2461",
         "title": "Probability Theory",
@@ -863,7 +863,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1412",
         "title": "Calculus I",
         "time2start": "",
@@ -909,11 +909,11 @@ Meteor.startup(function () {
         "credits": 4,
         "prof": "TBA",
         "crn": "34177",
-        "time2finish": "4:30 PM"
+        "time2finish": "04:30 PM"
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "2:35 PM",
+        "time1finish": "02:35 PM",
         "crse": "1412T",
         "title": "Calculus I Recitation",
         "time2start": "",
@@ -961,7 +961,7 @@ Meteor.startup(function () {
         "time2finish": "01:10 PM"
     },
     {
-        "time1start": "6:00 PM",
+        "time1start": "06:00 PM",
         "time1finish": "07:40 PM",
         "crse": "4936",
         "title": "Topics: Oncology",
@@ -973,7 +973,7 @@ Meteor.startup(function () {
         "crn": "35498"
     },
     {
-        "time1start": "8:40 AM",
+        "time1start": "08:40 AM",
         "time1finish": "10:20 AM",
         "crse": "1005Y",
         "title": "Human Biology Lab",
@@ -998,7 +998,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:50 PM",
+        "time1finish": "04:50 PM",
         "crse": "1005Y",
         "title": "Human Biology Lab",
         "time2start": "",
@@ -1022,7 +1022,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "4:15 PM",
+        "time1finish": "04:15 PM",
         "crse": "3207Y",
         "title": "Cell Biology Lab",
         "time2start": "",
@@ -1046,7 +1046,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:00 PM",
+        "time1finish": "04:00 PM",
         "crse": "3730H",
         "title": "Reproductive Biology",
         "time2start": "",
@@ -1081,8 +1081,8 @@ Meteor.startup(function () {
         "crn": "34345"
     },
     {
-        "time1start": "6:20 PM",
-        "time1finish": "8:00 PM",
+        "time1start": "06:20 PM",
+        "time1finish": "08:00 PM",
         "crse": "4930",
         "title": "Topics: Kinesiology",
         "time2start": "",
@@ -1094,7 +1094,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "3728Y",
         "title": "Human Physiology Lab",
         "time2start": "03:35 PM",
@@ -1103,11 +1103,11 @@ Meteor.startup(function () {
         "credits": 0,
         "prof": "Levy Sztark Amar",
         "crn": "34254",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1011C",
         "title": "Biology Principles",
         "time2start": "",
@@ -1143,7 +1143,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "3830R",
         "title": "Neurobiology",
         "time2start": "03:35 PM",
@@ -1152,11 +1152,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Amanda Mitchell",
         "crn": "34491",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "4:15 PM",
+        "time1finish": "04:15 PM",
         "crse": "3207Y",
         "title": "Cell Biology Lab",
         "time2start": "",
@@ -1168,7 +1168,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "3513C",
         "title": "Genetics",
         "time2start": "",
@@ -1180,7 +1180,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:55 PM",
+        "time1finish": "04:55 PM",
         "crse": "2730Y",
         "title": "Human Anatomy Laboratory",
         "time2start": "",
@@ -1216,7 +1216,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:30 PM",
-        "time1finish": "6:00 PM",
+        "time1finish": "06:00 PM",
         "crse": "3221",
         "title": "Nutrition",
         "time2start": "",
@@ -1252,7 +1252,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "4:15 PM",
+        "time1finish": "04:15 PM",
         "crse": "1011Y",
         "title": "Bio Principles Lab",
         "time2start": "",
@@ -1299,7 +1299,7 @@ Meteor.startup(function () {
         "crn": "34215"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "3728Y",
         "title": "Human Physiology Lab",
@@ -1309,7 +1309,7 @@ Meteor.startup(function () {
         "credits": 0,
         "prof": "Benjamin Lucas",
         "crn": "34244",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "09:00 AM",
@@ -1324,7 +1324,7 @@ Meteor.startup(function () {
         "crn": "35513"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "1010",
         "title": "Speech Communication",
@@ -1385,7 +1385,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "4:15 PM",
+        "time1finish": "04:15 PM",
         "crse": "3530",
         "title": "Fashion Accessories",
         "time2start": "",
@@ -1421,7 +1421,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "3501",
         "title": "Israel Business Environment",
         "time2start": "",
@@ -1456,8 +1456,8 @@ Meteor.startup(function () {
         "crn": "34441"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "8:30 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "08:30 PM",
         "crse": "3323",
         "title": "Creative Advertising",
         "time2start": "",
@@ -1468,7 +1468,7 @@ Meteor.startup(function () {
         "crn": "34431"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "07:10 PM",
         "crse": "3500",
         "title": "Fashion Fundamentals",
@@ -1480,8 +1480,8 @@ Meteor.startup(function () {
         "crn": "34385"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "8:30 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "08:30 PM",
         "crse": "3320",
         "title": "Digital Media",
         "time2start": "",
@@ -1505,7 +1505,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "3402",
         "title": "Philosophy of Law",
         "time2start": "03:35 PM",
@@ -1514,11 +1514,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "David C. Shatz",
         "crn": "34377",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2170",
         "title": "Ancient & Medieval Philosophy",
         "time2start": "",
@@ -1541,7 +1541,7 @@ Meteor.startup(function () {
         "crn": "34376"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "2532",
         "title": "Philosophy of Art",
@@ -1551,7 +1551,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Herb Leventer",
         "crn": "35533",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "10:30 AM",
@@ -1566,7 +1566,7 @@ Meteor.startup(function () {
         "crn": "35502"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "1486",
         "title": "Holocaust and Rescue",
@@ -1576,11 +1576,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Mordecai Paldiel",
         "crn": "34260",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1807",
         "title": "Topics: History of Jerusalem",
         "time2start": "",
@@ -1592,7 +1592,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:55 PM",
+        "time1finish": "04:55 PM",
         "crse": "1329H",
         "title": "History of Halakhah",
         "time2start": "",
@@ -1604,7 +1604,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1415",
         "title": "History of Zionism",
         "time2start": "03:35 PM",
@@ -1613,7 +1613,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Mordecai Paldiel",
         "crn": "34278",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "11:43 AM",
@@ -1629,7 +1629,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1021",
         "title": "Intro to Statistics",
         "time2start": "",
@@ -1641,7 +1641,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "05:15 PM",
-        "time1finish": "6:30 PM",
+        "time1finish": "06:30 PM",
         "crse": "1021",
         "title": "Intro to Statistics",
         "time2start": "05:15 PM",
@@ -1650,7 +1650,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Jeffrey Glenn Portnoy",
         "crn": "34334",
-        "time2finish": "6:30 PM"
+        "time2finish": "06:30 PM"
     },
     {
         "time1start": "01:45 PM",
@@ -1666,7 +1666,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1300C",
         "title": "Intro to Computer Science",
         "time2start": "05:00 PM",
@@ -1700,11 +1700,11 @@ Meteor.startup(function () {
         "credits": 4,
         "prof": "Alan J. Broder",
         "crn": "34365",
-        "time2finish": "2:15 PM"
+        "time2finish": "02:15 PM"
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2115C",
         "title": "Computer Systems",
         "time2start": "05:00 PM",
@@ -1813,8 +1813,8 @@ Meteor.startup(function () {
         "crn": "35517"
     },
     {
-        "time1start": "4:40 PM",
-        "time1finish": "6:20 PM",
+        "time1start": "04:40 PM",
+        "time1finish": "06:20 PM",
         "crse": "1443A",
         "title": "Jewish Laws & Cust: Family Law",
         "time2start": "",
@@ -1826,7 +1826,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1449",
         "title": "Laws & Customs:Marriage",
         "time2start": "03:35 PM",
@@ -1835,7 +1835,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Shlomo Hochberg",
         "crn": "34187",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "10:30 AM",
@@ -1850,8 +1850,8 @@ Meteor.startup(function () {
         "crn": "34290"
     },
     {
-        "time1start": "6:20 PM",
-        "time1finish": "8:00 PM",
+        "time1start": "06:20 PM",
+        "time1finish": "08:00 PM",
         "crse": "1852",
         "title": "Selected Rabbinic Literature",
         "time2start": "",
@@ -1887,7 +1887,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:50 PM",
+        "time1finish": "04:50 PM",
         "crse": "1486H",
         "title": "Daily Life: Laws of Blessings",
         "time2start": "",
@@ -1923,7 +1923,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1574",
         "title": "The Individual in Society",
         "time2start": "01:25 PM",
@@ -1932,7 +1932,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Saul J. Berman",
         "crn": "35521",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "10:30 AM",
@@ -1948,7 +1948,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1457",
         "title": "The Sabbath",
         "time2start": "",
@@ -1984,7 +1984,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1403",
         "title": "Basic Jewish Concepts",
         "time2start": "01:25 PM",
@@ -1993,14 +1993,14 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "David A. Pahmer",
         "crn": "34406",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "09:00 AM",
         "time1finish": "10:15 AM",
         "crse": "1845H",
         "title": "Advanced Talmud",
-        "time2start": "8:40 AM",
+        "time2start": "08:40 AM",
         "day2": "TR",
         "day1": "MW",
         "credits": 5,
@@ -2130,7 +2130,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:30 PM",
-        "time1finish": "6:00 PM",
+        "time1finish": "06:00 PM",
         "crse": "3221",
         "title": "Nutrition",
         "time2start": "",
@@ -2250,7 +2250,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "2121",
         "title": "Judges",
         "time2start": "",
@@ -2334,7 +2334,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2116",
         "title": "Book of Joshua",
         "time2start": "03:35 PM",
@@ -2343,7 +2343,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Ronit Gross",
         "crn": "34422",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "11:55 AM",
@@ -2383,7 +2383,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2653",
         "title": "Later Prophets: Yonah",
         "time2start": "",
@@ -2407,7 +2407,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:15 PM",
+        "time1finish": "02:15 PM",
         "crse": "1609",
         "title": "Book of Deuteronomy",
         "time2start": "",
@@ -2419,7 +2419,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "3807",
         "title": "Daniel",
         "time2start": "03:35 PM",
@@ -2428,10 +2428,10 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Michelle J. Levine",
         "crn": "35560",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "2149",
         "title": "Samuel I, Part II",
@@ -2468,7 +2468,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "3257",
         "title": "Proverbs",
         "time2start": "",
@@ -2479,8 +2479,8 @@ Meteor.startup(function () {
         "crn": "35558"
     },
     {
-        "time1start": "4:30 PM",
-        "time1finish": "6:10 PM",
+        "time1start": "04:30 PM",
+        "time1finish": "06:10 PM",
         "crse": "1214",
         "title": "Topics in Genesis",
         "time2start": "",
@@ -2528,7 +2528,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1221",
         "title": "Money and Banking",
         "time2start": "",
@@ -2564,7 +2564,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1421",
         "title": "Econometrics",
         "time2start": "",
@@ -2587,7 +2587,7 @@ Meteor.startup(function () {
         "crn": "34410"
     },
     {
-        "time1start": "8:00 AM",
+        "time1start": "08:00 AM",
         "time1finish": "11:00 AM",
         "crse": "3218",
         "title": "Jewish Educ Field Work/Seminar",
@@ -2600,7 +2600,7 @@ Meteor.startup(function () {
         "time2finish": "10:15 AM"
     },
     {
-        "time1start": "8:00 AM",
+        "time1start": "08:00 AM",
         "time1finish": "11:00 AM",
         "crse": "3216",
         "title": "Jewish Education Field Work",
@@ -2626,7 +2626,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "2007",
         "title": "Survey of American Lit II",
         "time2start": "",
@@ -2638,7 +2638,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "05:30 PM",
-        "time1finish": "8:00 PM",
+        "time1finish": "08:00 PM",
         "crse": "1503",
         "title": "Columns & Editorials",
         "time2start": "",
@@ -2674,7 +2674,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1802",
         "title": "Writing Creative Nonfiction",
         "time2start": "",
@@ -2685,7 +2685,7 @@ Meteor.startup(function () {
         "crn": "35174"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "2880H",
         "title": "Parents and Children",
@@ -2695,11 +2695,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Matthew Ward Miller",
         "crn": "35536",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2000",
         "title": "Ways of Reading",
         "time2start": "03:35 PM",
@@ -2708,7 +2708,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Matthew Ward Miller",
         "crn": "34279",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "01:45 PM",
@@ -2772,7 +2772,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1100",
         "title": "Composition and Rhetoric",
         "time2start": "",
@@ -2784,7 +2784,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1100",
         "title": "Composition and Rhetoric",
         "time2start": "",
@@ -2903,8 +2903,8 @@ Meteor.startup(function () {
         "crn": "35538"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "8:30 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "08:30 PM",
         "crse": "1600",
         "title": "Advertising Copywriting",
         "time2start": "",
@@ -2928,7 +2928,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1200H",
         "title": "Freshman Honors Seminar",
         "time2start": "",
@@ -2940,7 +2940,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2750",
         "title": "The Graphic Novel",
         "time2start": "03:35 PM",
@@ -2949,7 +2949,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Seamus O'Malley",
         "crn": "35535",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "TBA",
@@ -2964,7 +2964,7 @@ Meteor.startup(function () {
         "crn": "34337"
     },
     {
-        "time1start": "8:00 PM",
+        "time1start": "08:00 PM",
         "time1finish": "10:00 PM",
         "crse": "1424",
         "title": "Team Basketball",
@@ -2988,7 +2988,7 @@ Meteor.startup(function () {
         "crn": "34259"
     },
     {
-        "time1start": "8:00 PM",
+        "time1start": "08:00 PM",
         "time1finish": "10:00 PM",
         "crse": "1324A",
         "title": "Team Volleyball",
@@ -3000,7 +3000,7 @@ Meteor.startup(function () {
         "crn": "34250"
     },
     {
-        "time1start": "8:00 PM",
+        "time1start": "08:00 PM",
         "time1finish": "10:00 PM",
         "crse": "1346",
         "title": "Team Tennis",
@@ -3025,7 +3025,7 @@ Meteor.startup(function () {
         "time2finish": "01:00 PM"
     },
     {
-        "time1start": "8:00 PM",
+        "time1start": "08:00 PM",
         "time1finish": "10:00 PM",
         "crse": "1511",
         "title": "Team Soccer",
@@ -3037,7 +3037,7 @@ Meteor.startup(function () {
         "crn": "34237"
     },
     {
-        "time1start": "8:00 PM",
+        "time1start": "08:00 PM",
         "time1finish": "10:00 PM",
         "crse": "1610",
         "title": "Team Softball",
@@ -3086,7 +3086,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:30 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1045Y",
         "title": "General Chemistry Lab",
         "time2start": "",
@@ -3097,7 +3097,7 @@ Meteor.startup(function () {
         "crn": "34197"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:30 PM",
         "crse": "1045T",
         "title": "General Chem Recitation",
@@ -3110,10 +3110,10 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "2:35 PM",
+        "time1finish": "02:35 PM",
         "crse": "1213Y",
         "title": "Organic Chemistry Lab",
-        "time2start": "2:45 PM",
+        "time2start": "02:45 PM",
         "day2": "T",
         "day1": "T",
         "credits": 0,
@@ -3160,7 +3160,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:30 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "1045Y",
         "title": "General Chemistry Lab",
         "time2start": "",
@@ -3183,7 +3183,7 @@ Meteor.startup(function () {
         "crn": "34257"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "07:25 PM",
         "crse": "1041Y",
         "title": "General Physics Lab",
@@ -3195,8 +3195,8 @@ Meteor.startup(function () {
         "crn": "34394"
     },
     {
-        "time1start": "6:00 PM",
-        "time1finish": "6:50 PM",
+        "time1start": "06:00 PM",
+        "time1finish": "06:50 PM",
         "crse": "1031T",
         "title": "Introductory Physics Rec",
         "time2start": "",
@@ -3219,7 +3219,7 @@ Meteor.startup(function () {
         "crn": "34386"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "07:25 PM",
         "crse": "1031Y",
         "title": "Introductory Physics Lab",
@@ -3257,7 +3257,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2111",
         "title": "Business Law I",
         "time2start": "",
@@ -3269,7 +3269,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "2021",
         "title": "Ethical & Legal Env Business",
         "time2start": "03:35 PM",
@@ -3278,10 +3278,10 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Robert Jay Greenberg",
         "crn": "34283",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
-        "time1start": "6:00 PM",
+        "time1start": "06:00 PM",
         "time1finish": "07:15 PM",
         "crse": "1800H",
         "title": "Business as Human Enterprise",
@@ -3294,7 +3294,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "2207",
         "title": "New Deal & Great Depression",
         "time2start": "",
@@ -3413,7 +3413,7 @@ Meteor.startup(function () {
         "crn": "34549"
     },
     {
-        "time1start": "2:45 PM",
+        "time1start": "02:45 PM",
         "time1finish": "03:30 PM",
         "crse": "4974",
         "title": "Pre-Senior Project",
@@ -3437,7 +3437,7 @@ Meteor.startup(function () {
         "crn": "34548"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "1750",
         "title": "Philosophy of Art",
@@ -3447,7 +3447,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Herb Leventer",
         "crn": "35505",
-        "time2finish": "6:15 PM"
+        "time2finish": "06:15 PM"
     },
     {
         "time1start": "01:45 PM",
@@ -3475,7 +3475,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:15 PM",
-        "time1finish": "4:30 PM",
+        "time1finish": "04:30 PM",
         "crse": "2301Y",
         "title": "Principles of Drawing Lab",
         "time2start": "",
@@ -3547,7 +3547,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:25 PM",
-        "time1finish": "2:40 PM",
+        "time1finish": "02:40 PM",
         "crse": "1051",
         "title": "History of Art I",
         "time2start": "",
@@ -3570,7 +3570,7 @@ Meteor.startup(function () {
         "crn": "35506"
     },
     {
-        "time1start": "4:40 PM",
+        "time1start": "04:40 PM",
         "time1finish": "05:55 PM",
         "crse": "2831",
         "title": "Creativity",
@@ -3667,7 +3667,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1102",
         "title": "Elementary Hebrew II",
         "time2start": "01:25 PM",
@@ -3676,10 +3676,10 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Rivka Weiner",
         "crn": "34307",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
-        "time1start": "2:45 PM",
+        "time1start": "02:45 PM",
         "time1finish": "03:30 PM",
         "crse": "1233",
         "title": "Advanced Hebrew Conversation",
@@ -3692,7 +3692,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "03:10 PM",
-        "time1finish": "4:25 PM",
+        "time1finish": "04:25 PM",
         "crse": "1106",
         "title": "Intermediate Hebrew II",
         "time2start": "03:35 PM",
@@ -3701,7 +3701,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Rivka Weiner",
         "crn": "34262",
-        "time2finish": "4:50 PM"
+        "time2finish": "04:50 PM"
     },
     {
         "time1start": "09:00 AM",
@@ -3720,20 +3720,20 @@ Meteor.startup(function () {
         "time1finish": "11:40 AM",
         "crse": "1104",
         "title": "Lower Intermediate Hebrew II",
-        "time2start": "6:00 PM",
+        "time2start": "06:00 PM",
         "day2": "T",
         "day1": "MW",
         "credits": 3,
         "prof": "TBA",
         "crn": "34258",
-        "time2finish": "6:50 PM"
+        "time2finish": "06:50 PM"
     },
     {
         "time1start": "11:55 AM",
         "time1finish": "01:10 PM",
         "crse": "1101",
         "title": "Elementary Hebrew I",
-        "time2start": "4:40 PM",
+        "time2start": "04:40 PM",
         "day2": "TR",
         "day1": "MW",
         "credits": 3,
@@ -3755,7 +3755,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "2669",
         "title": "Hebrew Short Story of 20th Cen",
         "time2start": "01:25 PM",
@@ -3764,11 +3764,11 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Zafrira Lidovsky Cohen",
         "crn": "35509",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1103",
         "title": "Lower Intermediate Hebrew I",
         "time2start": "01:25 PM",
@@ -3777,7 +3777,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "TBA",
         "crn": "34304",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "09:00 AM",
@@ -3793,7 +3793,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1106",
         "title": "Intermediate Hebrew II",
         "time2start": "01:25 PM",
@@ -3802,7 +3802,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Hilla Goldwicht",
         "crn": "34264",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "11:55 AM",
@@ -3821,7 +3821,7 @@ Meteor.startup(function () {
         "time1finish": "01:10 PM",
         "crse": "1104",
         "title": "Lower Intermediate Hebrew II",
-        "time2start": "4:40 PM",
+        "time2start": "04:40 PM",
         "day2": "T",
         "day1": "MW",
         "credits": 3,
@@ -3855,7 +3855,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:40 PM",
-        "time1finish": "2:55 PM",
+        "time1finish": "02:55 PM",
         "crse": "1107",
         "title": "Intermediate Hebrew III",
         "time2start": "01:25 PM",
@@ -3864,7 +3864,7 @@ Meteor.startup(function () {
         "credits": 3,
         "prof": "Osnat Bishko",
         "crn": "34265",
-        "time2finish": "2:40 PM"
+        "time2finish": "02:40 PM"
     },
     {
         "time1start": "10:25 AM",
@@ -3976,7 +3976,7 @@ Meteor.startup(function () {
     },
     {
         "time1start": "01:45 PM",
-        "time1finish": "4:15 PM",
+        "time1finish": "04:15 PM",
         "crse": "2930",
         "title": "Senior Seminar: Elem Edu",
         "time2start": "",
@@ -3999,11 +3999,11 @@ Meteor.startup(function () {
         "crn": "34301"
     },
     {
-        "time1start": "8:00 AM",
-        "time1finish": "4:00 PM",
+        "time1start": "08:00 AM",
+        "time1finish": "04:00 PM",
         "crse": "2940",
         "title": "Student Teaching: Elem Educ",
-        "time2start": "8:00 AM",
+        "time2start": "08:00 AM",
         "day2": "F",
         "day1": "MWR",
         "credits": 6,
@@ -4012,11 +4012,11 @@ Meteor.startup(function () {
         "time2finish": "12:00 PM"
     },
     {
-        "time1start": "8:30 AM",
+        "time1start": "08:30 AM",
         "time1finish": "03:30 PM",
         "crse": "2945",
         "title": "EC Student Teaching",
-        "time2start": "8:30 AM",
+        "time2start": "08:30 AM",
         "day2": "F",
         "day1": "MTR",
         "credits": 6,
@@ -4033,8 +4033,8 @@ Meteor.startup(function () {
   if (symsMenClasses.find().count() === 0) {
     var symsMenClassesArray = [
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1012",
           "title": "Business Communication",
           "time2start": "",
@@ -4045,8 +4045,8 @@ Meteor.startup(function () {
           "crn": "33852"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1020",
           "title": "Mangmnt in a Global Environmnt",
           "time2start": "",
@@ -4057,8 +4057,8 @@ Meteor.startup(function () {
           "crn": "33812"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "3015",
           "title": "Management & Leadership",
           "time2start": "",
@@ -4069,8 +4069,8 @@ Meteor.startup(function () {
           "crn": "33864"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2941",
           "title": "Sports Marketing Management",
           "time2start": "",
@@ -4081,8 +4081,8 @@ Meteor.startup(function () {
           "crn": "33843"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:25 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:25 PM",
           "crse": "3788",
           "title": "Managing the Family Business",
           "time2start": "",
@@ -4093,8 +4093,8 @@ Meteor.startup(function () {
           "crn": "35692"
       },
       {
-          "time1start": "6:30 PM",
-          "time1finish": "9:00 PM",
+          "time1start": "06:30 PM",
+          "time1finish": "09:00 PM",
           "crse": "2800H",
           "title": "Entrepreneurial Leadership",
           "time2start": "",
@@ -4117,8 +4117,8 @@ Meteor.startup(function () {
           "crn": "33842"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "6:10 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "06:10 PM",
           "crse": "4002",
           "title": "Leadership in Non-Profit World",
           "time2start": "",
@@ -4129,7 +4129,7 @@ Meteor.startup(function () {
           "crn": "35683"
       },
       {
-          "time1start": "9:30 AM",
+          "time1start": "09:30 AM",
           "time1finish": "12:00 PM",
           "crse": "2510H",
           "title": "Turnaround Business Strategy",
@@ -4141,8 +4141,8 @@ Meteor.startup(function () {
           "crn": "35682"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1020",
           "title": "Mangmnt in a Global Environmnt",
           "time2start": "",
@@ -4153,8 +4153,8 @@ Meteor.startup(function () {
           "crn": "35681"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3780",
           "title": "Principles of Entrepreneurship",
           "time2start": "",
@@ -4177,8 +4177,8 @@ Meteor.startup(function () {
           "crn": "33815"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1408",
           "title": "Corporate Finance",
           "time2start": "",
@@ -4189,8 +4189,8 @@ Meteor.startup(function () {
           "crn": "33803"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3851",
           "title": "Financial Statement Analysis",
           "time2start": "",
@@ -4201,8 +4201,8 @@ Meteor.startup(function () {
           "crn": "33806"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1408",
           "title": "Corporate Finance",
           "time2start": "",
@@ -4213,8 +4213,8 @@ Meteor.startup(function () {
           "crn": "35674"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Principles of Finance",
           "time2start": "",
@@ -4225,8 +4225,8 @@ Meteor.startup(function () {
           "crn": "35673"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Principles of Finance",
           "time2start": "",
@@ -4237,8 +4237,8 @@ Meteor.startup(function () {
           "crn": "33802"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3510",
           "title": "Options and Futures",
           "time2start": "",
@@ -4249,8 +4249,8 @@ Meteor.startup(function () {
           "crn": "33844"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2505",
           "title": "Investment Analysis",
           "time2start": "",
@@ -4261,8 +4261,8 @@ Meteor.startup(function () {
           "crn": "33804"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3720",
           "title": "Fixed Income Securities",
           "time2start": "",
@@ -4273,8 +4273,8 @@ Meteor.startup(function () {
           "crn": "33820"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2621",
           "title": "Applied Research",
           "time2start": "",
@@ -4285,8 +4285,8 @@ Meteor.startup(function () {
           "crn": "33814"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "3318",
           "title": "Social Media Marketing",
           "time2start": "",
@@ -4297,8 +4297,8 @@ Meteor.startup(function () {
           "crn": "33838"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2941",
           "title": "Sports Marketing Management",
           "time2start": "",
@@ -4321,8 +4321,8 @@ Meteor.startup(function () {
           "crn": "33841"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Principles of Marketing",
           "time2start": "",
@@ -4333,8 +4333,8 @@ Meteor.startup(function () {
           "crn": "35684"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3320",
           "title": "Digital Media",
           "time2start": "",
@@ -4345,8 +4345,8 @@ Meteor.startup(function () {
           "crn": "35686"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2501",
           "title": "Buyer Behavior",
           "time2start": "",
@@ -4357,8 +4357,8 @@ Meteor.startup(function () {
           "crn": "35685"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3328",
           "title": "Managing Sales in Hi-Tech Co",
           "time2start": "",
@@ -4369,8 +4369,8 @@ Meteor.startup(function () {
           "crn": "35885"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1601H",
           "title": "Operations Management",
           "time2start": "",
@@ -4381,8 +4381,8 @@ Meteor.startup(function () {
           "crn": "35687"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "2160",
           "title": "Decision Models",
           "time2start": "",
@@ -4393,8 +4393,8 @@ Meteor.startup(function () {
           "crn": "33849"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1131",
           "title": "Statistics for Business",
           "time2start": "",
@@ -4405,8 +4405,8 @@ Meteor.startup(function () {
           "crn": "33833"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1131",
           "title": "Statistics for Business",
           "time2start": "",
@@ -4417,8 +4417,8 @@ Meteor.startup(function () {
           "crn": "35680"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1456",
           "title": "Quantitative Methods Managment",
           "time2start": "",
@@ -4429,8 +4429,8 @@ Meteor.startup(function () {
           "crn": "33810"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Business Algebra",
           "time2start": "",
@@ -4441,8 +4441,8 @@ Meteor.startup(function () {
           "crn": "33840"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2030",
           "title": "Bus Analytics & Programming",
           "time2start": "",
@@ -4453,8 +4453,8 @@ Meteor.startup(function () {
           "crn": "33837"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2460",
           "title": "Data Management-Bus Analytics",
           "time2start": "",
@@ -4465,8 +4465,8 @@ Meteor.startup(function () {
           "crn": "35689"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1020",
           "title": "Intro to Information Systems",
           "time2start": "",
@@ -4477,8 +4477,8 @@ Meteor.startup(function () {
           "crn": "33809"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1020",
           "title": "Intro to Information Systems",
           "time2start": "",
@@ -4489,8 +4489,8 @@ Meteor.startup(function () {
           "crn": "35679"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "6124",
           "title": "Federal Income Taxation I",
           "time2start": "",
@@ -4501,8 +4501,8 @@ Meteor.startup(function () {
           "crn": "33824"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1020",
           "title": "First Year Writing",
           "time2start": "",
@@ -4513,8 +4513,8 @@ Meteor.startup(function () {
           "crn": "33858"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1020",
           "title": "First Year Writing",
           "time2start": "",
@@ -4525,8 +4525,8 @@ Meteor.startup(function () {
           "crn": "33861"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1101",
           "title": "Intermediate Accounting I",
           "time2start": "",
@@ -4537,8 +4537,8 @@ Meteor.startup(function () {
           "crn": "33796"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Accounting Principles I",
           "time2start": "",
@@ -4549,8 +4549,8 @@ Meteor.startup(function () {
           "crn": "33817"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1002",
           "title": "Accounting Principles II",
           "time2start": "",
@@ -4561,8 +4561,8 @@ Meteor.startup(function () {
           "crn": "33821"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "2403",
           "title": "Management Accounting",
           "time2start": "",
@@ -4573,8 +4573,8 @@ Meteor.startup(function () {
           "crn": "33797"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "3201",
           "title": "Advanced Accounting",
           "time2start": "",
@@ -4585,8 +4585,8 @@ Meteor.startup(function () {
           "crn": "33798"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1001",
           "title": "Accounting Principles I",
           "time2start": "",
@@ -4597,8 +4597,8 @@ Meteor.startup(function () {
           "crn": "33794"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3851",
           "title": "Financial Statement Analysis",
           "time2start": "",
@@ -4609,8 +4609,8 @@ Meteor.startup(function () {
           "crn": "33816"
       },
       {
-          "time1start": "1:30 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:30 PM",
+          "time1finish": "02:45 PM",
           "crse": "1001",
           "title": "Accounting Principles I",
           "time2start": "",
@@ -4621,8 +4621,8 @@ Meteor.startup(function () {
           "crn": "33793"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1001",
           "title": "Accounting Principles I",
           "time2start": "",
@@ -4633,21 +4633,21 @@ Meteor.startup(function () {
           "crn": "35635"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1001",
           "title": "Jewish Engagements",
-          "time2start": "1:30 PM",
+          "time2start": "01:30 PM",
           "day2": "R",
           "day1": "M",
           "credits": 2,
           "prof": "Jacob J Schacter",
           "crn": "33863",
-          "time2finish": "2:30 PM"
+          "time2finish": "02:30 PM"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1002",
           "title": "Jewish Values in Contemp Wrld",
           "time2start": "",
@@ -4658,8 +4658,8 @@ Meteor.startup(function () {
           "crn": "35691"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2021",
           "title": "Ethical & Legal Env Business",
           "time2start": "",
@@ -4670,8 +4670,8 @@ Meteor.startup(function () {
           "crn": "35661"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1800H",
           "title": "Business as Human Enterprise",
           "time2start": "",
@@ -4682,8 +4682,8 @@ Meteor.startup(function () {
           "crn": "33851"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2111",
           "title": "Business Law I",
           "time2start": "",
@@ -4694,8 +4694,8 @@ Meteor.startup(function () {
           "crn": "33801"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2500",
           "title": "Business and Jewish Law",
           "time2start": "",
@@ -4706,8 +4706,8 @@ Meteor.startup(function () {
           "crn": "33822"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2500",
           "title": "Business and Jewish Law",
           "time2start": "",
@@ -4727,8 +4727,8 @@ Meteor.startup(function () {
   if (ycClasses.find().count() === 0 ) {
     var ycClassesArray = [
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2701",
           "title": "Social Psychology",
           "time2start": "",
@@ -4739,8 +4739,8 @@ Meteor.startup(function () {
           "crn": "34004"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2407",
           "title": "Epidemiology",
           "time2start": "",
@@ -4751,8 +4751,8 @@ Meteor.startup(function () {
           "crn": "35632"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1001",
           "title": "Introduction to Sociology",
           "time2start": "",
@@ -4763,8 +4763,8 @@ Meteor.startup(function () {
           "crn": "33900"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3003",
           "title": "Social Research Methods",
           "time2start": "",
@@ -4775,7 +4775,7 @@ Meteor.startup(function () {
           "crn": "34003"
       },
       {
-          "time1start": "9:30 AM",
+          "time1start": "09:30 AM",
           "time1finish": "12:00 PM",
           "crse": "2105",
           "title": "Religion and Society",
@@ -4787,8 +4787,8 @@ Meteor.startup(function () {
           "crn": "35630"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "2306H",
           "title": "Sociology of Race and Racism",
           "time2start": "",
@@ -4799,8 +4799,8 @@ Meteor.startup(function () {
           "crn": "35629"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "3804",
           "title": "Psychobiology",
           "time2start": "",
@@ -4811,8 +4811,8 @@ Meteor.startup(function () {
           "crn": "33899"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "3829H",
           "title": "Music and the Brain",
           "time2start": "",
@@ -4835,8 +4835,8 @@ Meteor.startup(function () {
           "crn": "33980"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2414",
           "title": "Abnormal Psychology",
           "time2start": "",
@@ -4847,8 +4847,8 @@ Meteor.startup(function () {
           "crn": "35998"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "3105",
           "title": "Social Psychology",
           "time2start": "",
@@ -4859,8 +4859,8 @@ Meteor.startup(function () {
           "crn": "33898"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "4933",
           "title": "Research Seminar",
           "time2start": "",
@@ -4871,8 +4871,8 @@ Meteor.startup(function () {
           "crn": "35842"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "3435",
           "title": "Industrial & Organization Psyc",
           "time2start": "",
@@ -4883,8 +4883,8 @@ Meteor.startup(function () {
           "crn": "34047"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "3440",
           "title": "Drugs & Behavior",
           "time2start": "",
@@ -4895,8 +4895,8 @@ Meteor.startup(function () {
           "crn": "35627"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "4930",
           "title": "Topics: Psychopharmacology",
           "time2start": "",
@@ -4907,8 +4907,8 @@ Meteor.startup(function () {
           "crn": "35628"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "1130",
           "title": "Developmental II",
           "time2start": "",
@@ -4919,8 +4919,8 @@ Meteor.startup(function () {
           "crn": "35626"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2150",
           "title": "Cognitive Psychology",
           "time2start": "",
@@ -4931,8 +4931,8 @@ Meteor.startup(function () {
           "crn": "34112"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1021",
           "title": "Statistics for Psychology",
           "time2start": "",
@@ -4943,8 +4943,8 @@ Meteor.startup(function () {
           "crn": "33968"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "1110",
           "title": "Developmental I: Child",
           "time2start": "",
@@ -4955,8 +4955,8 @@ Meteor.startup(function () {
           "crn": "33896"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1010",
           "title": "Introduction to Psychology",
           "time2start": "",
@@ -4967,8 +4967,8 @@ Meteor.startup(function () {
           "crn": "33895"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1010",
           "title": "Introduction to Psychology",
           "time2start": "",
@@ -4979,8 +4979,8 @@ Meteor.startup(function () {
           "crn": "35625"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3110H",
           "title": "Psychology and Public Opinion",
           "time2start": "",
@@ -4991,21 +4991,21 @@ Meteor.startup(function () {
           "crn": "35624"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2100C",
           "title": "Experimental Psychology",
-          "time2start": "6:00 PM",
+          "time2start": "06:00 PM",
           "day2": "R",
           "day1": "TR",
           "credits": 5,
           "prof": "Bruno Galantucci",
           "crn": "33897",
-          "time2finish": "7:45 PM"
+          "time2finish": "07:45 PM"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1380",
           "title": "Early Kabbalah",
           "time2start": "",
@@ -5028,8 +5028,8 @@ Meteor.startup(function () {
           "crn": "33909"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "2111L",
           "title": "Ear Training I",
           "time2start": "",
@@ -5040,8 +5040,8 @@ Meteor.startup(function () {
           "crn": "34019"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1829H",
           "title": "Music and the Brain",
           "time2start": "",
@@ -5052,8 +5052,8 @@ Meteor.startup(function () {
           "crn": "34074"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "3:50 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "03:50 PM",
           "crse": "2120",
           "title": "Introduction to Composition",
           "time2start": "",
@@ -5064,8 +5064,8 @@ Meteor.startup(function () {
           "crn": "34042"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1350",
           "title": "Baroque & Classical Music",
           "time2start": "",
@@ -5088,8 +5088,8 @@ Meteor.startup(function () {
           "crn": "33937"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1018",
           "title": "Aesthetic Revolutions",
           "time2start": "",
@@ -5112,8 +5112,8 @@ Meteor.startup(function () {
           "crn": "35617"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2111",
           "title": "Diatonic Harmony&Counterpoint",
           "time2start": "",
@@ -5136,8 +5136,8 @@ Meteor.startup(function () {
           "crn": "35616"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1014",
           "title": "American Musical Cultures",
           "time2start": "",
@@ -5148,8 +5148,8 @@ Meteor.startup(function () {
           "crn": "35669"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2113",
           "title": "Chromatic Harmony I",
           "time2start": "",
@@ -5160,8 +5160,8 @@ Meteor.startup(function () {
           "crn": "33934"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "2113L",
           "title": "Ear Training III",
           "time2start": "",
@@ -5172,8 +5172,8 @@ Meteor.startup(function () {
           "crn": "35670"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "3115H",
           "title": "Presidential Elections",
           "time2start": "",
@@ -5184,8 +5184,8 @@ Meteor.startup(function () {
           "crn": "35621"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2430",
           "title": "American Political Thought",
           "time2start": "",
@@ -5196,8 +5196,8 @@ Meteor.startup(function () {
           "crn": "35622"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3575",
           "title": "Research Methods",
           "time2start": "",
@@ -5208,8 +5208,8 @@ Meteor.startup(function () {
           "crn": "35843"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1101",
           "title": "Intro to American Politics",
           "time2start": "",
@@ -5220,8 +5220,8 @@ Meteor.startup(function () {
           "crn": "33981"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1501",
           "title": "Fundamentals of Political Sci",
           "time2start": "",
@@ -5232,8 +5232,8 @@ Meteor.startup(function () {
           "crn": "33988"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2505",
           "title": "Writing Politics:Dir Research",
           "time2start": "",
@@ -5244,8 +5244,8 @@ Meteor.startup(function () {
           "crn": "35639"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "2320",
           "title": "Politics and Global Markets",
           "time2start": "",
@@ -5256,8 +5256,8 @@ Meteor.startup(function () {
           "crn": "35623"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1305H",
           "title": "American Foreign Policy",
           "time2start": "",
@@ -5268,8 +5268,8 @@ Meteor.startup(function () {
           "crn": "35620"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1105",
           "title": "Intro American Public Policy",
           "time2start": "",
@@ -5280,8 +5280,8 @@ Meteor.startup(function () {
           "crn": "34094"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1020",
           "title": "First Year Writing",
           "time2start": "",
@@ -5292,8 +5292,8 @@ Meteor.startup(function () {
           "crn": "34117"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1020",
           "title": "First Year Writing:ESL",
           "time2start": "",
@@ -5304,8 +5304,8 @@ Meteor.startup(function () {
           "crn": "34076"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "7:35 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "07:35 PM",
           "crse": "1401",
           "title": "Problem Seminar I",
           "time2start": "",
@@ -5316,8 +5316,8 @@ Meteor.startup(function () {
           "crn": "33884"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1412",
           "title": "Calculus I",
           "time2start": "",
@@ -5328,8 +5328,8 @@ Meteor.startup(function () {
           "crn": "33886"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "1402",
           "title": "Problem Seminar II",
           "time2start": "",
@@ -5340,8 +5340,8 @@ Meteor.startup(function () {
           "crn": "33925"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2105",
           "title": "Linear Algebra",
           "time2start": "",
@@ -5352,8 +5352,8 @@ Meteor.startup(function () {
           "crn": "33942"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1413",
           "title": "Calculus II",
           "time2start": "",
@@ -5364,34 +5364,34 @@ Meteor.startup(function () {
           "crn": "33887"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1504C",
           "title": "Discrete Structures",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "R",
           "day1": "TR",
           "credits": 4,
           "prof": "Arnold Lebow",
           "crn": "33957",
-          "time2finish": "8:00 PM"
+          "time2finish": "08:00 PM"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "1160",
           "title": "Precalculus",
-          "time2start": "4:30 PM",
+          "time2start": "04:30 PM",
           "day2": "TR",
           "day1": "M",
           "credits": 4,
           "prof": "Donald Taylor-Bruce",
           "crn": "33882",
-          "time2finish": "5:45 PM"
+          "time2finish": "05:45 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2461",
           "title": "Probability Theory",
           "time2start": "",
@@ -5402,8 +5402,8 @@ Meteor.startup(function () {
           "crn": "33890"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "1403",
           "title": "Problem Seminar III",
           "time2start": "",
@@ -5414,8 +5414,8 @@ Meteor.startup(function () {
           "crn": "33885"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1520",
           "title": "Advanced Calculus I",
           "time2start": "",
@@ -5426,8 +5426,8 @@ Meteor.startup(function () {
           "crn": "33889"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1510",
           "title": "Multivariable Calculus",
           "time2start": "",
@@ -5438,8 +5438,8 @@ Meteor.startup(function () {
           "crn": "33888"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1021",
           "title": "Democratic Political Culture",
           "time2start": "",
@@ -5450,8 +5450,8 @@ Meteor.startup(function () {
           "crn": "34132"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1003H",
           "title": "The Monstrous",
           "time2start": "",
@@ -5462,7 +5462,7 @@ Meteor.startup(function () {
           "crn": "35647"
       },
       {
-          "time1start": "9:30 AM",
+          "time1start": "09:30 AM",
           "time1finish": "12:00 PM",
           "crse": "1026",
           "title": "History of the Alphabet",
@@ -5474,8 +5474,8 @@ Meteor.startup(function () {
           "crn": "35649"
       },
       {
-          "time1start": "1:30 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:30 PM",
+          "time1finish": "02:45 PM",
           "crse": "1009",
           "title": "France and its Others",
           "time2start": "",
@@ -5486,8 +5486,8 @@ Meteor.startup(function () {
           "crn": "35648"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1014",
           "title": "American Public Policy",
           "time2start": "",
@@ -5498,8 +5498,8 @@ Meteor.startup(function () {
           "crn": "35659"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "1016H",
           "title": "Sociology of Race and Racism",
           "time2start": "",
@@ -5510,8 +5510,8 @@ Meteor.startup(function () {
           "crn": "35660"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1006",
           "title": "Economics Efficiency & Justice",
           "time2start": "",
@@ -5522,8 +5522,8 @@ Meteor.startup(function () {
           "crn": "34050"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1007H",
           "title": "Psychology and Public Opinion",
           "time2start": "",
@@ -5546,8 +5546,8 @@ Meteor.startup(function () {
           "crn": "35585"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "2910",
           "title": "Art of the Actor",
           "time2start": "",
@@ -5558,8 +5558,8 @@ Meteor.startup(function () {
           "crn": "35698"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "4930",
           "title": "Topics: Psychopharmacology",
           "time2start": "",
@@ -5570,8 +5570,8 @@ Meteor.startup(function () {
           "crn": "35574"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "6:10 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "06:10 PM",
           "crse": "4023R",
           "title": "Microbiology",
           "time2start": "",
@@ -5582,11 +5582,11 @@ Meteor.startup(function () {
           "crn": "33921"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "3:50 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "03:50 PM",
           "crse": "3207C",
           "title": "Cell Biology",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "T",
           "day1": "TR",
           "credits": 4,
@@ -5595,8 +5595,8 @@ Meteor.startup(function () {
           "time2finish": "10:05 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1376R",
           "title": "Biochemistry Lecture",
           "time2start": "",
@@ -5607,7 +5607,7 @@ Meteor.startup(function () {
           "crn": "33874"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:05 PM",
           "crse": "1376L",
           "title": "Biochemistry Lab",
@@ -5619,7 +5619,7 @@ Meteor.startup(function () {
           "crn": "33873"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:05 PM",
           "crse": "1011L",
           "title": "Principles Lab",
@@ -5631,7 +5631,7 @@ Meteor.startup(function () {
           "crn": "33869"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:05 PM",
           "crse": "1011L",
           "title": "Principles Lab",
@@ -5643,7 +5643,7 @@ Meteor.startup(function () {
           "crn": "33870"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:05 PM",
           "crse": "4023L",
           "title": "Microbiology Lab",
@@ -5655,11 +5655,11 @@ Meteor.startup(function () {
           "crn": "33920"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "3:50 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "03:50 PM",
           "crse": "3513C",
           "title": "Genetics",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "W",
           "day1": "MW",
           "credits": 4,
@@ -5668,11 +5668,11 @@ Meteor.startup(function () {
           "time2finish": "10:05 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:40 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:40 PM",
           "crse": "3135C",
           "title": "Cell Structure & Function",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "T",
           "day1": "T",
           "credits": 4,
@@ -5693,8 +5693,8 @@ Meteor.startup(function () {
           "crn": "33978"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:25 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:25 PM",
           "crse": "4934H",
           "title": "Topics: Stem Cells",
           "time2start": "",
@@ -5705,8 +5705,8 @@ Meteor.startup(function () {
           "crn": "33977"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1011R",
           "title": "Principles Lectures",
           "time2start": "",
@@ -5717,11 +5717,11 @@ Meteor.startup(function () {
           "crn": "33872"
       },
       {
-          "time1start": "5:00 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:00 PM",
+          "time1finish": "06:40 PM",
           "crse": "3728C",
           "title": "Human & Animal Physiology",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "R",
           "day1": "R",
           "credits": 4,
@@ -5730,8 +5730,8 @@ Meteor.startup(function () {
           "time2finish": "10:05 PM"
       },
       {
-          "time1start": "1:30 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:30 PM",
+          "time1finish": "02:45 PM",
           "crse": "1201",
           "title": "Intermediate Spanish I",
           "time2start": "",
@@ -5742,8 +5742,8 @@ Meteor.startup(function () {
           "crn": "33903"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1101",
           "title": "Elementary Spanish I",
           "time2start": "",
@@ -5754,8 +5754,8 @@ Meteor.startup(function () {
           "crn": "33902"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1100",
           "title": "Logic",
           "time2start": "",
@@ -5766,8 +5766,8 @@ Meteor.startup(function () {
           "crn": "35618"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "2170H",
           "title": "Ancient & Medieval Philosophy",
           "time2start": "",
@@ -5778,8 +5778,8 @@ Meteor.startup(function () {
           "crn": "34109"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "4931",
           "title": "Seminar: Paradoxes",
           "time2start": "",
@@ -5790,8 +5790,8 @@ Meteor.startup(function () {
           "crn": "35671"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "4930",
           "title": "Topics: Kant",
           "time2start": "",
@@ -5802,8 +5802,8 @@ Meteor.startup(function () {
           "crn": "35619"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "4930H",
           "title": "Topics: Judaism and Democracy",
           "time2start": "",
@@ -5814,8 +5814,8 @@ Meteor.startup(function () {
           "crn": "34146"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1400",
           "title": "Modern Jewish History",
           "time2start": "",
@@ -5826,8 +5826,8 @@ Meteor.startup(function () {
           "crn": "35668"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2210H",
           "title": "Classical Intellectual JHI",
           "time2start": "",
@@ -5838,8 +5838,8 @@ Meteor.startup(function () {
           "crn": "35695"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1200",
           "title": "Classical Jewish History",
           "time2start": "",
@@ -5850,8 +5850,8 @@ Meteor.startup(function () {
           "crn": "33986"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2415",
           "title": "Modern Intellectual JHI",
           "time2start": "",
@@ -5862,8 +5862,8 @@ Meteor.startup(function () {
           "crn": "35694"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1300H",
           "title": "Medieval Jewish History",
           "time2start": "",
@@ -5874,8 +5874,8 @@ Meteor.startup(function () {
           "crn": "35611"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1400",
           "title": "Modern Jewish History",
           "time2start": "",
@@ -5886,8 +5886,8 @@ Meteor.startup(function () {
           "crn": "34006"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1101",
           "title": "Elementary French I",
           "time2start": "",
@@ -5898,8 +5898,8 @@ Meteor.startup(function () {
           "crn": "33881"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1201",
           "title": "Intermediate French I",
           "time2start": "",
@@ -5910,8 +5910,8 @@ Meteor.startup(function () {
           "crn": "34119"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1320C",
           "title": "Data Structures",
           "time2start": "",
@@ -5922,8 +5922,8 @@ Meteor.startup(function () {
           "crn": "33936"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "3780",
           "title": "Web Programming & Development",
           "time2start": "",
@@ -5934,8 +5934,8 @@ Meteor.startup(function () {
           "crn": "33931"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:15 PM",
           "crse": "1300L",
           "title": "Intro to Computer Science-Lab",
           "time2start": "",
@@ -5946,8 +5946,8 @@ Meteor.startup(function () {
           "crn": "34129"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1320L",
           "title": "Data Structures Lab",
           "time2start": "",
@@ -5958,21 +5958,21 @@ Meteor.startup(function () {
           "crn": "34030"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1504C",
           "title": "Discrete Structures",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "R",
           "day1": "TR",
           "credits": 4,
           "prof": "Arnold Lebow",
           "crn": "33943",
-          "time2finish": "8:00 PM"
+          "time2finish": "08:00 PM"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1621",
           "title": "Theory of Computation",
           "time2start": "",
@@ -5983,8 +5983,8 @@ Meteor.startup(function () {
           "crn": "35896"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1300C",
           "title": "Intro to Computer Science",
           "time2start": "",
@@ -5995,8 +5995,8 @@ Meteor.startup(function () {
           "crn": "33985"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "3610",
           "title": "Intro to Operating Systems",
           "time2start": "",
@@ -6007,7 +6007,7 @@ Meteor.startup(function () {
           "crn": "33922"
       },
       {
-          "time1start": "9:30 AM",
+          "time1start": "09:30 AM",
           "time1finish": "12:00 PM",
           "crse": "1110",
           "title": "The Imagination of Nature",
@@ -6019,8 +6019,8 @@ Meteor.startup(function () {
           "crn": "35697"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1010",
           "title": "Frontiers of Science",
           "time2start": "",
@@ -6031,8 +6031,8 @@ Meteor.startup(function () {
           "crn": "35696"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1220",
           "title": "Biblical Midrashim",
           "time2start": "",
@@ -6043,8 +6043,8 @@ Meteor.startup(function () {
           "crn": "33974"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2000H",
           "title": "Genesis",
           "time2start": "",
@@ -6055,8 +6055,8 @@ Meteor.startup(function () {
           "crn": "35571"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2020H",
           "title": "Exodus",
           "time2start": "",
@@ -6067,8 +6067,8 @@ Meteor.startup(function () {
           "crn": "35573"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2700",
           "title": "Psalms",
           "time2start": "",
@@ -6079,8 +6079,8 @@ Meteor.startup(function () {
           "crn": "34637"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2720",
           "title": "Proverbs",
           "time2start": "",
@@ -6091,8 +6091,8 @@ Meteor.startup(function () {
           "crn": "35569"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2800",
           "title": "Daniel",
           "time2start": "",
@@ -6103,8 +6103,8 @@ Meteor.startup(function () {
           "crn": "35572"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1000",
           "title": "Bible:Text, Context, Tradition",
           "time2start": "",
@@ -6115,8 +6115,8 @@ Meteor.startup(function () {
           "crn": "33970"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1000",
           "title": "Bible:Text, Context, Tradition",
           "time2start": "",
@@ -6127,8 +6127,8 @@ Meteor.startup(function () {
           "crn": "33971"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1000",
           "title": "Bible:Text, Context, Tradition",
           "time2start": "",
@@ -6139,8 +6139,8 @@ Meteor.startup(function () {
           "crn": "33973"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "2740",
           "title": "Job",
           "time2start": "",
@@ -6151,8 +6151,8 @@ Meteor.startup(function () {
           "crn": "33975"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1701",
           "title": "International Economics",
           "time2start": "",
@@ -6163,8 +6163,8 @@ Meteor.startup(function () {
           "crn": "35584"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "1421",
           "title": "Econometrics",
           "time2start": "",
@@ -6175,8 +6175,8 @@ Meteor.startup(function () {
           "crn": "33935"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1010",
           "title": "Principles of Economics",
           "time2start": "",
@@ -6187,8 +6187,8 @@ Meteor.startup(function () {
           "crn": "34082"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1221H",
           "title": "Money and Banking",
           "time2start": "",
@@ -6199,8 +6199,8 @@ Meteor.startup(function () {
           "crn": "35846"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1177",
           "title": "Game Theory",
           "time2start": "",
@@ -6211,8 +6211,8 @@ Meteor.startup(function () {
           "crn": "34002"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1201",
           "title": "Intermediate Macroeconomics",
           "time2start": "",
@@ -6223,8 +6223,8 @@ Meteor.startup(function () {
           "crn": "33923"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1014",
           "title": "American Musical Cultures",
           "time2start": "",
@@ -6235,8 +6235,8 @@ Meteor.startup(function () {
           "crn": "35644"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1020",
           "title": "Politics and Global Markets",
           "time2start": "",
@@ -6247,8 +6247,8 @@ Meteor.startup(function () {
           "crn": "35646"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1002",
           "title": "Diaspora Literature",
           "time2start": "",
@@ -6259,8 +6259,8 @@ Meteor.startup(function () {
           "crn": "34023"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1017",
           "title": "The Spanish Civil War",
           "time2start": "",
@@ -6271,7 +6271,7 @@ Meteor.startup(function () {
           "crn": "35645"
       },
       {
-          "time1start": "9:30 AM",
+          "time1start": "09:30 AM",
           "time1finish": "12:00 PM",
           "crse": "1025",
           "title": "Religion and Society",
@@ -6283,8 +6283,8 @@ Meteor.startup(function () {
           "crn": "35579"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "0010",
           "title": "ESL: Intro to College",
           "time2start": "",
@@ -6295,8 +6295,8 @@ Meteor.startup(function () {
           "crn": "33919"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "0013",
           "title": "Eng as Sec Lang III",
           "time2start": "",
@@ -6307,8 +6307,8 @@ Meteor.startup(function () {
           "crn": "33960"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "3065",
           "title": "Gender and Literature",
           "time2start": "",
@@ -6319,8 +6319,8 @@ Meteor.startup(function () {
           "crn": "35655"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "0011",
           "title": "Eng as Sec Lang I",
           "time2start": "",
@@ -6331,8 +6331,8 @@ Meteor.startup(function () {
           "crn": "33958"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1007",
           "title": "Fiction & Artistic Imagination",
           "time2start": "",
@@ -6343,8 +6343,8 @@ Meteor.startup(function () {
           "crn": "35654"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "0012",
           "title": "Eng as Sec Lang II",
           "time2start": "",
@@ -6355,8 +6355,8 @@ Meteor.startup(function () {
           "crn": "33959"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "2317",
           "title": "21st Century Chaucer",
           "time2start": "",
@@ -6367,8 +6367,8 @@ Meteor.startup(function () {
           "crn": "35657"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1003",
           "title": "Shakespeare and the Arts",
           "time2start": "",
@@ -6379,8 +6379,8 @@ Meteor.startup(function () {
           "crn": "35653"
       },
       {
-          "time1start": "8:15 PM",
-          "time1finish": "9:45 PM",
+          "time1start": "08:15 PM",
+          "time1finish": "09:45 PM",
           "crse": "4001",
           "title": "Senior Colloquium",
           "time2start": "",
@@ -6391,8 +6391,8 @@ Meteor.startup(function () {
           "crn": "33933"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2052",
           "title": "Realisms: Mimetic to Magical",
           "time2start": "",
@@ -6415,8 +6415,8 @@ Meteor.startup(function () {
           "crn": "35658"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1002",
           "title": "Diaspora Literature",
           "time2start": "",
@@ -6427,8 +6427,8 @@ Meteor.startup(function () {
           "crn": "35652"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1409",
           "title": "Writing the Essay",
           "time2start": "",
@@ -6439,7 +6439,7 @@ Meteor.startup(function () {
           "crn": "35656"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:05 PM",
           "crse": "1376L",
           "title": "Biochemistry Lab",
@@ -6463,33 +6463,33 @@ Meteor.startup(function () {
           "crn": "33979"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1045R",
           "title": "General Chemistry I Lec",
-          "time2start": "5:50 PM",
+          "time2start": "05:50 PM",
           "day2": "R",
           "day1": "TR",
           "credits": 3,
           "prof": "James Camara",
           "crn": "33878",
-          "time2finish": "6:40 PM"
+          "time2finish": "06:40 PM"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1213R",
           "title": "Organic Chemistry I Lec",
-          "time2start": "5:50 PM",
+          "time2start": "05:50 PM",
           "day2": "R",
           "day1": "TR",
           "credits": 3,
           "prof": "Fabiola Barrios-Landeros",
           "crn": "33879",
-          "time2finish": "6:40 PM"
+          "time2finish": "06:40 PM"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:45 PM",
           "crse": "1215L",
           "title": "Organic Chemistry Lab",
@@ -6501,7 +6501,7 @@ Meteor.startup(function () {
           "crn": "33961"
       },
       {
-          "time1start": "6:45 PM",
+          "time1start": "06:45 PM",
           "time1finish": "10:45 PM",
           "crse": "1215L",
           "title": "Organic Chemistry Lab",
@@ -6513,21 +6513,21 @@ Meteor.startup(function () {
           "crn": "33962"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1122H",
           "title": "Chemical Analysis",
-          "time2start": "6:45 PM",
+          "time2start": "06:45 PM",
           "day2": "W",
           "day1": "MW",
           "credits": 4,
           "prof": "Jianfeng Jiang",
           "crn": "34029",
-          "time2finish": "9:45 PM"
+          "time2finish": "09:45 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1376R",
           "title": "Biochemistry Lec",
           "time2start": "",
@@ -6538,8 +6538,8 @@ Meteor.startup(function () {
           "crn": "33928"
       },
       {
-          "time1start": "9:00 AM",
-          "time1finish": "1:00 PM",
+          "time1start": "09:00 AM",
+          "time1finish": "01:00 PM",
           "crse": "1215L",
           "title": "Organic Chemistry Lab",
           "time2start": "",
@@ -6550,21 +6550,21 @@ Meteor.startup(function () {
           "crn": "33963"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1415R",
           "title": "Physical Chemistry I",
-          "time2start": "6:50 PM",
+          "time2start": "06:50 PM",
           "day2": "M",
           "day1": "MW",
           "credits": 4,
           "prof": "Raji Viswanathan",
           "crn": "33932",
-          "time2finish": "7:40 PM"
+          "time2finish": "07:40 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1051R",
           "title": "General Physics I",
           "time2start": "",
@@ -6575,8 +6575,8 @@ Meteor.startup(function () {
           "crn": "34010"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "1051T",
           "title": "General Physics I-Recitation",
           "time2start": "",
@@ -6599,8 +6599,8 @@ Meteor.startup(function () {
           "crn": "34140"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:25 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:25 PM",
           "crse": "1031L",
           "title": "Intro Physics Lab",
           "time2start": "",
@@ -6611,8 +6611,8 @@ Meteor.startup(function () {
           "crn": "33982"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1031R",
           "title": "Intro Physics Lecture",
           "time2start": "",
@@ -6623,8 +6623,8 @@ Meteor.startup(function () {
           "crn": "33893"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2051R",
           "title": "General Physics III",
           "time2start": "",
@@ -6635,8 +6635,8 @@ Meteor.startup(function () {
           "crn": "34088"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1621",
           "title": "Intro to Quantum Mechanics",
           "time2start": "",
@@ -6647,8 +6647,8 @@ Meteor.startup(function () {
           "crn": "33926"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:45 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:45 PM",
           "crse": "2061L",
           "title": "General Physics III Lab",
           "time2start": "",
@@ -6660,7 +6660,7 @@ Meteor.startup(function () {
       },
       {
           "time1start": "11:00 AM",
-          "time1finish": "1:30 PM",
+          "time1finish": "01:30 PM",
           "crse": "1401",
           "title": "Intro to Solid State Physics",
           "time2start": "",
@@ -6671,8 +6671,8 @@ Meteor.startup(function () {
           "crn": "35676"
       },
       {
-          "time1start": "1:05 PM",
-          "time1finish": "2:45 PM",
+          "time1start": "01:05 PM",
+          "time1finish": "02:45 PM",
           "crse": "1031L",
           "title": "Intro Physics Lab",
           "time2start": "",
@@ -6683,8 +6683,8 @@ Meteor.startup(function () {
           "crn": "33964"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:15 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:15 PM",
           "crse": "1510H",
           "title": "Statistical Mechanics",
           "time2start": "",
@@ -6695,8 +6695,8 @@ Meteor.startup(function () {
           "crn": "35672"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "2051T",
           "title": "General Physics III-Recitation",
           "time2start": "",
@@ -6707,8 +6707,8 @@ Meteor.startup(function () {
           "crn": "35678"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:25 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:25 PM",
           "crse": "1031L",
           "title": "Intro Physics Lab",
           "time2start": "",
@@ -6719,8 +6719,8 @@ Meteor.startup(function () {
           "crn": "33892"
       },
       {
-          "time1start": "5:50 PM",
-          "time1finish": "6:40 PM",
+          "time1start": "05:50 PM",
+          "time1finish": "06:40 PM",
           "crse": "1031T",
           "title": "Intro Physics I - Recitation",
           "time2start": "",
@@ -6755,8 +6755,8 @@ Meteor.startup(function () {
           "crn": "35607"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1016",
           "title": "Culture of the Fin de Siecle",
           "time2start": "",
@@ -6767,8 +6767,8 @@ Meteor.startup(function () {
           "crn": "33994"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1007",
           "title": "Fiction & Artistic Imagination",
           "time2start": "",
@@ -6779,8 +6779,8 @@ Meteor.startup(function () {
           "crn": "35608"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1018",
           "title": "Aesthetic Revolutions",
           "time2start": "",
@@ -6803,8 +6803,8 @@ Meteor.startup(function () {
           "crn": "35688"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1003",
           "title": "Shakespeare and the Arts",
           "time2start": "",
@@ -6815,8 +6815,8 @@ Meteor.startup(function () {
           "crn": "35606"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "2604",
           "title": "Piracy & the Nation State",
           "time2start": "",
@@ -6827,8 +6827,8 @@ Meteor.startup(function () {
           "crn": "35605"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1105",
           "title": "His of the Ancient Near East",
           "time2start": "",
@@ -6839,8 +6839,8 @@ Meteor.startup(function () {
           "crn": "35602"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "2128",
           "title": "Democratic Political Culture",
           "time2start": "",
@@ -6851,8 +6851,8 @@ Meteor.startup(function () {
           "crn": "34137"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "2165",
           "title": "Europe since 1945",
           "time2start": "",
@@ -6875,8 +6875,8 @@ Meteor.startup(function () {
           "crn": "35666"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "2520",
           "title": "Atlantic World",
           "time2start": "",
@@ -6887,8 +6887,8 @@ Meteor.startup(function () {
           "crn": "35604"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "1831",
           "title": "Architectural Design Process",
           "time2start": "",
@@ -6899,8 +6899,8 @@ Meteor.startup(function () {
           "crn": "35643"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:35 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:35 PM",
           "crse": "2901",
           "title": "Printmaking",
           "time2start": "",
@@ -6911,7 +6911,7 @@ Meteor.startup(function () {
           "crn": "34028"
       },
       {
-          "time1start": "8:45 PM",
+          "time1start": "08:45 PM",
           "time1finish": "10:30 PM",
           "crse": "2301",
           "title": "Principles of Drawing",
@@ -6923,8 +6923,8 @@ Meteor.startup(function () {
           "crn": "33989"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "9:30 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "09:30 PM",
           "crse": "1635H",
           "title": "Evolution of the Skyscraper",
           "time2start": "",
@@ -6947,8 +6947,8 @@ Meteor.startup(function () {
           "crn": "35699"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1106",
           "title": "Intermediate Hebrew II",
           "time2start": "12:00 PM",
@@ -6960,8 +6960,8 @@ Meteor.startup(function () {
           "time2finish": "12:50 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1206",
           "title": "Upper Intermediate Hebrew II",
           "time2start": "",
@@ -6972,8 +6972,8 @@ Meteor.startup(function () {
           "crn": "34054"
       },
       {
-          "time1start": "6:45 PM",
-          "time1finish": "8:00 PM",
+          "time1start": "06:45 PM",
+          "time1finish": "08:00 PM",
           "crse": "1206",
           "title": "Upper Intermediate Hebrew II",
           "time2start": "",
@@ -6984,8 +6984,8 @@ Meteor.startup(function () {
           "crn": "35663"
       },
       {
-          "time1start": "1:35 PM",
-          "time1finish": "2:25 PM",
+          "time1start": "01:35 PM",
+          "time1finish": "02:25 PM",
           "crse": "1004",
           "title": "Elementary Biblical Hebrew II",
           "time2start": "",
@@ -6996,8 +6996,8 @@ Meteor.startup(function () {
           "crn": "33976"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1105",
           "title": "Intermediate Hebrew I",
           "time2start": "12:20 PM",
@@ -7006,11 +7006,11 @@ Meteor.startup(function () {
           "credits": 3,
           "prof": "Chaya Glaser",
           "crn": "34015",
-          "time2finish": "1:10 PM"
+          "time2finish": "01:10 PM"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1306H",
           "title": "Advanced Hebrew II",
           "time2start": "",
@@ -7021,30 +7021,30 @@ Meteor.startup(function () {
           "crn": "35664"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1006",
           "title": "Intermed Biblical Hebrew II",
-          "time2start": "5:50 PM",
+          "time2start": "05:50 PM",
           "day2": "T",
           "day1": "MW",
           "credits": 3,
           "prof": "Ezra H Frazer",
           "crn": "34014",
-          "time2finish": "6:40 PM"
+          "time2finish": "06:40 PM"
       },
       {
-          "time1start": "3:00 PM",
-          "time1finish": "4:15 PM",
+          "time1start": "03:00 PM",
+          "time1finish": "04:15 PM",
           "crse": "1005",
           "title": "Intermed Biblical Hebrew I",
-          "time2start": "5:50 PM",
+          "time2start": "05:50 PM",
           "day2": "T",
           "day1": "MW",
           "credits": 3,
           "prof": "Rachel Kra Schaum",
           "crn": "33952",
-          "time2finish": "6:40 PM"
+          "time2finish": "06:40 PM"
       },
       {
           "time1start": "TBA",
@@ -7083,8 +7083,8 @@ Meteor.startup(function () {
           "crn": "33918"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "5:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "05:45 PM",
           "crse": "1007",
           "title": "Epidemiology",
           "time2start": "",
@@ -7095,17 +7095,17 @@ Meteor.startup(function () {
           "crn": "35578"
       },
       {
-          "time1start": "4:30 PM",
-          "time1finish": "6:45 PM",
+          "time1start": "04:30 PM",
+          "time1finish": "06:45 PM",
           "crse": "1002",
           "title": "Analysis of Environmntl Toxins",
-          "time2start": "4:30 PM",
+          "time2start": "04:30 PM",
           "day2": "W",
           "day1": "M",
           "credits": 3,
           "prof": "Raji Viswanathan",
           "crn": "34007",
-          "time2finish": "5:45 PM"
+          "time2finish": "05:45 PM"
       }
     ];
 

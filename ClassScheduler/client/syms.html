@@ -1,17 +1,33 @@
 <template name="syms">
   {{> nav}}
   <div class="row">
+    <input class="col s12 m3 search" placeholder="search">
+  </div>
+  <div class="row">
     <div class="col s12 m3">
-      {{#each symsClasses}}
-        <h5 class="blue-text title">{{title}}</h5>
-        <h6 class="blue-text text-lighten-2">{{prof}}</h6>
-        <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
-        {{#if time2start}}
-          <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
-        {{/if}}
-        <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
-        <br>
-      {{/each}}
+      {{#if search}}
+        {{#each search}}
+          <h5 class="blue-text title">{{title}}</h5>
+          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
+          <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
+          {{#if time2start}}
+            <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
+          {{/if}}
+          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+          <br>
+        {{/each}}
+      {{else}}
+        {{#each symsClasses}}
+          <h5 class="blue-text title">{{title}}</h5>
+          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
+          <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
+          {{#if time2start}}
+            <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
+          {{/if}}
+          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+          <br>
+        {{/each}}
+      {{/if}}
 
       <div id="modal1" class="modal">
         <div class="modal-content">

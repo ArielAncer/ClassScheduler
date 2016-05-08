@@ -3,11 +3,17 @@ Template.syms.rendered = function () {
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
     $('.modal-trigger').leanModal();
   });
+
+  Session.set('currentSearch')
 };
 
 Template.syms.helpers({
   'symsClasses': function () {
     return symsMenClasses.find({}).fetch();
+  },
+
+  'search': function() {
+    return Session.get('currentSearch');
   },
 
   'currentMoreInfo': function () {
@@ -16,6 +22,14 @@ Template.syms.helpers({
 });
 
 Template.syms.events({
+  'keydown input.search' : function (event) {
+    if (event.which == 13) { // 13 is the enter key event
+      var searchTerm = $('input.search').val();
+      var search = symsMenClasses.find({title:{$regex:".*" + searchTerm + "*"}}).fetch();
+      Session.set('currentSearch', search);
+    }
+  },
+
   'click a#more-info': function () {
     Session.set('currentMoreInfo', this);
     $('#modal1').openModal();

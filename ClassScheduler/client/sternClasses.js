@@ -3,11 +3,17 @@ Template.SternClasses.rendered = function () {
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
     $('.modal-trigger').leanModal();
   });
+
+  Session.set('currentSearch')
 };
 
 Template.SternClasses.helpers({
   'sternClasses': function () {
     return sternClasses.find({}).fetch();
+  },
+
+  'search': function() {
+    return Session.get('currentSearch')
   },
 
   'currentMoreInfo': function () {
@@ -16,6 +22,14 @@ Template.SternClasses.helpers({
 });
 
 Template.SternClasses.events({
+  'keydown input.search' : function (event) {
+    if (event.which == 13) { // 13 is the enter key event
+      var searchTerm = $('input.search').val();
+      var search = sternClasses.find({title:{$regex:".*" + searchTerm + "*"}}).fetch();
+      Session.set('currentSearch', search);
+    }
+  },
+
   'click a#more-info': function () {
     Session.set('currentMoreInfo', this);
     $('#modal1').openModal();
@@ -34,7 +48,7 @@ Template.SternClasses.events({
     if (day1 == "M") {
       if (startTime == "09") {
         $('#09-mon').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-mon').html(this.title);
       }
@@ -61,7 +75,7 @@ Template.SternClasses.events({
     if (day1 == "T") {
       if (startTime == "09") {
         $('#09-tues').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-tues').html(this.title);
       }
@@ -88,7 +102,7 @@ Template.SternClasses.events({
     if (day1 == "W") {
       if (startTime == "09") {
         $('#09-wed').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-wed').html(this.title);
       }
@@ -115,7 +129,7 @@ Template.SternClasses.events({
     if (day1 == "R") {
       if (startTime == "09") {
         $('#09-thurs').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-thurs').html(this.title);
       }
@@ -146,7 +160,7 @@ Template.SternClasses.events({
     if (day2 == "M") {
       if (startTime == "09") {
         $('#09-mon').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-mon').html(this.title);
       }
@@ -173,7 +187,7 @@ Template.SternClasses.events({
     if (day2 == "T") {
       if (startTime == "09") {
         $('#09-tues').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-tues').html(this.title);
       }
@@ -200,7 +214,7 @@ Template.SternClasses.events({
     if (day2 == "W") {
       if (startTime == "09") {
         $('#09-wed').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-wed').html(this.title);
       }
@@ -227,7 +241,7 @@ Template.SternClasses.events({
     if (day2 == "R") {
       if (startTime == "09") {
         $('#09-thurs').html(this.title);
-      } 
+      }
       else if (startTime == "10") {
         $('#10-thurs').html(this.title);
       }
