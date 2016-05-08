@@ -23,5 +23,5 @@ materialize:materialize
 accounts-ui
 accounts-password
 session
-fullcalendar:fullcalendar
 momentjs:moment
+rzymek:fullcalendar
