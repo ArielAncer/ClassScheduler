@@ -12,7 +12,7 @@ Router.route('/', function () {
 
 Router.route('/stern', function () {
   Session.set('route', 'details');
-  this.render('SternClasses');
+  this.render('stern');
 });
 
 Router.route('/syms', function () {
