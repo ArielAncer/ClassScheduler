@@ -44,27 +44,37 @@ Template.tourowomen.events({
     // change cell class and attributes
     var startSlots = [];
     var endSlots = [];
-    for (var num in this.time) {
-      day = this.time[num].day;
-      start = this.time[num].start;
-      end = this.time[num].end;
-      var $startSlot = $('td.time-slot[data-day*="' + day + '"][data-time="' + start + '"]');
-      var $endSlot = $('td.time-slot[data-day*="' + day + '"][data-time="' + end + '"]');
-      var a = this.crn;
-      var b = $startSlot.data('crn');
-      if (isSlotSelected($startSlot) || isSlotSelected($endSlot)) { 
-        if (this.crn === "" + $startSlot.data('crn')) {
-          $startSlot.text('');
-          getSelection($startSlot, $endSlot).removeAttr('data-crn').removeAttr('data-selected');
-          $(event.target.parentNode).removeClass('deep-purple lighten-4');
+    var conflict = false;
+    var $startSlot = '', $endSlot = '';
+    for (var i in this.time) {
+      days = this.time[i].day;
+      start = this.time[i].start;
+      end = this.time[i].end;
+      for (var day in days) {
+        $startSlot = $('td.time-slot[data-day*="' + days[day] + '"][data-time="' + start + '"]');
+        $endSlot = $('td.time-slot[data-day*="' + days[day] + '"][data-time="' + end + '"]');
+        if (isSlotSelected($startSlot) || isSlotSelected($endSlot)) { 
+          if (this.crn === "" + $startSlot.data('crn')) {
+            $startSlot.text('');
+            getSelection($startSlot, $endSlot).removeAttr('data-crn').removeAttr('data-selected');
+            $(event.target.parentNode).removeClass('deep-purple lighten-4');
+          }
+          else {
+            // findIntersection(getSelection($startSlot, $endSlot), )
+            conflict = true; 
+            break;
+          }
         }
-        // else {
-        //   findIntersection(getSelection($startSlot, $endSlot), )
-        // }
+        else {
+          startSlots.push($startSlot);
+          endSlots.push($endSlot);
+        }
       }
-      else {
-        $startSlot.text(this.title);
-        getSelection($startSlot, $endSlot).attr('data-crn', this.crn).attr('data-selected', 'selected');
+    }
+    if (!conflict) {
+      for (slot in startSlots) {
+        startSlots[slot].text(this.title);
+        getSelection(startSlots[slot], endSlots[slot]).attr('data-crn', this.crn).attr('data-selected', 'selected');
         $(event.target.parentNode).addClass('deep-purple lighten-4');
       }
     }

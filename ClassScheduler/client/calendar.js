@@ -27,7 +27,6 @@
                     '</table>'                                  +
                   '<div>'
   };
-
   /**
    * Render the calendar UI
    * @public
