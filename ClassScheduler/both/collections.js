@@ -1,5 +1,8 @@
-sternClasses = new Meteor.Collection('sternclasses');
-symsMenClasses = new Meteor.Collection('symsmenclasses');
-ycClasses = new Meteor.Collection('ycclasses');
+sternClasses = new Mongo.Collection('sternclasses');
+symsMenClasses = new Mongo.Collection('symsmenclasses');
+ycClasses = new Mongo.Collection('ycclasses');
+touroMenClasses = new Mongo.Collection('touromenclasses');
+touroWomenClasses = new Mongo.Collection('tourowomenclasses');
 
-CalEvents = new Meteor.Collection('calevents');
+CalEvents = new Mongo.Collection('calevents');
+

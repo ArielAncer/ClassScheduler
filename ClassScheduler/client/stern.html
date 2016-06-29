@@ -5,30 +5,35 @@
   </div>
   <div class="row">
     <div class="col s12 m3">
-      {{#if search}}
-        {{#each search}}
-          <h5 class="blue-text title">{{title}}</h5>
-          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
-          <h6 class="blue-text text-darken-2">Day 1: {{day1}} {{time1start}} - {{time1finish}}</h6>
-          {{#if time2start}}
-            <h6 class="blue-text text-darken-2">Day 2: {{day2}} {{time2start}} - {{time2finish}}</h6>
-          {{/if}}
-          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
-          <br>
-        {{/each}}
-      {{else}}
-        {{#each sternClasses}}
-          <h5 class="blue-text title">{{title}}</h5>
-          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
-          <h6 class="blue-text text-darken-2">Day 1: {{day1}} {{time1start}} - {{time1finish}}</h6>
-          {{#if time2start}}
-            <h6 class="blue-text text-darken-2">Day 2: {{day2}} {{time2start}} - {{time2finish}}</h6>
-          {{/if}}
-          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
-          <br>
-        {{/each}}
-      {{/if}}
-
+      <div id="course-listing-schedule">
+        {{#if search}}
+          {{#each search}}
+            <div id="{{crn}}">
+              <h5 class="blue-text title" data-day="{{day1}}" data-time="{{time1start}}">{{title}}</h5>
+              <h6 class="blue-text text-lighten-2 prof">{{prof}}</h6>
+              <h6 class="blue-text text-darken-2 day1">{{day1}} {{time1start}} - {{time1finish}}</h6>
+              {{#if time2start}}
+                <h6 class="blue-text text-darken-2 day2">{{day2}} {{time2start}} - {{time2finish}}</h6>
+              {{/if}}
+              <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+            </div>
+            <br>
+          {{/each}}
+        {{else}}
+          {{#each sternClasses}}
+            <div id="{{crn}}">
+              <h5 class="blue-text title" >{{title}}</h5>
+              <h6 class="blue-text text-lighten-2 prof">{{prof}}</h6>
+              <h6 class="blue-text text-darken-2 day1">{{day1}} {{time1start}} - {{time1finish}}</h6>
+              {{#if time2start}}
+                <h6 class="blue-text text-darken-2 day2">{{day2}} {{time2start}} - {{time2finish}}</h6>
+              {{/if}}
+              <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+            </div>
+            <br>
+          {{/each}}
+        {{/if}}
+      </div>
       <div id="modal1" class="modal">
         <div class="modal-content">
           <p>Credits: {{currentMoreInfo.credits}}</p>
@@ -41,10 +46,8 @@
       </div>
     </div>
     <div class="col s12 m6 sternCalendar">
-      {{> sternCalendar}}
+      {{> calendar}}
     </div>
-    <div class="col s12 m3 offset-m6 classList">
-      {{> classList}}
-    </div>
+
   </div>
 </template>

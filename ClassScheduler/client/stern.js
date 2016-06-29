@@ -20,48 +20,67 @@ Template.stern.helpers({
     return Session.get('currentMoreInfo');
   }
 });
-
+function isSlotSelected($slot) { return $slot.is('[data-selected]'); }
 Template.stern.events({
   'keydown input.search' : function (event) {
     if (event.which == 13) { // 13 is the enter key event
       var searchTerm = $('input.search').val();
-      var search = sternClasses.find({title:{$regex:".*" + searchTerm + "*"}}, {sort: {title: 1}}).fetch();
+      var search = sternClasses.find({title:{$regex:"(^| )" + searchTerm + ".*", $options: 'i'}}, {sort: {title: 1}}).fetch();
       Session.set('currentSearch', search);
+
     }
   },
-
   'click a#more-info': function () {
     Session.set('currentMoreInfo', this);
     $('#modal1').openModal();
   },
+  'click h5.title': function (event) {
+    // obtain course information
 
-
-  'click h5.title': function (e) {
-    e.preventDefault();
-
-    var time = this.time1start.split(":");
-    var startTime = time[0];
-
-    var days = this.day1.split("");
-    for (day in days) {
-      if (days[day] == "M") { $("#" + startTime + '-mon').html(this.title); }
-      if (days[day] == "T") { $("#" + startTime + '-tues').html(this.title); }
-      if (days[day] == "W") { $("#" + startTime + '-wed').html(this.title); }
-      if (days[day] == "R") { $("#" + startTime + '-thurs').html(this.title); }
-      if (days[day] == "F") { $("#" + startTime + '-fri').html(this.title); }
+    var day='', time = '';
+    // obtain target table cells
+    // change cell class and attributes
+    for (letter in this.day1) {
+      day = this.day1[letter];
+      var $startSlot = $('td.time-slot[data-day*="' + day + '"][data-time="' + this.time1start + '"]');
+      if (isSlotSelected($startSlot)) { 
+        plugin.deselect($startSlot);
+        $startSlot.text('');
+      }
+      else {  
+        // if we are in selecting mode
+        // then end of selection
+        $startSlot.text(this.title);
+        var currSlot = [parseInt(this.time1start.substring(0,this.time1start.indexOf(':'))), parseInt(this.time1start.slice(-4,-2)), this.time1start.slice('-2')];
+        var finalSlot = [parseInt(this.time1finish.substring(0,this.time1finish.indexOf(':'))), parseInt(this.time1finish.slice(-4,-2)), this.time1finish.slice('-2')];
+        getSelection($(slotSelectorGenerator(day, currSlot)), $(slotSelectorGenerator(day, finalSlot))).each(function() {
+          this.setAttribute('data-selected', 'selected');
+        });
+        // var slotSelector = '', slot = '';
+        // while (currSlot[0] !== finalSlot[0] || currSlot[1] !== finalSlot[1] || currSlot[2] !== finalSlot[2]) {
+        //   slotSelector = slotSelectorGenerator(day, currSlot);
+        //   slot = plugin.$el.find(slotSelector);
+        //   // slot.addClass(newClass);
+        //   document.querySelector(slotSelector).setAttribute('data-selected', 'selected')
+        //   currSlot = increment(currSlot);
+        // }
+        // var collection = getSelection
+        // plugin.$el.trigger('selected.artsy.dayScheduleSelector', [getSelection(plugin, 
+        //                                                                           $('td.time-slot[data-day*="' + day + '"][data-time="' + this.time1finish + '"]'), startSlot)]);
+      }
     }
-    if (this.day2 == null) {}
-    else {
-      days = this.day2.split("");
-      time = this.time2start.split(":");
-      startTime = time[0];
-       for (day in days) {
-          if (days[day] == "M") { $("#" + startTime + '-mon').html(this.title); }
-          if (days[day] == "T") { $("#" + startTime + '-tues').html(this.title); }
-          if (days[day] == "W") { $("#" + startTime + '-wed').html(this.title); }
-          if (days[day] == "R") { $("#" + startTime + '-thurs').html(this.title); }
-          if (days[day] == "F") { $("#" + startTime + '-fri').html(this.title); }
-       } 
-    }
-  }
+  },
 });
+  function getSelection($a, $b) {
+    var $slots, small, large, temp;
+    if (!$a.hasClass('time-slot') || !$b.hasClass('time-slot') ||
+        ($a.data('day') != $b.data('day'))) { return []; }
+    $slots = $('.time-slot[data-day*="' + $a.data('day') + '"]');
+    small = $slots.index($a); large = $slots.index($b);
+    if (small > large) { temp = small; small = large; large = temp; }
+    return $slots.slice(small, large + 1);
+  }
+  function slotSelectorGenerator(dayNum, slotArr) {
+    return "td.time-slot[data-day*='" + dayNum + "'][data-time='" + slotArr[0] + ":" + 
+                              (slotArr[1] < 10 ? "0" : "") + slotArr[1] + slotArr[2] + "']"
+  }

@@ -25,7 +25,7 @@ Template.syms.events({
   'keydown input.search' : function (event) {
     if (event.which == 13) { // 13 is the enter key event
       var searchTerm = $('input.search').val();
-      var search = symsMenClasses.find({title:{$regex:".*" + searchTerm + "*"}}, {sort: {sort: "title"}}).fetch();
+      var search = symsMenClasses.find({title:{$regex:"(^| )" + searchTerm + ".*", $options: 'i'}}, {sort: {title: 1}}).fetch();
       Session.set('currentSearch', search);
     }
   },
