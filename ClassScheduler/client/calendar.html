@@ -1,0 +1,21 @@
+<template name="calendar">
+<div id="day-schedule"></div>
+
+<script src="C:/Users/Yedidyah/Desktop/Create-A-Basic-Weekly-Schedule-with-Hour-Selector-Using-jQuery/Create-A-Basic-Weekly-Schedule-with-Hour-Selector-Using-jQuery/examples/vendor/javascripts/jquery-1.11.2.js"></script>
+  <script src="calendar.js"></script>
+  <script>
+    (function ($) {
+
+      $("#day-schedule").dayScheduleSelector({});
+      $("#day-schedule").on('selected.artsy.dayScheduleSelector', function (e, selected) {
+        console.log(selected);
+      })
+
+      $("#course-listing-schedule").dayScheduleSelector({ });
+      $("#course-listing-schedule").on('selected.artsy.dayScheduleSelector', function (e, selected) {
+          console.log(selected);
+      })
+
+    })($);
+  </script>
+</template>

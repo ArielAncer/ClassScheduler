@@ -1,0 +1,5918 @@
+[
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "10326",
+      "department": "",
+      "instructor": "Dr. T. Singer",
+      "notes": "P-None",
+      "section": "FJ",
+      "time": [
+         {
+            "day": "TR",
+            "end": "1:40pm",
+            "start": "12:30pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "13222",
+      "department": "",
+      "instructor": "Prof. S. Siegel",
+      "notes": "P-MAT 111 or exam",
+      "section": "FJ",
+      "time": [
+         {
+            "day": "TR",
+            "end": "1:40pm",
+            "start": "12:30pm"
+         }
+      ],
+      "title": "Statistics for Social Sciences"
+   },
+   {
+      "code": "PSYN 101",
+      "credits": "3",
+      "crn": "10624",
+      "department": "",
+      "instructor": "Dr. D. Steinman",
+      "notes": "P-None",
+      "section": "FJ",
+      "time": [
+         {
+            "day": "TR",
+            "end": "1:40pm",
+            "start": "12:30pm"
+         }
+      ],
+      "title": "Introduction to Psychology"
+   },
+   {
+      "code": "PSYN 301",
+      "credits": "3",
+      "crn": "10631",
+      "department": "",
+      "instructor": "Dr. B. Rumain",
+      "notes": "P-PSY101, MAT 261, C-PSY 301.6",
+      "section": "FJ",
+      "time": [
+         {
+            "day": "TR",
+            "end": "1:40pm",
+            "start": "12:30pm"
+         }
+      ],
+      "title": "Experimental Psychology"
+   },
+   {
+      "code": "PSYN 201",
+      "credits": "3",
+      "crn": "10626",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101. This is a blended course with an online component.",
+      "section": "FJ",
+      "time": [
+         {
+            "day": "TR",
+            "end": "1:40pm",
+            "start": "12:30pm"
+         }
+      ],
+      "title": "Developmental Psychology"
+   },
+   {
+      "code": "EBEN 101",
+      "credits": "3",
+      "crn": "10576",
+      "department": "",
+      "instructor": "Dr. G. Cohn",
+      "notes": "P-None",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Principles of Macroeconomics"
+   },
+   {
+      "code": "EBMN 101",
+      "credits": "3",
+      "crn": "10585",
+      "department": "",
+      "instructor": "Prof. S. Felder",
+      "notes": "P-None",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Principles of Management"
+   },
+   {
+      "code": "HISN 221",
+      "credits": "3",
+      "crn": "10327",
+      "department": "",
+      "instructor": "Prof. Y. Krumbein",
+      "notes": "P-None",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Survey of Modern History II"
+   },
+   {
+      "code": "LLEN 221",
+      "credits": "3",
+      "crn": "10301",
+      "department": "",
+      "instructor": "Prof. J. Epstein",
+      "notes": "P-LLE 102 or Exam.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Survey of Modern Literature II"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "10318",
+      "department": "",
+      "instructor": "Prof. S. Siegel",
+      "notes": "P-MAT 111 or Exam.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Statistics for Social Sciences"
+   },
+   {
+      "code": "POLN 543",
+      "credits": "3",
+      "crn": "15636",
+      "department": "",
+      "instructor": "Prof. D. Kupfer",
+      "notes": "P-POL 101 or EBEN 101 or EBEN 102.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Health Care Politics & Economics"
+   },
+   {
+      "code": "PSYN 301.6",
+      "credits": "1",
+      "crn": "10689",
+      "department": "",
+      "instructor": "Dr. B. Rumain",
+      "notes": "P-PSY 101, MAT 261, C-PSY 301.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Experimental Psychology Lab"
+   },
+   {
+      "code": "PSYN 345",
+      "credits": "3",
+      "crn": "10639",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101. This is a blended course with an online component.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Psychology of Health and Illness"
+   },
+   {
+      "code": "PSYN 493",
+      "credits": "3",
+      "crn": "14331",
+      "department": "",
+      "instructor": "Dr. D. Steinman",
+      "notes": "P-PSY 301; 21 Credits in Psychology.",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Advanced Topics in Psychology"
+   },
+   {
+      "code": "SASN 301",
+      "credits": "3",
+      "crn": "16839",
+      "department": "",
+      "instructor": "Prof. D. Ratti",
+      "notes": "P-None",
+      "section": "FG",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:00pm",
+            "start": "1:50pm"
+         }
+      ],
+      "title": "Sociology of the Family"
+   },
+   {
+      "code": "BION 111",
+      "credits": "4",
+      "crn": "10435",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "Not For Science Majors C-LAB (Sun 12:00 PM - 2:50 PM)",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Human Biology Lecture & Lab"
+   },
+   {
+      "code": "BION 113",
+      "credits": "3",
+      "crn": "14333",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "Not For Science, Education, or Speech Majors. NO LAB",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Human Biology Lecture"
+   },
+   {
+      "code": "COAN 101",
+      "credits": "3",
+      "crn": "10452",
+      "department": "",
+      "instructor": "Prof. R. Seidenberg",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Art of Western Civilization"
+   },
+   {
+      "code": "COAN 224",
+      "credits": "3",
+      "crn": "10460",
+      "department": "",
+      "instructor": "Prof. A. Grenadir",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Studio Art: Drawing and Painting I"
+   },
+   {
+      "code": "EBAN 102",
+      "credits": "3",
+      "crn": "16840",
+      "department": "",
+      "instructor": "Prof. B. Halberstam",
+      "notes": "P-EBA 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Accounting II"
+   },
+   {
+      "code": "EBAN 314",
+      "credits": "3",
+      "crn": "10572",
+      "department": "",
+      "instructor": "Prof. S. Bienenstock",
+      "notes": "P-EBA 102",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Federal Taxation of Individuals"
+   },
+   {
+      "code": "EBEN 102",
+      "credits": "3",
+      "crn": "13289",
+      "department": "",
+      "instructor": "Dr. G. Cohn",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Microeconomics"
+   },
+   {
+      "code": "EBFN 101",
+      "credits": "3",
+      "crn": "16841",
+      "department": "",
+      "instructor": "Prof. M. Tsymuk",
+      "notes": "P-EBE 101 or 102",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Finance"
+   },
+   {
+      "code": "EBFN 210",
+      "credits": "3",
+      "crn": "16937",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-EBF 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Investment Principles"
+   },
+   {
+      "code": "EBKN 101",
+      "credits": "3",
+      "crn": "10581",
+      "department": "",
+      "instructor": "Prof. S. Felder",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Marketing"
+   },
+   {
+      "code": "EBKN 201",
+      "credits": "3",
+      "crn": "10582",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBK 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Consumer Behavior"
+   },
+   {
+      "code": "EDUN 201",
+      "credits": "3",
+      "crn": "10593",
+      "department": "",
+      "instructor": "Dr. J. Dickstein",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Psychosocial Foundations of Growth, Development & Learning, Birth - Grade 6."
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "13324",
+      "department": "",
+      "instructor": "Dr. T. Singer",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "LLEN 100",
+      "credits": "3",
+      "crn": "13094",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-Exam",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Introduction to English Composition"
+   },
+   {
+      "code": "LLEN 220",
+      "credits": "3",
+      "crn": "10109",
+      "department": "",
+      "instructor": "Prof. J. Epstein",
+      "notes": "P-LLE 102 or EXAM",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Survey of Modern Literature I"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "10116",
+      "department": "",
+      "instructor": "Prof. S. Siegel",
+      "notes": "P-EXAM",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "College Mathematics"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "10125",
+      "department": "",
+      "instructor": "Prof. D. Morgulis",
+      "notes": "P-None (Not for computer science majors). Note: This course is offered in different time slots, including Monday afternoon.",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Computer Concepts with Applications"
+   },
+   {
+      "code": "POLN 101",
+      "credits": "3",
+      "crn": "15642",
+      "department": "",
+      "instructor": "Prof. D. Kupfer",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "American Politics"
+   },
+   {
+      "code": "PSYN 102",
+      "credits": "3",
+      "crn": "10625",
+      "department": "",
+      "instructor": "Dr. S. Pretter",
+      "notes": "P-PSY 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Social Psychology"
+   },
+   {
+      "code": "PSYN 312",
+      "credits": "3",
+      "crn": "10633",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-PSY 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Cognition"
+   },
+   {
+      "code": "PSYN 326",
+      "credits": "3",
+      "crn": "10634",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101. This is a blended course with an online component.",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Forensic Psychology"
+   },
+   {
+      "code": "PSYN 332",
+      "credits": "3",
+      "crn": "10636",
+      "department": "",
+      "instructor": "Dr. D. Steinman",
+      "notes": "P-PSY 101",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "History and Systems of Psychology"
+   },
+   {
+      "code": "SASN 103",
+      "credits": "3",
+      "crn": "10650",
+      "department": "",
+      "instructor": "Prof. D. Ratti",
+      "notes": "None. May not be used as a Psychology elective.",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Introduction to Sociology"
+   },
+   {
+      "code": "SPLN 101",
+      "credits": "3",
+      "crn": "10463",
+      "department": "",
+      "instructor": "Prof. P. Schwartz",
+      "notes": "P-None",
+      "section": "FA",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:20pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Fundamentals of Speech"
+   },
+   {
+      "code": "EBAN 101",
+      "credits": "3",
+      "crn": "10563",
+      "department": "",
+      "instructor": "Prof. B. Halberstam",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Accounting I"
+   },
+   {
+      "code": "EBAN 201",
+      "credits": "3",
+      "crn": "10565",
+      "department": "",
+      "instructor": "Prof. S. Saltz",
+      "notes": "P-EBA 102",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Intermediate Accounting I"
+   },
+   {
+      "code": "EBAN 316",
+      "credits": "3",
+      "crn": "10573",
+      "department": "",
+      "instructor": "Prof. S. Bienenstock",
+      "notes": "P-EBA 314",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Corporate Taxation"
+   },
+   {
+      "code": "EBEN 101",
+      "credits": "3",
+      "crn": "13257",
+      "department": "",
+      "instructor": "Dr. G. Cohn",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Macroeconomics"
+   },
+   {
+      "code": "EBFN 220",
+      "credits": "3",
+      "crn": "10580",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-EBF 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Corporate Finance"
+   },
+   {
+      "code": "EBKN 101",
+      "credits": "3",
+      "crn": "13299",
+      "department": "",
+      "instructor": "Prof. M. Tsymuk",
+      "notes": "P- None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Marketing"
+   },
+   {
+      "code": "EBKN 207",
+      "credits": "3",
+      "crn": "15362",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P- EBK 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Social Media & Marketing"
+   },
+   {
+      "code": "EDUN 311",
+      "credits": "3",
+      "crn": "10596",
+      "department": "",
+      "instructor": "Prof. D. Vigilance",
+      "notes": "P or C-EDU 201",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Early Childhood Education"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "13320",
+      "department": "",
+      "instructor": "Dr. T. Singer",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "HISN 334",
+      "credits": "3",
+      "crn": "10328",
+      "department": "",
+      "instructor": "Dr. D. Hertzberg",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Topics in Modern European Diplomatic History: From 1815"
+   },
+   {
+      "code": "JSBN 172",
+      "credits": "3",
+      "crn": "10330",
+      "department": "",
+      "instructor": "Prof. M. Vatkin",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Psalms/Tehillim"
+   },
+   {
+      "code": "LLEN 101",
+      "credits": "3",
+      "crn": "10297",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-Exam or LLE 100",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "English Composition I"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "10298",
+      "department": "",
+      "instructor": "Prof. J. Epstein",
+      "notes": "P-Exam or LLE 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "13221",
+      "department": "",
+      "instructor": "Prof. S. Siegel",
+      "notes": "P-MAT 111 or Exam.",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Statistics for Social Sciences"
+   },
+   {
+      "code": "MATN 222",
+      "credits": "3",
+      "crn": "15646",
+      "department": "",
+      "instructor": "Prof. Fukunaga",
+      "notes": "P-MAT 122",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Modern Algebra"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "15647",
+      "department": "",
+      "instructor": "Prof. A. Zlotnikov",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Computer Concepts with Applications"
+   },
+   {
+      "code": "MCON 141",
+      "credits": "3",
+      "crn": "10609",
+      "department": "",
+      "instructor": "Prof. D. Morgulis",
+      "notes": "P/C MCO 104. Not offered in the spring semester.",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Introduction to Programming"
+   },
+   {
+      "code": "POLN 261",
+      "credits": "3",
+      "crn": "15648",
+      "department": "",
+      "instructor": "Prof. A. Mond",
+      "notes": "P-None. May be used for Judaic Studies credit or Political Science credit but not for both.",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Government & Politics of Israel"
+   },
+   {
+      "code": "PSYN 205",
+      "credits": "3",
+      "crn": "10627",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-PSY 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Psychology of Motivation"
+   },
+   {
+      "code": "PSYN 209",
+      "credits": "3",
+      "crn": "10628",
+      "department": "",
+      "instructor": "Prof. A. Grenadir",
+      "notes": "P-PSY 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Art Therapy I"
+   },
+   {
+      "code": "PSYN 335",
+      "credits": "3",
+      "crn": "10637",
+      "department": "",
+      "instructor": "Dr. S. Pretter",
+      "notes": "P-PSY 101",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Abnormal Psychology"
+   },
+   {
+      "code": "PSYN 492",
+      "credits": "3",
+      "crn": "10646",
+      "department": "",
+      "instructor": "Dr. B. Rumain",
+      "notes": "P-21 credits in Psych. PSY 301.",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Honors Seminar in Psychology"
+   },
+   {
+      "code": "PSYN 493",
+      "credits": "3",
+      "crn": "10647",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-21cr. Psych., PSY 301.",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Advanced Topics in Psychology"
+   },
+   {
+      "code": "SPLN 101",
+      "credits": "3",
+      "crn": "15643",
+      "department": "",
+      "instructor": "Prof. P. Schwartz",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Fundamentals of Speech"
+   },
+   {
+      "code": "SPLN 208",
+      "credits": "3",
+      "crn": "10468",
+      "department": "",
+      "instructor": "Prof. R. Roitman",
+      "notes": "P-None",
+      "section": "FB",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:40pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Phonetics"
+   },
+   {
+      "code": "EDLN 072",
+      "credits": "0",
+      "crn": "16355",
+      "department": "",
+      "instructor": "Prof. E. Gutman",
+      "notes": "For Open Curtain students only.",
+      "section": "FO",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:50pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Effective Reading and Writing"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "13120",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P- LLE 101, for Open Curtain students only.",
+      "section": "FO",
+      "time": [
+         {
+            "day": "M",
+            "end": "4:55pm",
+            "start": "2:15pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "COAN 2XX",
+      "credits": "3",
+      "crn": "16938",
+      "department": "",
+      "instructor": "Prof. J. Ayzman",
+      "notes": "P-None",
+      "section": "FL",
+      "time": [
+         {
+            "day": "M",
+            "end": "4:55pm",
+            "start": "2:15pm"
+         }
+      ],
+      "title": "Fundamentals of Illustration"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "15649",
+      "department": "",
+      "instructor": "Prof. D. Morgulis",
+      "notes": "P-None (Not for computer science majors)",
+      "section": "FL",
+      "time": [
+         {
+            "day": "M",
+            "end": "4:55pm",
+            "start": "2:15pm"
+         }
+      ],
+      "title": "Computer Concepts with Applications"
+   },
+   {
+      "code": "PSYN 351",
+      "credits": "3",
+      "crn": "16375",
+      "department": "",
+      "instructor": "Dr. C. Tarshish",
+      "notes": "P-PSY 101",
+      "section": "FL",
+      "time": [
+         {
+            "day": "M",
+            "end": "4:55pm",
+            "start": "2:15pm"
+         }
+      ],
+      "title": "Biological Psychology"
+   },
+   {
+      "code": "BION 101",
+      "credits": "4",
+      "crn": "10123",
+      "department": "",
+      "instructor": "Dr. M. Schiffenbauer",
+      "notes": "P-None; C - BIO 101 LAB (Thurs 3:15 PM – 5:55 PM)",
+      "section": "FH",
+      "time": [
+         {
+            "day": "T",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Biology I Lecture (Tuesday only)"
+   },
+   {
+      "code": "BION 102",
+      "credits": "0",
+      "crn": "13085",
+      "department": "",
+      "instructor": "Dr. Z. Zheng",
+      "notes": "P-BIO 101; C- BIO 102 LEC (Thurs 3:15 – 5:40 PM)",
+      "section": "FK",
+      "time": [
+         {
+            "day": "T",
+            "end": "5:50pm",
+            "start": "3:05pm"
+         }
+      ],
+      "title": "Principles of Biology II LAB (Tuesday only)"
+   },
+   {
+      "code": "BION 222",
+      "credits": "0",
+      "crn": "15321",
+      "department": "",
+      "instructor": "Dr. J. Wells",
+      "notes": "P-BIO 102; C – BIO 222 LEC (Thursday 3:15 PM – 5:40 PM)",
+      "section": "FK",
+      "time": [
+         {
+            "day": "T",
+            "end": "5:50pm",
+            "start": "3:05pm"
+         }
+      ],
+      "title": "Anatomy & Physiology I LAB (Tuesday only)"
+   },
+   {
+      "code": "BION 223",
+      "credits": "4",
+      "crn": "15651",
+      "department": "",
+      "instructor": "Dr. J. Strickman",
+      "notes": "P-BIO 222 C-BIO223 LAB (Thursday 3:10 PM – 5:40 PM",
+      "section": "FH",
+      "time": [
+         {
+            "day": "T",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Anatomy and Physiology II Lecture"
+   },
+   {
+      "code": "CPCN 201",
+      "credits": "4",
+      "crn": "14343",
+      "department": "",
+      "instructor": "Dr. E. Mintzer",
+      "notes": "C-CPC 201 LAB, (Thursday 3:15 PM - 5:55 PM)",
+      "section": "FH",
+      "time": [
+         {
+            "day": "T",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Organic Chemistry I LEC"
+   },
+   {
+      "code": "LLEN 100",
+      "credits": "3",
+      "crn": "13130",
+      "department": "",
+      "instructor": "Dr. I. Gold",
+      "notes": "For Open Curtain students only. P-Exam.",
+      "section": "FO",
+      "time": [
+         {
+            "day": "W",
+            "end": "4:55pm",
+            "start": "1:20pm"
+         }
+      ],
+      "title": "Introduction to Composition"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "16336",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None. For open curtain students only.",
+      "section": "FO",
+      "time": [
+         {
+            "day": "W",
+            "end": "4:55pm",
+            "start": "1:20pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "BION 101",
+      "credits": "0",
+      "crn": "12962",
+      "department": "",
+      "instructor": "Dr. M. Schiffenbauer",
+      "notes": "P-None; C- BIO 101 LEC (Tues 3:15 PM – 5:40 PM)",
+      "section": "FH",
+      "time": [
+         {
+            "day": "R",
+            "end": "5:55pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Biology I LAB (Thursday only)"
+   },
+   {
+      "code": "BION 102",
+      "credits": "4",
+      "crn": "10124",
+      "department": "",
+      "instructor": "Dr. Z. Zheng",
+      "notes": "P- BIO 101; C- BIO 102 LAB (Tues 3:15 PM – 5:55 PM)",
+      "section": "FK",
+      "time": [
+         {
+            "day": "R",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Principles of Biology II LEC (Thursday only)"
+   },
+   {
+      "code": "BION 222",
+      "credits": "4",
+      "crn": "14340",
+      "department": "",
+      "instructor": "Dr. J. Wells",
+      "notes": "P–BIO 102; C– BIO 222 LAB (Tuesday 3:15 PM – 5:55 PM)",
+      "section": "FK",
+      "time": [
+         {
+            "day": "R",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Anatomy & Physiology I Lecture (Thursday only)"
+   },
+   {
+      "code": "BION 223",
+      "credits": "0",
+      "crn": "15323",
+      "department": "",
+      "instructor": "Dr. J. Strickman",
+      "notes": "P–BIO 222, C-BIO 223 LEC (Tuesday 3:15 PM – 5:40 PM)",
+      "section": "FH",
+      "time": [
+         {
+            "day": "R",
+            "end": "5:40pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Anatomy and Physiology II LAB (Thursday only)"
+   },
+   {
+      "code": "CPCN 201",
+      "credits": "0",
+      "crn": "16340",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C-CPC 201 LEC (Tuesday 3:15 PM – 5:55 PM)",
+      "section": "FH",
+      "time": [
+         {
+            "day": "R",
+            "end": "5:50pm",
+            "start": "3:10pm"
+         }
+      ],
+      "title": "Organic Chemistry I LAB"
+   },
+   {
+      "code": "BION 111",
+      "credits": "4",
+      "crn": "10711",
+      "department": "",
+      "instructor": "Dr. A. Levine",
+      "notes": "Not For Science Majors C- LAB (Sunday 11:50 AM-2:30 PM)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Human Biology Lecture"
+   },
+   {
+      "code": "BION 113",
+      "credits": "3",
+      "crn": "14334",
+      "department": "",
+      "instructor": "Dr. A. Levine",
+      "notes": "P-None. Not for Speech or Education Majors.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Human Biology (No Lab)"
+   },
+   {
+      "code": "BION 310",
+      "credits": "3",
+      "crn": "15324",
+      "department": "",
+      "instructor": "Dr. M. Chowdhury",
+      "notes": "P-BIO 102, CPC 102",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Nutrition for Bio Majors"
+   },
+   {
+      "code": "BION 228",
+      "credits": "4",
+      "crn": "15325",
+      "department": "",
+      "instructor": "Dr. Z. Leifer",
+      "notes": "P-BIO 102 C-LAB (Sunday 12:00 PM)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Microbiology Lecture"
+   },
+   {
+      "code": "CPCN 201",
+      "credits": "4",
+      "crn": "16282",
+      "department": "",
+      "instructor": "Dr. E. Mintzer",
+      "notes": "C-CPC 201 LAB (Thursday, 6:00 PM – 8:15 PM)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Organic Chemistry I Lecture"
+   },
+   {
+      "code": "CPPN 101",
+      "credits": "0",
+      "crn": "16276",
+      "department": "",
+      "instructor": "Dr. W. Gutierrez",
+      "notes": "P-MAT 120; C-CPP 101 LEC (Sun. 9:00 AM – 11:45 AM)",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "5:45pm"
+         }
+      ],
+      "title": "General Physics I LAB"
+   },
+   {
+      "code": "EBAN 102",
+      "credits": "3",
+      "crn": "10564",
+      "department": "",
+      "instructor": "Prof. J. Edelstein",
+      "notes": "P-EBA 101",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Principles of Accounting II"
+   },
+   {
+      "code": "EBAN 213",
+      "credits": "3",
+      "crn": "10568",
+      "department": "",
+      "instructor": "Prof. D. Berger",
+      "notes": "C-EBA 201",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Cost Accounting"
+   },
+   {
+      "code": "EBAN 301",
+      "credits": "3",
+      "crn": "10569",
+      "department": "",
+      "instructor": "Prof. S. Saltz",
+      "notes": "P-EBA 202. Senior Status",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Advanced Accounting"
+   },
+   {
+      "code": "EBAN 302",
+      "credits": "3",
+      "crn": "10570",
+      "department": "",
+      "instructor": "Prof. J. Newman",
+      "notes": "P-EBA 102; C-EBA 201",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Government & Not-For-Profit Accounting"
+   },
+   {
+      "code": "EBEN 204",
+      "credits": "3",
+      "crn": "10578",
+      "department": "",
+      "instructor": "Dr. M. Yarmish",
+      "notes": "P-EBE 101 and EBE 102",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Money & Banking"
+   },
+   {
+      "code": "EBFN 410",
+      "credits": "3",
+      "crn": "15363",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-EBF 210",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Seminar In Options Trading"
+   },
+   {
+      "code": "EBKN 315",
+      "credits": "3",
+      "crn": "10584",
+      "department": "",
+      "instructor": "Prof. A. Rovt",
+      "notes": "P-EBK 101",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Advertising Management"
+   },
+   {
+      "code": "EBKN 410",
+      "credits": "3",
+      "crn": "15364",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBK 204 (Required for marketing majors)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Business to Business Marketing"
+   },
+   {
+      "code": "EDUN 302",
+      "credits": "3",
+      "crn": "10595",
+      "department": "",
+      "instructor": "Dr. D. Zelasko",
+      "notes": "P or C EDU 301",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Diagnosis and Correction of Reading Disabilities, Grades 1-6"
+   },
+   {
+      "code": "EDUN 316",
+      "credits": "3",
+      "crn": "10597",
+      "department": "",
+      "instructor": "Prof. D. Sonnenschein",
+      "notes": "P or C EDU 201",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Language Acq. & Emergent Literacy I"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "13323",
+      "department": "",
+      "instructor": "Dr. H. Nierman",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "JSBN 172",
+      "credits": "3",
+      "crn": "15652",
+      "department": "",
+      "instructor": "Prof. I. Layosh",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Book of Bereishis"
+   },
+   {
+      "code": "LLEN 100",
+      "credits": "3",
+      "crn": "10295",
+      "department": "",
+      "instructor": "Prof. R. Reichman",
+      "notes": "P-Exam",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to English Composition"
+   },
+   {
+      "code": "LLEN 101",
+      "credits": "3",
+      "crn": "13103",
+      "department": "",
+      "instructor": "Prof. Sugar",
+      "notes": "P-LLE 100 or EXAM",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "English Composition I"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "13122",
+      "department": "",
+      "instructor": "Prof. D. Marvin",
+      "notes": "P-LLE 101 or EXAM",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "LLEN 221",
+      "credits": "3",
+      "crn": "13151",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-LLE 102 or EXAM",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern Literature II"
+   },
+   {
+      "code": "LLEN 222",
+      "credits": "3",
+      "crn": "15653",
+      "department": "",
+      "instructor": "Dr. M. Grossman",
+      "notes": "P-LLE 102",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Shakespeare"
+   },
+   {
+      "code": "MATN 120",
+      "credits": "3",
+      "crn": "10302",
+      "department": "",
+      "instructor": "Prof. D. Wohl",
+      "notes": "P-MAT 111 or exam",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Pre-Calculus"
+   },
+   {
+      "code": "MATN 201",
+      "credits": "3",
+      "crn": "10315",
+      "department": "",
+      "instructor": "Dr. L. Kaganovskiy",
+      "notes": "P-MAT 122",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Advanced Calculus I"
+   },
+   {
+      "code": "MATN 654",
+      "credits": "3",
+      "crn": "10317",
+      "department": "",
+      "instructor": "Prof. E. Fukunaga",
+      "notes": "P-Dept. Approval",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Special Topics in Geometry"
+   },
+   {
+      "code": "MCDN 225",
+      "credits": "3",
+      "crn": "15657",
+      "department": "",
+      "instructor": "Prof. S. De Castro",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Drawing and Painting II"
+   },
+   {
+      "code": "MCDN 262",
+      "credits": "3",
+      "crn": "10602",
+      "department": "",
+      "instructor": "Prof. R. Levy",
+      "notes": "P-MCD 155, MCD 230; MCD 231 and MCD 236. C-MCD 263 and MCD 267.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Digital Multimedia Design III"
+   },
+   {
+      "code": "MCDN 302",
+      "credits": "3",
+      "crn": "10605",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-MCD; 264 C-MCD 490",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Web Page Design III"
+   },
+   {
+      "code": "MCON 141",
+      "credits": "3",
+      "crn": "15660",
+      "department": "",
+      "instructor": "Prof. M. Plonczak",
+      "notes": "P-None; C-MCO 104 This course is offered only during the Fall semester.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Programming"
+   },
+   {
+      "code": "MCON 152",
+      "credits": "3",
+      "crn": "10611",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-MCO 260",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Computer Methodology"
+   },
+   {
+      "code": "POLN 101",
+      "credits": "3",
+      "crn": "16272",
+      "department": "",
+      "instructor": "Prof. A. Melamed",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "American Politics"
+   },
+   {
+      "code": "POLN 201",
+      "credits": "3",
+      "crn": "16939",
+      "department": "",
+      "instructor": "Prof. T. Rozinski",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Political Theory"
+   },
+   {
+      "code": "PSYN 101",
+      "credits": "3",
+      "crn": "13606",
+      "department": "",
+      "instructor": "Dr. Y. Taler",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Psychology"
+   },
+   {
+      "code": "PSYN 301",
+      "credits": "3",
+      "crn": "13615",
+      "department": "",
+      "instructor": "Dr. C. Tarshish",
+      "notes": "P-PSY 101 & MAT 261 C-PSY 301.6, Must take FD LAB.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Experimental Psychology"
+   },
+   {
+      "code": "PSYN 310",
+      "credits": "3",
+      "crn": "10632",
+      "department": "",
+      "instructor": "Dr. R. Kidron",
+      "notes": "P-PSY 101",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Personality"
+   },
+   {
+      "code": "PSYN 345",
+      "credits": "3",
+      "crn": "13653",
+      "department": "",
+      "instructor": "Dr. S. Pretter",
+      "notes": "P-PSY 101",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Psychology of Health & Illness"
+   },
+   {
+      "code": "PSYN 493",
+      "credits": "3",
+      "crn": "15306",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-21cr. Psych., PSY 301",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Advanced Topics in Psychology"
+   },
+   {
+      "code": "SASN 103",
+      "credits": "3",
+      "crn": "14332",
+      "department": "",
+      "instructor": "Dr. M. Verbit",
+      "notes": "P-None. May not be used as a Psychology elective.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Sociology"
+   },
+   {
+      "code": "SEDN 602",
+      "credits": "3",
+      "crn": "16352",
+      "department": "",
+      "instructor": "Dr. S. Luel",
+      "notes": "P-Department Approval Upper Division status.",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Teaching Students with Disabilities."
+   },
+   {
+      "code": "SPLN 101",
+      "credits": "3",
+      "crn": "13229",
+      "department": "",
+      "instructor": "Prof. P. Schwartz",
+      "notes": "P-None",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Fundamentals of Speech"
+   },
+   {
+      "code": "SPLN 101",
+      "credits": "3",
+      "crn": "13230",
+      "department": "",
+      "instructor": "Prof. E. Goodman",
+      "notes": "P-None for Open Curtain students.",
+      "section": "FO",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Fundamentals of Speech"
+   },
+   {
+      "code": "SPLN 209",
+      "credits": "3",
+      "crn": "10471",
+      "department": "",
+      "instructor": "Prof. D. Blau",
+      "notes": "P-BIO 111 or 101",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Anatomy and Physiology of Speech"
+   },
+   {
+      "code": "SPLN 401",
+      "credits": "4",
+      "crn": "10503",
+      "department": "",
+      "instructor": "Prof. R. Roitman",
+      "notes": "P-COC 310",
+      "section": "FC",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Speech Pathology II"
+   },
+   {
+      "code": "BION 211",
+      "credits": "4",
+      "crn": "14335",
+      "department": "",
+      "instructor": "Dr. A. Babayan",
+      "notes": "P-BIO 102, C-BIO 211 LAB (Thursday 8:20 PM – 10:35 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Genetics (Lecture)"
+   },
+   {
+      "code": "BION 222",
+      "credits": "4",
+      "crn": "15329",
+      "department": "",
+      "instructor": "Prof. W. Merdian",
+      "notes": "P-BIO 102; C – BIO 222, LAB (Thursday 8:20 PM-11:00 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Anatomy & Physiology I Lecture"
+   },
+   {
+      "code": "BION 311",
+      "credits": "3",
+      "crn": "10443",
+      "department": "",
+      "instructor": "Dr. A. Babayan",
+      "notes": "P-BIO 102 (No LAB attached)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Human Genetics"
+   },
+   {
+      "code": "COAN 222",
+      "credits": "3",
+      "crn": "10458",
+      "department": "",
+      "instructor": "Prof. A. Grenadir",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Studio Art: Painting I"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "4",
+      "crn": "16213",
+      "department": "",
+      "instructor": "Dr. E. Mintzer",
+      "notes": "P-MAT 120; C-CPC 101 LAB (Thursday,8:30 PM – 10:50 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:55pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "General Chemistry I Lecture"
+   },
+   {
+      "code": "CPPN 150",
+      "credits": "3",
+      "crn": "16349",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-MAT 111 or EXAM. Not for Science majors) [Note: Students must attend 4 two hour recitations held on selected Sunday afternoons.] This course satisfies the core science requirement.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "The Physical Universe (LEC and LAB)"
+   },
+   {
+      "code": "EBAN 101",
+      "credits": "3",
+      "crn": "13238",
+      "department": "",
+      "instructor": "Prof. J. Edelstein",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Accounting I"
+   },
+   {
+      "code": "EBAN 201",
+      "credits": "3",
+      "crn": "13249",
+      "department": "",
+      "instructor": "Prof. D. Ehrlich",
+      "notes": "P-EBA 102",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Intermediate Accounting I"
+   },
+   {
+      "code": "EBAN 202",
+      "credits": "3",
+      "crn": "10566",
+      "department": "",
+      "instructor": "Prof. S. Saltz",
+      "notes": "P-EBA 201 Screening exam.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Intermediate Accounting II"
+   },
+   {
+      "code": "EBAN 308",
+      "credits": "3",
+      "crn": "10571",
+      "department": "",
+      "instructor": "Dr. C. Snow",
+      "notes": "P-EBA 202, Screening exam, and 3.0 GPA in accounting.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Auditing Principles"
+   },
+   {
+      "code": "EBEN 102",
+      "credits": "3",
+      "crn": "13290",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Microeconomics"
+   },
+   {
+      "code": "EBFN 101",
+      "credits": "3",
+      "crn": "10579",
+      "department": "",
+      "instructor": "Prof. M. Slavina",
+      "notes": "P-EBE 101; MAT 111",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Finance"
+   },
+   {
+      "code": "EBFN 220",
+      "credits": "3",
+      "crn": "13298",
+      "department": "",
+      "instructor": "Prof. D. Berger",
+      "notes": "P-EBF 101; MAT 111",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Corporate Finance"
+   },
+   {
+      "code": "EBKN 204",
+      "credits": "3",
+      "crn": "10583",
+      "department": "",
+      "instructor": "Prof. A. Rovt",
+      "notes": "P-EBK 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Marketing Management"
+   },
+   {
+      "code": "EBKN 207",
+      "credits": "3",
+      "crn": "15365",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBK 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Social Media & Marketing"
+   },
+   {
+      "code": "EBMN 202",
+      "credits": "3",
+      "crn": "15557",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBM 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Organizational Theory and Behavior"
+   },
+   {
+      "code": "EBMN 213",
+      "credits": "3",
+      "crn": "10586",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Business Law I"
+   },
+   {
+      "code": "EBMN 320",
+      "credits": "3",
+      "crn": "15662",
+      "department": "",
+      "instructor": "Prof. K. Dreifus",
+      "notes": "P-EBM 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Entrepreneurship & Small Business Management"
+   },
+   {
+      "code": "EDUN 201",
+      "credits": "3",
+      "crn": "10593",
+      "department": "",
+      "instructor": "Dr. S. Luel",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Psychosocial Foundations of Growth, Development & Learning"
+   },
+   {
+      "code": "HISN 221",
+      "credits": "3",
+      "crn": "13329",
+      "department": "",
+      "instructor": "Dr. H. Nierman",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Survey of Modern History II"
+   },
+   {
+      "code": "HISN 354",
+      "credits": "3",
+      "crn": "16940",
+      "department": "",
+      "instructor": "Dr. H. Abramson",
+      "notes": "P- Department Permission This is a blended course with an online component. It meets in person every other Tuesday.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Selected Topics in Jewish History Antisemitism: The Longest Hatred"
+   },
+   {
+      "code": "JSHN 258",
+      "credits": "3",
+      "crn": "10335",
+      "department": "",
+      "instructor": "Prof. I. Layosh",
+      "notes": "P-None",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Book of Mishlei"
+   },
+   {
+      "code": "LLEN 100",
+      "credits": "3",
+      "crn": "13097",
+      "department": "",
+      "instructor": "Prof. R. Reichman",
+      "notes": "P-EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to English Composition"
+   },
+   {
+      "code": "LLEN 101",
+      "credits": "3",
+      "crn": "13107",
+      "department": "",
+      "instructor": "Prof. J. November",
+      "notes": "P-LLE 100 or EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "English Composition I"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "13125",
+      "department": "",
+      "instructor": "Prof. D. Marvin",
+      "notes": "P-LLE 101 or EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "13167",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "College Mathematics"
+   },
+   {
+      "code": "MATN 120",
+      "credits": "3",
+      "crn": "13203",
+      "department": "",
+      "instructor": "Prof. E. Fukunaga",
+      "notes": "P-MAT 111 or EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Pre-Calculus"
+   },
+   {
+      "code": "MATN 121",
+      "credits": "4",
+      "crn": "10303",
+      "department": "",
+      "instructor": "Prof. E. Cohen",
+      "notes": "P-MAT 120",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:55pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Calculus I"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "13224",
+      "department": "",
+      "instructor": "Prof. D. Wohl",
+      "notes": "P-MAT 111 or EXAM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Statistics for Social Sciences"
+   },
+   {
+      "code": "MATN 513",
+      "credits": "3",
+      "crn": "16612",
+      "department": "",
+      "instructor": "Dr. L. Kaganovskiy",
+      "notes": "P-MAT 122",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Differential Equations"
+   },
+   {
+      "code": "MCDN 235",
+      "credits": "3",
+      "crn": "10601",
+      "department": "",
+      "instructor": "Prof. T. O’hara",
+      "notes": "C-MCD 150, MCD 230, MCO 140.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Computer Graphic Design I"
+   },
+   {
+      "code": "MCDN 267",
+      "credits": "3",
+      "crn": "10604",
+      "department": "",
+      "instructor": "Prof. I. Goldfeder",
+      "notes": "P-MCD 236; C-MCD 262",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Computer Graphic Design III"
+   },
+   {
+      "code": "MCDN 490",
+      "credits": "3",
+      "crn": "10606",
+      "department": "",
+      "instructor": "Prof. R. Levy",
+      "notes": "P- MCD 335. MCD 302",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Senior Portfolio"
+   },
+   {
+      "code": "MCON 343",
+      "credits": "3",
+      "crn": "15721",
+      "department": "",
+      "instructor": "Prof. M. Plonczak",
+      "notes": "P-MCO 232",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Database Concepts and Design"
+   },
+   {
+      "code": "POL 201",
+      "credits": "3",
+      "crn": "1694110",
+      "department": "",
+      "instructor": "Prof. A. Mond",
+      "notes": "P-POL 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to American Law"
+   },
+   {
+      "code": "PSYN 201",
+      "credits": "3",
+      "crn": "13609",
+      "department": "",
+      "instructor": "Prof. D. Nierenberg",
+      "notes": "P-PSY 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Developmental Psychology"
+   },
+   {
+      "code": "PSYN 301.6",
+      "credits": "1",
+      "crn": "13625",
+      "department": "",
+      "instructor": "Dr. C. Tarshish",
+      "notes": "C-PSY 301",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Experimental Psychology LAB"
+   },
+   {
+      "code": "PSYN 335",
+      "credits": "3",
+      "crn": "13645",
+      "department": "",
+      "instructor": "Dr. E. Gampel",
+      "notes": "P-PSY 101",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Abnormal Psychology"
+   },
+   {
+      "code": "PSYN 351",
+      "credits": "3",
+      "crn": "10640",
+      "department": "",
+      "instructor": "Dr. R. Kidron",
+      "notes": "P-PSY 101, Note: This course is also offered on Monday afternoons.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Biological Psychology"
+   },
+   {
+      "code": "PSYN 401",
+      "credits": "3",
+      "crn": "10641",
+      "department": "",
+      "instructor": "Prof. L. Sheinhouse",
+      "notes": "P-PSY 335 or Perm.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Psychology of the Exceptional Child"
+   },
+   {
+      "code": "SASN 371",
+      "credits": "3",
+      "crn": "10653",
+      "department": "",
+      "instructor": "Dr. M. Verbit",
+      "notes": "P-None; may be used to satisfy a Judaic Studies or Sociology requirement, but not both.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "The American Jewish Community"
+   },
+   {
+      "code": "SPLN 309",
+      "credits": "3",
+      "crn": "10483",
+      "department": "",
+      "instructor": "Dr. E. Hurley",
+      "notes": "P-COC 308",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to Audiology"
+   },
+   {
+      "code": "SPLN 493",
+      "credits": "3",
+      "crn": "10510",
+      "department": "",
+      "instructor": "Prof. R. Roitman",
+      "notes": "P-Senior Status, C-COC 310.",
+      "section": "FD",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Senior Seminar"
+   },
+   {
+      "code": "BION 101",
+      "credits": "0",
+      "crn": "13014",
+      "department": "",
+      "instructor": "Dr. M. Chowdhury",
+      "notes": "P-None; C-BIO 101 LEC (Thursday 8:20 P.M.)",
+      "section": "FF2",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Principles of Biology I LAB"
+   },
+   {
+      "code": "BION 111",
+      "credits": "4",
+      "crn": "10712",
+      "department": "",
+      "instructor": "Prof. W. Merdian",
+      "notes": "P-None Not for Science major C-LAB (Sunday 12:00 PM- 2:50 PM)",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Human Biology Lecture"
+   },
+   {
+      "code": "BION 113",
+      "credits": "3",
+      "crn": "15333",
+      "department": "",
+      "instructor": "Prof. W. Merdian",
+      "notes": "P-None; Not for Science, Education or Speech majors.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Human Biology Lecture (only)"
+   },
+   {
+      "code": "BION 246",
+      "credits": "3",
+      "crn": "10440",
+      "department": "",
+      "instructor": "Prof. R. Weinberger",
+      "notes": "P-None. Satisfies science requirement for non-majors. Not for biology majors.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Nutrition & Human Development"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "4",
+      "crn": "15794",
+      "department": "",
+      "instructor": "Dr. E. Mintzer",
+      "notes": "P-CPC 101; C-CPC 101 LAB (Sunday, 9:00 AM – 11:30 AM)",
+      "section": "FEQ",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "5:45pm"
+         }
+      ],
+      "title": "General Chemistry I LEC"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "4",
+      "crn": "15844",
+      "department": "",
+      "instructor": "Dr. E. Mintzer",
+      "notes": "P-CPC 101; C-CPC 101 LAB (Sunday, 11:50 AM – 2:10 PM)",
+      "section": "FER",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "5:45pm"
+         }
+      ],
+      "title": "General Chemistry I LEC"
+   },
+   {
+      "code": "CPCN 201",
+      "credits": "0",
+      "crn": "16283",
+      "department": "",
+      "instructor": "Prof. A. Mahendran",
+      "notes": "P-CPC 102, C-CPC 201, LEC (Tuesday, 5:45 PM – 8:15 PM)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Organic Chemistry I LAB"
+   },
+   {
+      "code": "EBAN 302",
+      "credits": "3",
+      "crn": "15072",
+      "department": "",
+      "instructor": "Prof. J. Hirsch",
+      "notes": "P-EBA 102, C-EBA 201",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Government and Not-For-Profit Accounting"
+   },
+   {
+      "code": "EBAN 314",
+      "credits": "3",
+      "crn": "13251",
+      "department": "",
+      "instructor": "Prof. D Berger",
+      "notes": "P-EBA 102, C-EBA 201",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Federal Income Taxation of Individuals"
+   },
+   {
+      "code": "EBEN 102",
+      "credits": "3",
+      "crn": "13292",
+      "department": "",
+      "instructor": "Dr. M. Yarmish",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Principles of Microeconomics"
+   },
+   {
+      "code": "EBFN 101",
+      "credits": "3",
+      "crn": "13296",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-MAT 111; C-EBE 101 or EBE 102.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Principles of Finance"
+   },
+   {
+      "code": "EBKN 201",
+      "credits": "3",
+      "crn": "16037",
+      "department": "",
+      "instructor": "Prof. E. Popkoff",
+      "notes": "P-EBK 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Consumer Behavior"
+   },
+   {
+      "code": "EBMN 493",
+      "credits": "3",
+      "crn": "10589",
+      "department": "",
+      "instructor": "Prof. A. Rovt",
+      "notes": "P-90 credits and 300 level business courses.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Business Policy"
+   },
+   {
+      "code": "EDUN 209",
+      "credits": "3",
+      "crn": "10594",
+      "department": "",
+      "instructor": "Dr. A. Brezak",
+      "notes": "P or C-EDU 201",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Foundations of Parenting"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "13326",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "HISN 221",
+      "credits": "3",
+      "crn": "13330",
+      "department": "",
+      "instructor": "Dr. D. Hertzberg",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern History II"
+   },
+   {
+      "code": "JSBN 472",
+      "credits": "3",
+      "crn": "16181",
+      "department": "",
+      "instructor": "Prof. I. Layosh",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Book of Daniel"
+   },
+   {
+      "code": "LLEN 100",
+      "credits": "3",
+      "crn": "13128",
+      "department": "",
+      "instructor": "Prof. R. Reichman",
+      "notes": "P-EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to English Composition"
+   },
+   {
+      "code": "LLEN 101",
+      "credits": "3",
+      "crn": "13132",
+      "department": "",
+      "instructor": "Prof. J. Horowitz",
+      "notes": "P-LLE 100 or EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "English Composition I"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "13126",
+      "department": "",
+      "instructor": "Prof. J. November",
+      "notes": "P-LLE 101 or EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "LLEN 220",
+      "credits": "3",
+      "crn": "13160",
+      "department": "",
+      "instructor": "Dr. M. Grossman",
+      "notes": "P-LLE 102 or EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern Literature I"
+   },
+   {
+      "code": "LLEN 221",
+      "credits": "3",
+      "crn": "13153",
+      "department": "",
+      "instructor": "Prof. H. Buchman",
+      "notes": "P-LLE 102 or EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Survey of Modern Literature II"
+   },
+   {
+      "code": "LLEN 510",
+      "credits": "3",
+      "crn": "16942",
+      "department": "",
+      "instructor": "Dr. B. Engelberg",
+      "notes": "P-LLE 102 or Dept. Approval.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Literature of the Self"
+   },
+   {
+      "code": "LLYN 101",
+      "credits": "3",
+      "crn": "10592",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Elementary Yiddish I"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "16943",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "College Mathematics"
+   },
+   {
+      "code": "MATN 232",
+      "credits": "3",
+      "crn": "10316",
+      "department": "",
+      "instructor": "Prof. E. Cohen",
+      "notes": "P-MAT 331",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Quantitative Analysis"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "13225",
+      "department": "",
+      "instructor": "Prof. S. Silman",
+      "notes": "P-MAT 111 or EXAM",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Statistics for Social Science"
+   },
+   {
+      "code": "MCDN 150",
+      "credits": "3",
+      "crn": "15656",
+      "department": "",
+      "instructor": "Prof. C. Steen",
+      "notes": "C-MCD 230, MCD 235, (No LAB)",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Foundations of Design I"
+   },
+   {
+      "code": "MCDN 291",
+      "credits": "3",
+      "crn": "16189",
+      "department": "",
+      "instructor": "Prof. J. Ruelle",
+      "notes": "P-MCD 235 or Dept. Approval.",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Fundamentals of 2-D Animation"
+   },
+   {
+      "code": "MCON 104",
+      "credits": "4",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Abrahamson",
+      "notes": "P-None C-MCON 141",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Computing Theory and Application"
+   },
+   {
+      "code": "MCON 264",
+      "credits": "3",
+      "crn": "16192",
+      "department": "",
+      "instructor": "Prof. M. Plonczak",
+      "notes": "P-MCO 232",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Data Structures I"
+   },
+   {
+      "code": "MCON 148",
+      "credits": "3",
+      "crn": "10610",
+      "department": "",
+      "instructor": "Prof. S. Fink",
+      "notes": "P-MCO 140",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Advanced Computer Business Applications"
+   },
+   {
+      "code": "POLN 244",
+      "credits": "3",
+      "crn": "16196",
+      "department": "",
+      "instructor": "Prof. A. Mond",
+      "notes": "P-POL 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Political Parties and the Electoral Process"
+   },
+   {
+      "code": "PSYN 101",
+      "credits": "3",
+      "crn": "13607",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Introduction to Psychology"
+   },
+   {
+      "code": "PSYN 102",
+      "credits": "3",
+      "crn": "13608",
+      "department": "",
+      "instructor": "Dr. R. Kidron",
+      "notes": "P-PSY 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Social Psychology"
+   },
+   {
+      "code": "PSYN 231",
+      "credits": "3",
+      "crn": "10630",
+      "department": "",
+      "instructor": "Dr. M. Zacharowicz",
+      "notes": "P-PSY 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Psychological Testing"
+   },
+   {
+      "code": "PSYN 310",
+      "credits": "3",
+      "crn": "15308",
+      "department": "",
+      "instructor": "Dr. E. Gampel",
+      "notes": "P-PSY 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Personality"
+   },
+   {
+      "code": "PSYN 325",
+      "credits": "3",
+      "crn": "16197",
+      "department": "",
+      "instructor": "Dr. D. Steinman",
+      "notes": "P-PSY 101",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Drugs and Behavior"
+   },
+   {
+      "code": "SPLN 210",
+      "credits": "3",
+      "crn": "10476",
+      "department": "",
+      "instructor": "Prof. P. Bottino",
+      "notes": "P-None",
+      "section": "FE",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Normal Speech and Language Development"
+   },
+   {
+      "code": "SPLN 411",
+      "credits": "3",
+      "crn": "10507",
+      "department": "",
+      "instructor": "Dr. E. Hurley",
+      "notes": "P-COC 309",
+      "section": "FE",
+      "time": [
+         {
+            "day": "",
+            "end": "8:15pm",
+            "start": "6:00pm"
+         }
+      ],
+      "title": "Auditory Rehabilitation"
+   },
+   {
+      "code": "BION 101",
+      "credits": "4",
+      "crn": "10709",
+      "department": "",
+      "instructor": "Dr. M. Chowdhury",
+      "notes": "P – None; C- Bio 101 LAB (Sunday 9:00 AM)",
+      "section": "FF1",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Biology I Lecture"
+   },
+   {
+      "code": "BION 101",
+      "credits": "4",
+      "crn": "10709",
+      "department": "",
+      "instructor": "Dr. M. Chowdhury",
+      "notes": "P-None C-BIO 101 LAB (Thursday 6:00 PM)",
+      "section": "FF2",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Biology I Lecture"
+   },
+   {
+      "code": "BION 211",
+      "credits": "0",
+      "crn": "16198",
+      "department": "",
+      "instructor": "Dr. A. Babayan",
+      "notes": "C-BIO 211 Lecture. (Tuesday, 8:20 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Genetics Lab"
+   },
+   {
+      "code": "BION 222",
+      "credits": "0",
+      "crn": "16200",
+      "department": "",
+      "instructor": "Prof. W. Merdian",
+      "notes": "C-BIO 222 LEC (Tuesday 8:20 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:55pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Anatomy and Physiology I LAB"
+   },
+   {
+      "code": "COAN 221",
+      "credits": "3",
+      "crn": "10455",
+      "department": "",
+      "instructor": "Prof. S. Beck",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Studio Workshop: Drawing I"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "0",
+      "crn": "16213",
+      "department": "",
+      "instructor": "Dr. N. Abbasi",
+      "notes": "P-MAT 120, C-CPC 101 LEC (Tuesday, 8:20 PM – 10:55 PM)",
+      "section": "FD",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:55pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "General Chemistry I LAB"
+   },
+   {
+      "code": "EBAN 316",
+      "credits": "3",
+      "crn": "13254",
+      "department": "",
+      "instructor": "Prof. D. Berger",
+      "notes": "P-EBA 314 and EBA 201",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Corporation and Partnership Tax"
+   },
+   {
+      "code": "EBEN 101",
+      "credits": "3",
+      "crn": "13260",
+      "department": "",
+      "instructor": "Prof. M. Tsymuk",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Macroeconomics"
+   },
+   {
+      "code": "EBFN 210",
+      "credits": "3",
+      "crn": "16215",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBF 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Investment Principles"
+   },
+   {
+      "code": "EBFN 338",
+      "credits": "3",
+      "crn": "16217",
+      "department": "",
+      "instructor": "Dr. W. Fischbein",
+      "notes": "P-EBF 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "International Financial Markets"
+   },
+   {
+      "code": "EBKN 101",
+      "credits": "3",
+      "crn": "16218",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to Marketing"
+   },
+   {
+      "code": "EBKN 505",
+      "credits": "3",
+      "crn": "16219",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBK 101, EBM 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "E-Commerce"
+   },
+   {
+      "code": "EBMN 101",
+      "credits": "3",
+      "crn": "13300",
+      "department": "",
+      "instructor": "Prof. A. Rovt",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Principles of Management"
+   },
+   {
+      "code": "EBMN 213",
+      "credits": "3",
+      "crn": "13306",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-EBM 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Business Law I"
+   },
+   {
+      "code": "EBMN 224",
+      "credits": "3",
+      "crn": "16074",
+      "department": "",
+      "instructor": "Prof. S. Felder",
+      "notes": "P-EBM 101 and EBE 101/102",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Human Resource Management"
+   },
+   {
+      "code": "EBMN 317",
+      "credits": "3",
+      "crn": "10588",
+      "department": "",
+      "instructor": "Prof. E. Popkoff",
+      "notes": "P-EBA 102",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "The Social & Governmental Environment of Business"
+   },
+   {
+      "code": "EDSE 600",
+      "credits": "3",
+      "crn": "16350",
+      "department": "",
+      "instructor": "Dr. A. Brezak",
+      "notes": "P-Department",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "History & Philosophy of Education & Special Education"
+   },
+   {
+      "code": "HISN 221",
+      "credits": "3",
+      "crn": "16221",
+      "department": "",
+      "instructor": "Dr. D. Hertzberg",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Survey of Modern History II"
+   },
+   {
+      "code": "JSLN 301",
+      "credits": "3",
+      "crn": "16227",
+      "department": "",
+      "instructor": "Prof. R. Weiss",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Topics in Kashrus"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "16228",
+      "department": "",
+      "instructor": "Prof. J. November",
+      "notes": "P-LLE 101 or EXAM",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "LLEN 220",
+      "credits": "3",
+      "crn": "10100",
+      "department": "",
+      "instructor": "Prof. R. Shmulewitz",
+      "notes": "P-LLE 102 or EXAM",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Survey of Modern Literature I"
+   },
+   {
+      "code": "LLEN 523",
+      "credits": "3",
+      "crn": "16266",
+      "department": "",
+      "instructor": "Prof. H. Buchman",
+      "notes": "P-LLE 102",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Development of the English Language"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "13178",
+      "department": "",
+      "instructor": "Dr. Oelbaum",
+      "notes": "P-EXAM",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "College Mathematics"
+   },
+   {
+      "code": "MATN 120",
+      "credits": "3",
+      "crn": "13206",
+      "department": "",
+      "instructor": "Prof. S. Silman",
+      "notes": "P-MAT 111 or EXAM",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Pre-Calculus"
+   },
+   {
+      "code": "MATN 333",
+      "credits": "3",
+      "crn": "10319",
+      "department": "",
+      "instructor": "Prof. E. Cohen",
+      "notes": "P-MAT 231",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Actuarial Math I"
+   },
+   {
+      "code": "MCDN 221",
+      "credits": "3",
+      "crn": "16945",
+      "department": "",
+      "instructor": "Prof. B. Rachman",
+      "notes": "Suggested P-MCD 236",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Photography"
+   },
+   {
+      "code": "MCDN 230",
+      "credits": "3",
+      "crn": "10600",
+      "department": "",
+      "instructor": "Prof. A. Finnel",
+      "notes": "C-MCO 150, MCD 235 LAB",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Digital Multimedia Design I"
+   },
+   {
+      "code": "MCDN 263",
+      "credits": "3",
+      "crn": "10603",
+      "department": "",
+      "instructor": "Prof. T. Borowski",
+      "notes": "P-MCD 155, MCD 231, MCD 236. C-MCD 262 and 267.",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Web Page Design I"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "16269",
+      "department": "",
+      "instructor": "Prof. S. Abrahamson",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Comp. Concepts with Computer Applications"
+   },
+   {
+      "code": "MCON 251",
+      "credits": "3",
+      "crn": "16270",
+      "department": "",
+      "instructor": "Prof. M. Erlbaum",
+      "notes": "P-MCO 232",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Programming Languages"
+   },
+   {
+      "code": "PSYN 201",
+      "credits": "3",
+      "crn": "15309",
+      "department": "",
+      "instructor": "Dr. M. Zacharowicz",
+      "notes": "P-PSY 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Developmental Psychology"
+   },
+   {
+      "code": "PSYN 226",
+      "credits": "3",
+      "crn": "10629",
+      "department": "",
+      "instructor": "Prof. E. Glanzman",
+      "notes": "P-PSY 101. (Counts as a Psychology Elective.)",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Psychology of Leadership"
+   },
+   {
+      "code": "PSYN 335",
+      "credits": "3",
+      "crn": "13697",
+      "department": "",
+      "instructor": "Dr. Gampel",
+      "notes": "P-PSY 101",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Abnormal Psychology"
+   },
+   {
+      "code": "PSYN 351",
+      "credits": "3",
+      "crn": "15310",
+      "department": "",
+      "instructor": "Dr. R. Kidron",
+      "notes": "P-PSY 101, Note: This course is offered in different time slots, including Monday afternoons.",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Biological Psychology"
+   },
+   {
+      "code": "SPLN 308",
+      "credits": "3",
+      "crn": "10479",
+      "department": "",
+      "instructor": "Prof. J. Holke",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to Hearing & Acoustics"
+   },
+   {
+      "code": "SPLN 223",
+      "credits": "3",
+      "crn": "16544",
+      "department": "",
+      "instructor": "Prof. D. Wilbur",
+      "notes": "P-None",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Introduction to Sign Language"
+   },
+   {
+      "code": "SPLN 361",
+      "credits": "3",
+      "crn": "10491",
+      "department": "",
+      "instructor": "Prof. P. Bottino",
+      "notes": "P-PSY 101, same as PSY 311.",
+      "section": "FF",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:35pm",
+            "start": "8:20pm"
+         }
+      ],
+      "title": "Psycholinguistics"
+   },
+   {
+      "code": "BION 101",
+      "credits": "0",
+      "crn": "13047",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C- BIO 101 Lecture (Sunday 11:40 AM)",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Principles of Biology I-LAB"
+   },
+   {
+      "code": "BION 101",
+      "credits": "0",
+      "crn": "13065",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C-BIO 101 Lecture (Thursday 8:20 PM)",
+      "section": "FF1",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Principles of Biology I-LAB"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "0",
+      "crn": "15804",
+      "department": "",
+      "instructor": "Dr. N. Abbasi",
+      "notes": "C-CPC 101 LEC (Thursday, 5:45PM - 8:15 PM)",
+      "section": "FEQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:00am"
+         }
+      ],
+      "title": "General Chemistry I LAB"
+   },
+   {
+      "code": "CPPN 101",
+      "credits": "4",
+      "crn": "10534",
+      "department": "",
+      "instructor": "Dr. D. Goldberg",
+      "notes": "C-CPP 101 LAB (Tuesday, 5:40 PM)",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:00am"
+         }
+      ],
+      "title": "General Physics I LEC"
+   },
+   {
+      "code": "EBAN 101",
+      "credits": "3",
+      "crn": "13239",
+      "department": "",
+      "instructor": "Prof. B. Halberstam",
+      "notes": "P-None",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Principles of Accounting I"
+   },
+   {
+      "code": "EBAN 302",
+      "credits": "3",
+      "crn": "16285",
+      "department": "",
+      "instructor": "Prof. J. Newman",
+      "notes": "P-EBA 102, C-EBA 201",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Government & Not-For-Profit Accounting."
+   },
+   {
+      "code": "EBEN 102",
+      "credits": "3",
+      "crn": "16287",
+      "department": "",
+      "instructor": "Prof. A. Panoff",
+      "notes": "P-None",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Principles of Microeconomics"
+   },
+   {
+      "code": "EBFN 220",
+      "credits": "3",
+      "crn": "16305",
+      "department": "",
+      "instructor": "Dr. E. Cohn",
+      "notes": "P-EBF 101",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Corporate Finance"
+   },
+   {
+      "code": "EBMN 214",
+      "credits": "3",
+      "crn": "10587",
+      "department": "",
+      "instructor": "Prof. I. Klepfish",
+      "notes": "P-EBM 213",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Business Law II"
+   },
+   {
+      "code": "EDUN 303",
+      "credits": "3",
+      "crn": "16946",
+      "department": "",
+      "instructor": "Prof. B. Carlin",
+      "notes": "P-EDU 301. This is a hybrid course with an online component. It meets in person every second week.",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Teaching the Social Studies Spectrum Grades 1-6"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "13327",
+      "department": "",
+      "instructor": "Prof. M. Neghida",
+      "notes": "P-None",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "LLEN 101",
+      "credits": "3",
+      "crn": "13133",
+      "department": "",
+      "instructor": "Prof. R. Reichman",
+      "notes": "P-LLE 100 or Exam",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "English Composition I"
+   },
+   {
+      "code": "LLEN 221",
+      "credits": "3",
+      "crn": "13155",
+      "department": "",
+      "instructor": "Prof. H. Buchman",
+      "notes": "P-LLE 102 or Exam",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Survey of Modern Literature II"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "13183",
+      "department": "",
+      "instructor": "Prof. Z. Lipchik",
+      "notes": "P-EXAM",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "College Mathematics"
+   },
+   {
+      "code": "MATN 510",
+      "credits": "3",
+      "crn": "16314",
+      "department": "",
+      "instructor": "Dr. L. Kaganovskiy",
+      "notes": "P-MAT 122",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Bio-Statistics"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "16315",
+      "department": "",
+      "instructor": "Prof. Y. Lehrman",
+      "notes": "P-None. Not for computer Science majors.",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Computer Concepts with Computer Applications"
+   },
+   {
+      "code": "PSYN 401",
+      "credits": "3",
+      "crn": "13659",
+      "department": "",
+      "instructor": "Dr. M. Zacharowicz",
+      "notes": "P-PSY 101",
+      "section": "FQ",
+      "time": [
+         {
+            "day": "S",
+            "end": "11:45am",
+            "start": "9:15am"
+         }
+      ],
+      "title": "Psychology of the Exceptional Child"
+   },
+   {
+      "code": "BION 101",
+      "credits": "4",
+      "crn": "15334",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C- BIO 101 (LAB Sunday 9:00 AM)",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Principles of Biology I Lecture"
+   },
+   {
+      "code": "BION 111",
+      "credits": "0",
+      "crn": "15320",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C-BIO 111 LEC (Tues./Thurs. 3:15 PM)",
+      "section": "FA",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Human Biology LAB"
+   },
+   {
+      "code": "BION 111",
+      "credits": "0",
+      "crn": "15327",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C-BIO111 LEC (Tuesday 8:20 PM) – 10:35 PM",
+      "section": "FD",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Human Biology I LAB"
+   },
+   {
+      "code": "BION 111",
+      "credits": "0",
+      "crn": "15332",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "C-BIO 111 LEC (Thursday 6:00 P.M.)",
+      "section": "FE",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Human Biology LAB"
+   },
+   {
+      "code": "BION 228",
+      "credits": "0",
+      "crn": "15326",
+      "department": "",
+      "instructor": "Dr. Z. Leifer",
+      "notes": "P – BIO 102; C – BIO 228 LEC (Tuesday 6:00 PM)",
+      "section": "FC",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Microbiology LAB"
+   },
+   {
+      "code": "COAN 131",
+      "credits": "3",
+      "crn": "16316",
+      "department": "",
+      "instructor": "Prof. D. Hyman",
+      "notes": "P-None",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Intro to Music"
+   },
+   {
+      "code": "CPCN 101",
+      "credits": "0",
+      "crn": "15857",
+      "department": "",
+      "instructor": "Dr. N. Abbasi",
+      "notes": "P-MAT 120; C-CPC 101, LEC (Thursday, 5:45 PM – 8:15 PM)",
+      "section": "FER",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "General Chemistry LAB"
+   },
+   {
+      "code": "EBAN 102",
+      "credits": "3",
+      "crn": "13248",
+      "department": "",
+      "instructor": "Prof. B. Halberstam",
+      "notes": "P-EBA 101",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:35pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Principles of Accounting II"
+   },
+   {
+      "code": "EBAN 451",
+      "credits": "4",
+      "crn": "10574",
+      "department": "",
+      "instructor": "Prof. C. Herskowitz",
+      "notes": "P-Senior status",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "3:25pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Contemporary Issues in Accounting"
+   },
+   {
+      "code": "EBEN 101",
+      "credits": "3",
+      "crn": "13261",
+      "department": "",
+      "instructor": "Dr. M. Szenberg",
+      "notes": "P-None",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Principles of Macroeconomics"
+   },
+   {
+      "code": "LLEN 102",
+      "credits": "3",
+      "crn": "16317",
+      "department": "",
+      "instructor": "Prof. J. Epstein",
+      "notes": "P-LLE 101 or EXAM",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "English Composition II"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "15347",
+      "department": "",
+      "instructor": "Prof. Z. Lipchik",
+      "notes": "P-MAT 111 or EXAM",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Statistics for Social Science Majors"
+   },
+   {
+      "code": "POLN 101",
+      "credits": "3",
+      "crn": "16318",
+      "department": "",
+      "instructor": "Prof. D. Kupfer",
+      "notes": "P-None",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "American Politics"
+   },
+   {
+      "code": "PSYN 231",
+      "credits": "3",
+      "crn": "13610",
+      "department": "",
+      "instructor": "Dr. M. Zacharowicz",
+      "notes": "P-PSY 101",
+      "section": "FR",
+      "time": [
+         {
+            "day": "S",
+            "end": "2:30pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Psychological Testing"
+   },
+   {
+      "code": "PEDN 110",
+      "credits": "1",
+      "crn": "10617",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "Offered at Kingsway Jewish Center 2902 Kings Highway.",
+      "section": "FT",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:30pm",
+            "start": "7:30pm"
+         }
+      ],
+      "title": "Basketball & General Physical Education."
+   },
+   {
+      "code": "PEDN 160",
+      "credits": "1",
+      "crn": "10618",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "Offered at Kingsway Jewish Center 2902 Kings Highway.",
+      "section": "FT",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:30pm",
+            "start": "7:30pm"
+         }
+      ],
+      "title": "Swimming"
+   },
+   {
+      "code": "PEDN 508",
+      "credits": "1",
+      "crn": "16947",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "Offered Kingsway Jewish Center 2902 Kings Highway.",
+      "section": "FT",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:30pm",
+            "start": "7:30pm"
+         }
+      ],
+      "title": "Dance"
+   },
+   {
+      "code": "BION 493",
+      "credits": "3",
+      "crn": "16948",
+      "department": "",
+      "instructor": "Dr. R. S. Bressler",
+      "notes": "P-SEN & DEPT PERM. Required conferences every other Tuesday at 5:40 PM.",
+      "section": "FP1",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Research Topics in Biology"
+   },
+   {
+      "code": "BION 493",
+      "credits": "3",
+      "crn": "16949",
+      "department": "",
+      "instructor": "Dr. A. Levine",
+      "notes": "P-SEN & DEPT PERM. Required Conferences Every Other Tuesday at 5:40 PM.",
+      "section": "FP2",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Research Topics in Biology"
+   },
+   {
+      "code": "BION 494",
+      "credits": "3",
+      "crn": "16950",
+      "department": "",
+      "instructor": "Dr. R. S. Bressler",
+      "notes": "P-SEN & DEPT PERM. Students must arrange LAB placement in advance.",
+      "section": "FP",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Senior Honors Project in Biology"
+   },
+   {
+      "code": "HISN 493",
+      "credits": "3",
+      "crn": "10320",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-Permission",
+      "section": "FP",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Advanced Topics in Social Sciences"
+   },
+   {
+      "code": "MATN 493",
+      "credits": "3",
+      "crn": "13220",
+      "department": "",
+      "instructor": "Prof. D. Wohl",
+      "notes": "P-DEPT",
+      "section": "FP1",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Research Project In Mathematics"
+   },
+   {
+      "code": "MATN 493",
+      "credits": "3",
+      "crn": "16321",
+      "department": "",
+      "instructor": "Dr. B. Rabinowitz",
+      "notes": "P-DEPT",
+      "section": "FP2",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Research Project In Mathematics"
+   },
+   {
+      "code": "MCDN 498",
+      "credits": "3",
+      "crn": "10607",
+      "department": "",
+      "instructor": "Prof. S. DeCastro",
+      "notes": "P-MCD 263.",
+      "section": "FI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Internship in Digital Multimedia Design."
+   },
+   {
+      "code": "MCON 452",
+      "credits": "3",
+      "crn": "16323",
+      "department": "",
+      "instructor": "Prof. S. Fink",
+      "notes": "P-DEPT",
+      "section": "FI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Internship in Computer Science"
+   },
+   {
+      "code": "POLN 485",
+      "credits": "3",
+      "crn": "16325",
+      "department": "",
+      "instructor": "Dr. D. Chill",
+      "notes": "P-DEPT",
+      "section": "NI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Legislative Internship"
+   },
+   {
+      "code": "POLN 486",
+      "credits": "3",
+      "crn": "16328",
+      "department": "",
+      "instructor": "Dr. D. Chill",
+      "notes": "P-DEPT",
+      "section": "NI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Communal Internship"
+   },
+   {
+      "code": "POLN 494",
+      "credits": "3",
+      "crn": "16333",
+      "department": "",
+      "instructor": "Prof. T. Rozinski",
+      "notes": "P-POL 493 and DEPT permission.",
+      "section": "NI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Senior Honors Project in Political Science"
+   },
+   {
+      "code": "PSYN 485",
+      "credits": "3",
+      "crn": "10644",
+      "department": "",
+      "instructor": "Dr. M. Press",
+      "notes": "P-21 Credits In Psychology and permission.",
+      "section": "FI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Internship in Psychology"
+   },
+   {
+      "code": "PSYN 485",
+      "credits": "3",
+      "crn": "10644",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-21 Credits In Psychology and permission.",
+      "section": "FI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Internship in Psychology - Research"
+   },
+   {
+      "code": "PSYN 486",
+      "credits": "3",
+      "crn": "16952",
+      "department": "",
+      "instructor": "Dr. R. Soffer",
+      "notes": "P-21 Credits in Psychology and permission.",
+      "section": "FI",
+      "time": [
+         {
+            "day": "TBA",
+            "end": "tba",
+            "start": "tba"
+         }
+      ],
+      "title": "Internship in Psychology – Clinical"
+   },
+   {
+      "code": "EDUN 318",
+      "credits": "2",
+      "crn": "16303",
+      "department": "",
+      "instructor": "Dr. D. Zelasko/ Prof. M. Wapner",
+      "notes": "P-Approval of chair; Pass STAT",
+      "section": " ",
+      "time": [
+         {
+            "day": "MTWRF",
+            "end": "3:00pm",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Field Experience & Student Teaching I"
+   },
+   {
+      "code": "SPEN 319",
+      "credits": "2",
+      "crn": "16339",
+      "department": "",
+      "instructor": "Dr. D. Zelasko/ Prof. M. Wapner",
+      "notes": "P-Approval of chair; Pass STAT",
+      "section": " ",
+      "time": [
+         {
+            "day": "MTWRF",
+            "end": "3:00pm",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Field Experience"
+   },
+   {
+      "code": "SPEN 418",
+      "credits": "3",
+      "crn": "16341",
+      "department": "",
+      "instructor": "Dr. D. Zelasko/ Prof. M. Wapner",
+      "notes": "P-Approval of chair; Pass STAT",
+      "section": " ",
+      "time": [
+         {
+            "day": "MTWRF",
+            "end": "3:00pm",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Field Experience & Student Teaching II"
+   },
+   {
+      "code": "SPEN 419",
+      "credits": "3",
+      "crn": "16342",
+      "department": "",
+      "instructor": "Dr. D. Zelasko/ Prof. M. Wapner",
+      "notes": "P-Approval of chair; Pass STAT",
+      "section": " ",
+      "time": [
+         {
+            "day": "MTWRF",
+            "end": "3:00pm",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Student Teaching"
+   },
+   {
+      "code": "MCO 214",
+      "credits": "1",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Mahat",
+      "notes": "P-MCO 104",
+      "section": "FV",
+      "time": [
+         {
+            "day": "TBA",
+            "end": " ",
+            "start": "tba"
+         }
+      ],
+      "title": "Spreadsheet Tutorial"
+   },
+   {
+      "code": "MCO 215",
+      "credits": "1",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Mahat",
+      "notes": "P-MCO 141",
+      "section": "FV",
+      "time": [
+         {
+            "day": "TBA",
+            "end": " ",
+            "start": "tba"
+         }
+      ],
+      "title": "Database Tutorial"
+   },
+   {
+      "code": "MCO 216",
+      "credits": "1",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Mahat",
+      "notes": "P-MCO 104",
+      "section": "FV",
+      "time": [
+         {
+            "day": "TBA",
+            "end": " ",
+            "start": "tba"
+         }
+      ],
+      "title": "Advanced Spreadsheet Tutorial"
+   },
+   {
+      "code": "MCO 218",
+      "credits": "1",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Mahat",
+      "notes": "P-MCO 215 or MCO 343.",
+      "section": "FV",
+      "time": [
+         {
+            "day": "TBA",
+            "end": " ",
+            "start": "tba"
+         }
+      ],
+      "title": "Advanced Database Tutorial"
+   },
+   {
+      "code": "COAN 101",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Grenadir",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": "tba"
+         }
+      ],
+      "title": "Art of Western Civilization"
+   },
+   {
+      "code": "EBEN 101",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. D. Rockove",
+      "notes": "P- None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Principles of Macroeconomics"
+   },
+   {
+      "code": "EBEN 102",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. D. Rockove",
+      "notes": "P- None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Principles of Microeconomics"
+   },
+   {
+      "code": "EBFN 220",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. M. Rosenberg",
+      "notes": "P- EBF 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Corporation Finance"
+   },
+   {
+      "code": "EBKN 101",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Rovt",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Principles of Marketing"
+   },
+   {
+      "code": "EBKN 340",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Vanek",
+      "notes": "P-EBK 101, EBM 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "International Marketing Management"
+   },
+   {
+      "code": "EBLN 100",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. J. Stern",
+      "notes": "P-EBM 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Gerontology"
+   },
+   {
+      "code": "EBMN 318",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. D. Seideman",
+      "notes": "P-EBM 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Legal Aspects In Long Term Care"
+   },
+   {
+      "code": "EBMN 340",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. J. Stern",
+      "notes": "P-EBM 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Long Term Care Administration"
+   },
+   {
+      "code": "EDUN 201",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. C. Shapiro",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Psychosocial Foundations Growth, Development and Learning Birth thru Grade 6"
+   },
+   {
+      "code": "EDUN 301",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. D. Zelasko",
+      "notes": "P or C-EDU 201",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Teach Read & Language Arts, Grades 1–6."
+   },
+   {
+      "code": "EDUN 303",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. B. Carlin",
+      "notes": "P or C-EDU 201",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Teach the Social Studies Spectrum Subjects, Grades 1-6."
+   },
+   {
+      "code": "EDUN 304",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. B. Czeladnicki",
+      "notes": "P or C-EDU 201",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Math, Science and Technology; Teaching and Remediation, Grades 1-6"
+   },
+   {
+      "code": "EDUN 311",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Hamilton",
+      "notes": "P or C-EDU 201",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Principles of Early Childhood Education"
+   },
+   {
+      "code": "EDUN 316",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. G. Bell-Baptiste",
+      "notes": "P or C-EDU 201",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Language Acquisition & Emergent Literacy I, Birth – Pre K"
+   },
+   {
+      "code": "HISN 141",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. T. Lauer",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Emergence of the U.S. I to 1877"
+   },
+   {
+      "code": "HISN 155",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. H. Abramson",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "History of the Jewish People I"
+   },
+   {
+      "code": "HISN 220",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. T. Lauer",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Survey of Modern History I"
+   },
+   {
+      "code": "HISN 221",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. T. Lauer",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Survey of Modern History II"
+   },
+   {
+      "code": "HISN 271",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. T. Lauer",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "American Jewish History"
+   },
+   {
+      "code": "HISN 306",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. E. Hymes",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "History of New York City"
+   },
+   {
+      "code": "HISN 450",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. T. Lauer",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "American Cultural History"
+   },
+   {
+      "code": "MATN 111",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Polyakov",
+      "notes": "P- Exam",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "College Math"
+   },
+   {
+      "code": "MATN 120",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-MAT 111 or Exam",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Pre-Calculus"
+   },
+   {
+      "code": "MATN 121",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P- MAT 120 or Exam",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Calculus I"
+   },
+   {
+      "code": "MATN 261",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "TBA",
+      "notes": "P-MAT 111 or Exam",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Statistics for Social Science majors"
+   },
+   {
+      "code": "MCON 122",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. J. Fink",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Computer Literacy and Information Retrieval"
+   },
+   {
+      "code": "MCON 140",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. J. Fink",
+      "notes": "P-None",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Computer Concepts with Applications"
+   },
+   {
+      "code": "MCON 148",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Fink",
+      "notes": "P-MCO 140",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Computer Business Applications"
+   },
+   {
+      "code": "MCON 245",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Fink",
+      "notes": "P-MCO 141",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "UNIX"
+   },
+   {
+      "code": "MCON 256",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. S. Fink",
+      "notes": "P-MCO 141",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Database Programming"
+   },
+   {
+      "code": "MCON 275",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. J. Robinson",
+      "notes": "P-MCO 141",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Advanced Internet Tools & Web PG DSG"
+   },
+   {
+      "code": "MCON 358",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. M. Gutherc",
+      "notes": "P-MCO 141",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Web Programming"
+   },
+   {
+      "code": "PSYN 102",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. E. Litwin",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Social Psychology"
+   },
+   {
+      "code": "PSYN 201",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. E. Litwin",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Development Psychology"
+   },
+   {
+      "code": "PSYN 301",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101, MAT 261",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Experimental Psychology"
+   },
+   {
+      "code": "PSYN 301.6",
+      "credits": "1",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-Co-requisite, PSY 301 OL",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Experimental Psychology LAB"
+   },
+   {
+      "code": "PSYN 310",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Brownstein",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Personality"
+   },
+   {
+      "code": "PSYN 325",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. C. Tarshish",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Drugs and Behavior"
+   },
+   {
+      "code": "PSYN 332",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "History and Systems"
+   },
+   {
+      "code": "PSYN 335",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. A. Brownstein",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Abnormal Psychology"
+   },
+   {
+      "code": "PSYN 345",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. E. Litwin",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Psychology of Health and illness"
+   },
+   {
+      "code": "PSYN 351",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. C. Tarshish",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Biological Psychology"
+   },
+   {
+      "code": "PSYN 420",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. A. Geliebter",
+      "notes": "P-PSY 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Eating Disorders"
+   },
+   {
+      "code": "SpEd 309",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof. C. Christie",
+      "notes": "P-EDU 301/303 or EDU 304",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Principles of Curriculum Development for Students with Disabilities, Grades 1-6."
+   },
+   {
+      "code": "SpEd 313",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Prof S. Hamilton",
+      "notes": "EDU 311 or EDU 312 and EDU 316 or EDU 317.",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Developmentally Appropriate Learning Experience for Young Exceptional Children"
+   },
+   {
+      "code": "EBFN 504",
+      "credits": "3",
+      "crn": "",
+      "department": "",
+      "instructor": "Dr. M. Rosenberg",
+      "notes": "P-Nine credits of Finance courses after taking EBF 101",
+      "section": "OL",
+      "time": [
+         {
+            "day": "ONLINE",
+            "end": " ",
+            "start": " "
+         }
+      ],
+      "title": "Seminar in Investment Analysis"
+   }
+]
