@@ -66,7 +66,7 @@ function runScraper(school) {
 					days = 'R';
 					break;
 				case "Sunday":
-					days = 'S';
+					days = 'U';
 					break;
 				case "Special Monday Evening Time Slots":
 					days = 'M';
@@ -126,7 +126,7 @@ function runScraper(school) {
 		   		   	    'code': $(this).children('td:nth-child(2)').text(),
 		   		   	    'section': $(this).children('td:nth-child(3)').text(),
 		   		  	    'title': $(this).children('td:nth-child(4)').text(),
-		   		 	    'credits': $(this).children('td:nth-child(5)').text(),
+		   		 	    'credits': parseFloat($(this).children('td:nth-child(5)').text()),
 		   		   	    'instructor': $(this).children('td:nth-child(6)').text(),
 		   		   	    'notes': $(this).children('td:nth-child(9)').text(),
 		   		   	    'time' : [getTimeObject(this, days)],
