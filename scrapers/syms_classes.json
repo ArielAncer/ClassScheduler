@@ -1,0 +1,1449 @@
+[
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33793",
+      "department": "Accounting",
+      "instructor": "Aliza Rotenstein",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Accounting Principles I"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33866",
+      "department": "Accounting",
+      "instructor": "Constance J. Crawford",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Accounting Principles I"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33817",
+      "department": "Accounting",
+      "instructor": "Constance J. Crawford",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Accounting Principles I"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33794",
+      "department": "Accounting",
+      "instructor": "Leonard Fuld",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Accounting Principles I"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35635",
+      "department": "Accounting",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Accounting Principles I"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33821",
+      "department": "Accounting",
+      "instructor": "Joel A. Hochman",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Accounting Principles II"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33795",
+      "department": "Accounting",
+      "instructor": "Aliza Rotenstein",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intermediate Accounting I"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33796",
+      "department": "Accounting",
+      "instructor": "Aliza Rotenstein",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Intermediate Accounting I"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36423",
+      "department": "Accounting",
+      "instructor": "Francine Mellors-Rothenstein",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intermediate Accounting I"
+   },
+   {
+      "code": "2403",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33797",
+      "department": "Accounting",
+      "instructor": "He Huang",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Management Accounting"
+   },
+   {
+      "code": "3201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33825",
+      "department": "Accounting",
+      "instructor": "Martin A. Leibowitz",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Advanced Accounting"
+   },
+   {
+      "code": "3201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33798",
+      "department": "Accounting",
+      "instructor": "Martin A. Leibowitz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Advanced Accounting"
+   },
+   {
+      "code": "3851",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33816",
+      "department": "Accounting",
+      "instructor": "Sidney J. Mehl",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Financial Statement Analysis"
+   },
+   {
+      "code": "4741",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33815",
+      "department": "Business & Management",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "INT",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Business Internship"
+   },
+   {
+      "code": "1800H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33851",
+      "department": "Business Law",
+      "instructor": "Moses L. Pava",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Business as Human Enterprise"
+   },
+   {
+      "code": "2021",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33799",
+      "department": "Business Law",
+      "instructor": "Daniel Feldman",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Ethical & Legal Env Business"
+   },
+   {
+      "code": "2021",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35661",
+      "department": "Business Law",
+      "instructor": "Daniel Feldman",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Ethical & Legal Env Business"
+   },
+   {
+      "code": "2111",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33800",
+      "department": "Business Law",
+      "instructor": "Robert Jay Greenberg",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "TR",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Business Law I"
+   },
+   {
+      "code": "2111",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33801",
+      "department": "Business Law",
+      "instructor": "Robert Jay Greenberg",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Business Law I"
+   },
+   {
+      "code": "2500",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33831",
+      "department": "Business Law",
+      "instructor": "Ozer Glickman",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Business and Jewish Law"
+   },
+   {
+      "code": "2500",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33822",
+      "department": "Business Law",
+      "instructor": "Daniel Feldman",
+      "prereqs": "",
+      "section": "312",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Business and Jewish Law"
+   },
+   {
+      "code": "2500",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33832",
+      "department": "Business Law",
+      "instructor": "Ozer Glickman",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Business and Jewish Law"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33802",
+      "department": "Finance",
+      "instructor": "Sidney J. Mehl",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Finance"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35673",
+      "department": "Finance",
+      "instructor": "Rachel Calipha",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Principles of Finance"
+   },
+   {
+      "code": "1408",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35674",
+      "department": "Finance",
+      "instructor": "Joshua Krausz",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Corporate Finance"
+   },
+   {
+      "code": "1408",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33803",
+      "department": "Finance",
+      "instructor": "Gabriela Coiculescu",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Corporate Finance"
+   },
+   {
+      "code": "2505",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33804",
+      "department": "Finance",
+      "instructor": "Joshua Krausz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Investment Analysis"
+   },
+   {
+      "code": "3510",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33844",
+      "department": "Finance",
+      "instructor": "Rachel Calipha",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Options and Futures"
+   },
+   {
+      "code": "3720",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33820",
+      "department": "Finance",
+      "instructor": "S. Abraham Ravid",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Fixed Income Securities"
+   },
+   {
+      "code": "3851",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33806",
+      "department": "Finance",
+      "instructor": "Sidney J. Mehl",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Financial Statement Analysis"
+   },
+   {
+      "code": "1012",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33827",
+      "department": "First Year Seminar",
+      "instructor": "Marc Spear",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Business Communication"
+   },
+   {
+      "code": "1012",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33853",
+      "department": "First Year Seminar",
+      "instructor": "Marc Spear",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Business Communication"
+   },
+   {
+      "code": "1012",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33852",
+      "department": "First Year Seminar",
+      "instructor": "Marc Spear",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Business Communication"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33858",
+      "department": "First Year Writing",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "243",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33857",
+      "department": "First Year Writing",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "262",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33860",
+      "department": "First Year Writing",
+      "instructor": "Timothy J. Berrigan",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "TR",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33859",
+      "department": "First Year Writing",
+      "instructor": "Timothy J. Berrigan",
+      "prereqs": "",
+      "section": "332",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33861",
+      "department": "First Year Writing",
+      "instructor": "Timothy J. Berrigan",
+      "prereqs": "",
+      "section": "342",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36573",
+      "department": "First Year Writing",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "343",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33839",
+      "department": "Information & Decision Science",
+      "instructor": "Avi Naiman",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Business Algebra"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33840",
+      "department": "Information & Decision Science",
+      "instructor": "Avi Naiman",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Business Algebra"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33807",
+      "department": "Information & Decision Science",
+      "instructor": "Shu Han",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Intro to Information Systems"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33828",
+      "department": "Information & Decision Science",
+      "instructor": "Shu Han",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intro to Information Systems"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33809",
+      "department": "Information & Decision Science",
+      "instructor": "Shu Han",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Intro to Information Systems"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35679",
+      "department": "Information & Decision Science",
+      "instructor": "Kevin Brabazon",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro to Information Systems"
+   },
+   {
+      "code": "1131",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35680",
+      "department": "Information & Decision Science",
+      "instructor": "Vladimir Kovtun",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Statistics for Business"
+   },
+   {
+      "code": "1131",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33808",
+      "department": "Information & Decision Science",
+      "instructor": "Avi H. Giloni",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Statistics for Business"
+   },
+   {
+      "code": "1131",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33833",
+      "department": "Information & Decision Science",
+      "instructor": "Avi H. Giloni",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Statistics for Business"
+   },
+   {
+      "code": "1456",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33826",
+      "department": "Information & Decision Science",
+      "instructor": "Yasar Levent Kocaga",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Quantitative Methods Managment"
+   },
+   {
+      "code": "1456",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33810",
+      "department": "Information & Decision Science",
+      "instructor": "Yasar Levent Kocaga",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Quantitative Methods Managment"
+   },
+   {
+      "code": "2030",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33837",
+      "department": "Information & Decision Science",
+      "instructor": "Yitzchak S. Rosenthal",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Bus. Analytics & Programming"
+   },
+   {
+      "code": "2160",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33849",
+      "department": "Information & Decision Science",
+      "instructor": "Sriram Subramanian",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Decision Models"
+   },
+   {
+      "code": "2460",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35689",
+      "department": "Information & Decision Science",
+      "instructor": "Yitzchak S. Rosenthal",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Data Management-Bus Analytics"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33862",
+      "department": "Jewish Values in Contemp Wrld",
+      "instructor": "Jacob J. Schacter",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         },
+         {
+            "day": "T",
+            "end": "2:30 pm",
+            "start": "1:30 pm"
+         }
+      ],
+      "title": "Jewish Engagements"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33863",
+      "department": "Jewish Values in Contemp Wrld",
+      "instructor": "Jacob J. Schacter",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         },
+         {
+            "day": "R",
+            "end": "2:30 pm",
+            "start": "1:30 pm"
+         }
+      ],
+      "title": "Jewish Engagements"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35690",
+      "department": "Jewish Values in Contemp Wrld",
+      "instructor": "Daniel Rynhold",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Jewish Values in Contemp Wrld"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35691",
+      "department": "Jewish Values in Contemp Wrld",
+      "instructor": "Daniel Rynhold",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Jewish Values in Contemp Wrld"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35681",
+      "department": "Management",
+      "instructor": "Andrew M. Geller",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Mangmnt in a Global Environmnt"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33811",
+      "department": "Management",
+      "instructor": "Steven M. Nissenfeld",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Mangmnt in a Global Environmnt"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33812",
+      "department": "Management",
+      "instructor": "Steven M. Nissenfeld",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Mangmnt in a Global Environmnt"
+   },
+   {
+      "code": "2800H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35710",
+      "department": "Management",
+      "instructor": "Laizer Kornwasser",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:00pm",
+            "start": "6:30pm"
+         }
+      ],
+      "title": "Entrepreneurial Leadership"
+   },
+   {
+      "code": "2941",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33843",
+      "department": "Management",
+      "instructor": "Robert Tufts",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Sports Marketing Management"
+   },
+   {
+      "code": "2945",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35693",
+      "department": "Management",
+      "instructor": "Laizer Kornwasser",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:25pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Real Estate Management"
+   },
+   {
+      "code": "3015",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33864",
+      "department": "Management",
+      "instructor": "Andrew M. Geller",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Management & Leadership"
+   },
+   {
+      "code": "3504",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33842",
+      "department": "Management",
+      "instructor": "Jonathan M. Stern",
+      "prereqs": "",
+      "section": "ONL",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Systematic Inventive Thinking"
+   },
+   {
+      "code": "3780",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33818",
+      "department": "Management",
+      "instructor": "Robert Tufts",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Principles of Entrepreneurship"
+   },
+   {
+      "code": "3788",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35692",
+      "department": "Management",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "8:25pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Managing the Family Business"
+   },
+   {
+      "code": "4002",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35683",
+      "department": "Management",
+      "instructor": "Richard M. Joel",
+      "prereqs": "",
+      "section": "441",
+      "time": [
+         {
+            "day": "W",
+            "end": "6:10pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Leadership in Non-Profit World"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33835",
+      "department": "Marketing",
+      "instructor": "Frederick Palumbo",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "TR",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Mar 1001 Principles of Marketing"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33813",
+      "department": "Marketing",
+      "instructor": "Frederick Palumbo",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Mar 1001 Principles of Marketing"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35684",
+      "department": "Marketing",
+      "instructor": "Frederick Palumbo",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Mar 1001 Principles of Marketing"
+   },
+   {
+      "code": "2501",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35685",
+      "department": "Marketing",
+      "instructor": "Tamar Avnet",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Buyer Behavior"
+   },
+   {
+      "code": "2621",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33814",
+      "department": "Marketing",
+      "instructor": "Maria Blekher",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Applied Research"
+   },
+   {
+      "code": "2941",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33846",
+      "department": "Marketing",
+      "instructor": "Robert Tufts",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Sports Marketing Management"
+   },
+   {
+      "code": "3318",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33838",
+      "department": "Marketing",
+      "instructor": "Tamar Avnet",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Social Media Marketing"
+   },
+   {
+      "code": "3320",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35686",
+      "department": "Marketing",
+      "instructor": "Nurit Shaul",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Digital Media"
+   },
+   {
+      "code": "3328",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35885",
+      "department": "Marketing",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Managing Sales in Hi-Tech Co."
+   },
+   {
+      "code": "3504",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33841",
+      "department": "Marketing",
+      "instructor": "Jonathan M. Stern",
+      "prereqs": "",
+      "section": "ONL",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Systematic Inventive Thinking"
+   },
+   {
+      "code": "6124",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33823",
+      "department": "Tax",
+      "instructor": "Leonard Fuld",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Federal Income Taxation I"
+   },
+   {
+      "code": "6124",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33824",
+      "department": "Tax",
+      "instructor": "Leonard Fuld",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Federal Income Taxation I"
+   }
+]

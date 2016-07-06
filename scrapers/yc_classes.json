@@ -1,0 +1,4433 @@
+[
+   {
+      "code": "1023H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35699",
+      "department": "Art",
+      "instructor": "Jacob Wisse, Meir Yakov Soloveichik ",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Rembrandt and the Jews"
+   },
+   {
+      "code": "1635H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35570",
+      "department": "Art",
+      "instructor": "Paul Glassman",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Evolution of the Skyscraper"
+   },
+   {
+      "code": "1831",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35643",
+      "department": "Art",
+      "instructor": "Paul Glassman",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Architectural Design Process"
+   },
+   {
+      "code": "2301",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33989",
+      "department": "Art",
+      "instructor": "Carla Aurich",
+      "prereqs": "",
+      "section": "281",
+      "time": [
+         {
+            "day": "M",
+            "end": "10:30pm",
+            "start": "8:45pm"
+         }
+      ],
+      "title": "Principles of Drawing"
+   },
+   {
+      "code": "2901",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "34028",
+      "department": "Art",
+      "instructor": "Carla Aurich",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:35pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Printmaking"
+   },
+   {
+      "code": "1000",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33969",
+      "department": "Bible",
+      "instructor": "Moshe J. Bernstein",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Bible:Text, Context, Tradition"
+   },
+   {
+      "code": "1000",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33972",
+      "department": "Bible",
+      "instructor": "Shalom Carmy",
+      "prereqs": "",
+      "section": "312",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Bible:Text, Context, Tradition"
+   },
+   {
+      "code": "1000",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33971",
+      "department": "Bible",
+      "instructor": "Moshe J. Bernstein",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Bible:Text, Context, Tradition"
+   },
+   {
+      "code": "1000",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33973",
+      "department": "Bible",
+      "instructor": "Shalom Carmy",
+      "prereqs": "",
+      "section": "512",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Bible:Text, Context, Tradition"
+   },
+   {
+      "code": "1000",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33970",
+      "department": "Bible",
+      "instructor": "Yaakov Elman",
+      "prereqs": "",
+      "section": "513",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Bible:Text, Context, Tradition"
+   },
+   {
+      "code": "1220",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33974",
+      "department": "Bible",
+      "instructor": "Elazar Hurvitz",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Biblical Midrashim"
+   },
+   {
+      "code": "2000H",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35571",
+      "department": "Bible",
+      "instructor": "Barry L. Eichler",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Genesis"
+   },
+   {
+      "code": "2020H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35573",
+      "department": "Bible",
+      "instructor": "Shalom Carmy",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Exodus"
+   },
+   {
+      "code": "2700",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "34637",
+      "department": "Bible",
+      "instructor": "Joseph L. Angel",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Psalms"
+   },
+   {
+      "code": "2720",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35569",
+      "department": "Bible",
+      "instructor": "Jeremy Wieder",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Proverbs"
+   },
+   {
+      "code": "2740",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33975",
+      "department": "Bible",
+      "instructor": "Elazar Hurvitz",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Job"
+   },
+   {
+      "code": "2800",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35575",
+      "department": "Bible",
+      "instructor": "J. Mitchell Orlian",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "T",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Daniel"
+   },
+   {
+      "code": "2800",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "35572",
+      "department": "Bible",
+      "instructor": "J. Mitchell Orlian",
+      "prereqs": "",
+      "section": "511",
+      "time": [
+         {
+            "day": "R",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Daniel"
+   },
+   {
+      "code": "1011L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33868",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Principles Lab"
+   },
+   {
+      "code": "1011L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33869",
+      "department": "Biology",
+      "instructor": "Aaron Kogut",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Principles Lab"
+   },
+   {
+      "code": "1011L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33870",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Principles Lab"
+   },
+   {
+      "code": "1011L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "37211",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "561",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Principles Lab"
+   },
+   {
+      "code": "1011R",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33872",
+      "department": "Biology",
+      "instructor": "Somdeb Mitra",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Principles Lectures"
+   },
+   {
+      "code": "1376L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33873",
+      "department": "Biology",
+      "instructor": "Somdeb Mitra",
+      "prereqs": "",
+      "section": "561",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Biochemistry Lab"
+   },
+   {
+      "code": "1376R",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33874",
+      "department": "Biology",
+      "instructor": "Daniel Lim",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Biochemistry Lecture"
+   },
+   {
+      "code": "3135C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33876",
+      "department": "Biology",
+      "instructor": "Vincent Chiappetta",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "T",
+            "end": "4:40pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "T",
+            "end": "10:05 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "CELL STRUCTURE AND FUNCTION"
+   },
+   {
+      "code": "3207C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33877",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:50pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "T",
+            "end": "10:05 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Cell Biology"
+   },
+   {
+      "code": "3513C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33939",
+      "department": "Biology",
+      "instructor": "Josefa M. Steinhauer",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "3:50pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "W",
+            "end": "10:05 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Genetics"
+   },
+   {
+      "code": "3728C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33940",
+      "department": "Biology",
+      "instructor": "Sumanta Goswami",
+      "prereqs": "",
+      "section": "551",
+      "time": [
+         {
+            "day": "R",
+            "end": "6:40pm",
+            "start": "5:00pm"
+         },
+         {
+            "day": "R",
+            "end": "10:05 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Human & Animal Physiology"
+   },
+   {
+      "code": "4023L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33920",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Microbiology Lab"
+   },
+   {
+      "code": "4023R",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33921",
+      "department": "Biology",
+      "instructor": "Moses D. Tendler",
+      "prereqs": "",
+      "section": "441",
+      "time": [
+         {
+            "day": "W",
+            "end": "6:10pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Microbiology"
+   },
+   {
+      "code": "4901",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33978",
+      "department": "Biology",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "0"
+         }
+      ],
+      "title": "Research in Biology"
+   },
+   {
+      "code": "4930",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35574",
+      "department": "Biology",
+      "instructor": "Esther Devorah Rollhaus",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Topics: Psychopharmacology"
+   },
+   {
+      "code": "4934H",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33977",
+      "department": "Biology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "561",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:25pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Topics: Stem Cells"
+   },
+   {
+      "code": "1045R",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33878",
+      "department": "Chemistry",
+      "instructor": "James Camara",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         },
+         {
+            "day": "R",
+            "end": "6:40 pm",
+            "start": "5:50 pm"
+         }
+      ],
+      "title": "General Chemistry I Lec"
+   },
+   {
+      "code": "1122H",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "34029",
+      "department": "Chemistry",
+      "instructor": "Jianfeng Jiang",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         },
+         {
+            "day": "W",
+            "end": "9:45 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Chemical Analysis"
+   },
+   {
+      "code": "1213R",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33879",
+      "department": "Chemistry",
+      "instructor": "Fabiola Barrios-Landeros",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         },
+         {
+            "day": "R",
+            "end": "6:40 pm",
+            "start": "5:50 pm"
+         }
+      ],
+      "title": "Organic Chemistry I Lec"
+   },
+   {
+      "code": "1215L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33961",
+      "department": "Chemistry",
+      "instructor": "Daniel Lim",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "10:45pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Organic Chemistry Lab"
+   },
+   {
+      "code": "1215L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33962",
+      "department": "Chemistry",
+      "instructor": "Racquel K. Malcolm-Whyte",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "10:45pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Organic Chemistry Lab"
+   },
+   {
+      "code": "1215L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33963",
+      "department": "Chemistry",
+      "instructor": "Fabiola Barrios-Landeros",
+      "prereqs": "",
+      "section": "611",
+      "time": [
+         {
+            "day": "F",
+            "end": "1:00pm",
+            "start": "9:00am"
+         }
+      ],
+      "title": "Organic Chemistry Lab"
+   },
+   {
+      "code": "1376L",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33927",
+      "department": "Chemistry",
+      "instructor": "Somdeb Mitra",
+      "prereqs": "",
+      "section": "561",
+      "time": [
+         {
+            "day": "R",
+            "end": "10:05pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Biochemistry Lab"
+   },
+   {
+      "code": "1376R",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33928",
+      "department": "Chemistry",
+      "instructor": "Daniel Lim",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Biochemistry Lec"
+   },
+   {
+      "code": "1415R",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33932",
+      "department": "Chemistry",
+      "instructor": "Raji Viswanathan",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "M",
+            "end": "7:40 pm",
+            "start": "6:50 pm"
+         }
+      ],
+      "title": "Physical Chemistry I"
+   },
+   {
+      "code": "4901",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33979",
+      "department": "Chemistry",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "0"
+         }
+      ],
+      "title": "Research in Chemistry"
+   },
+   {
+      "code": "1300C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33985",
+      "department": "Computer Science",
+      "instructor": "Van Kelly",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Introduction to Computer Science"
+   },
+   {
+      "code": "1300L",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33955",
+      "department": "Computer Science",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro to Computer Science-Lab"
+   },
+   {
+      "code": "1300L",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "34129",
+      "department": "Computer Science",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "561",
+      "time": [
+         {
+            "day": "R",
+            "end": "8:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro to Computer Science-Lab"
+   },
+   {
+      "code": "1320C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33936",
+      "department": "Computer Science",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Data Structures"
+   },
+   {
+      "code": "1320L",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "34030",
+      "department": "Computer Science",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Data Structures Lab"
+   },
+   {
+      "code": "1504C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33943",
+      "department": "Computer Science",
+      "instructor": "Arnold Lebow",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "R",
+            "end": "8:00 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Discrete Structures"
+   },
+   {
+      "code": "1621",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35896",
+      "department": "Computer Science",
+      "instructor": "Arnold Lebow",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Theory of Computation"
+   },
+   {
+      "code": "3610",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33922",
+      "department": "Computer Science",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro to Operating Systems"
+   },
+   {
+      "code": "3780",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33931",
+      "department": "Computer Science",
+      "instructor": "Van Kelly",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Web Programming & Development"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34023",
+      "department": "Contemporary World Cultures",
+      "instructor": "Elizabeth Stewart",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "COWC 1002: Diaspora Literature"
+   },
+   {
+      "code": "1014",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35644",
+      "department": "Contemporary World Cultures",
+      "instructor": "Jonathan Schapiro",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "American Musical Cultures"
+   },
+   {
+      "code": "1017",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35645",
+      "department": "Contemporary World Cultures",
+      "instructor": "Graciela Bazet de Broitman",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "The Spanish Civil War 35645 COWC 1017 361"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35646",
+      "department": "Contemporary World Cultures",
+      "instructor": "Roberto Genoves",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Politics and Global Markets"
+   },
+   {
+      "code": "1025",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35579",
+      "department": "Contemporary World Cultures",
+      "instructor": "Jonathan J. Zisook",
+      "prereqs": "",
+      "section": "611",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:00pm",
+            "start": "9:30am"
+         }
+      ],
+      "title": "Religion and Society"
+   },
+   {
+      "code": "1003",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34108",
+      "department": "Cultures Over Time",
+      "instructor": "David Lavinsky",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "The Monstrous"
+   },
+   {
+      "code": "1003H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35647",
+      "department": "Cultures Over Time",
+      "instructor": "David Lavinsky",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "The Monstrous"
+   },
+   {
+      "code": "1009",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35648",
+      "department": "Cultures Over Time",
+      "instructor": "Rachel Mesch",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "France and its Others"
+   },
+   {
+      "code": "1021",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34132",
+      "department": "Cultures Over Time",
+      "instructor": "Jeffrey Freedman",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Origins of Democratic Political Culture"
+   },
+   {
+      "code": "1026",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35649",
+      "department": "Cultures Over Time",
+      "instructor": "Aaron J. Koller",
+      "prereqs": "",
+      "section": "611",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:00pm",
+            "start": "9:30am"
+         }
+      ],
+      "title": "The History of the Alphabet, from its Invention to the Rise of Arabic"
+   },
+   {
+      "code": "1010",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34082",
+      "department": "Economics",
+      "instructor": "Ran Shao",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Principles of Economics"
+   },
+   {
+      "code": "1177",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34002",
+      "department": "Economics",
+      "instructor": "Tadashi Hashimoto",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Game Theory"
+   },
+   {
+      "code": "1201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33923",
+      "department": "Economics",
+      "instructor": "Omer Acikgoz",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intermediate Macroeconomics"
+   },
+   {
+      "code": "1221H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35846",
+      "department": "Economics",
+      "instructor": "Elias C. Grivoyannis",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Money and Banking"
+   },
+   {
+      "code": "1421",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33935",
+      "department": "Economics",
+      "instructor": "Orkideh Gharehgozli",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Econometrics"
+   },
+   {
+      "code": "1701",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35584",
+      "department": "Economics",
+      "instructor": "Elias C. Grivoyannis",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "International Economics"
+   },
+   {
+      "code": "0010",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33919",
+      "department": "English",
+      "instructor": "Norma Silbermintz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "ESL: Intro to College"
+   },
+   {
+      "code": "0011",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33958",
+      "department": "English",
+      "instructor": "Norma Silbermintz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Eng as Sec Lang I"
+   },
+   {
+      "code": "0012",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33959",
+      "department": "English",
+      "instructor": "Norma Silbermintz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Eng as Sec Lang II"
+   },
+   {
+      "code": "0013",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33960",
+      "department": "English",
+      "instructor": "Norma Silbermintz",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Eng as Sec Lang III"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35652",
+      "department": "English",
+      "instructor": "Elizabeth Stewart",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Diaspora Literature"
+   },
+   {
+      "code": "1003",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35653",
+      "department": "English",
+      "instructor": "William Lamborn Lee",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Shakespeare and the Arts"
+   },
+   {
+      "code": "1007",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35654",
+      "department": "English",
+      "instructor": "Richard Leonard Nochimson",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Fiction & Artistic Imagination"
+   },
+   {
+      "code": "1409",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35656",
+      "department": "English",
+      "instructor": "Liesl Schwabe",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Writing the Essay: From Personal Narrative to Personal Statements"
+   },
+   {
+      "code": "2052",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35677",
+      "department": "English",
+      "instructor": "William Lamborn Lee",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Realisms: Mimetic to Magical"
+   },
+   {
+      "code": "2317",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35657",
+      "department": "English",
+      "instructor": "David Lavinsky",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "21st Century Chaucer: The Canterbury Tales"
+   },
+   {
+      "code": "2963H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35658",
+      "department": "English",
+      "instructor": "Elizabeth Stewart",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Graphic Novels and Animation"
+   },
+   {
+      "code": "3065",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35655",
+      "department": "English",
+      "instructor": "Rachel Mesch",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Gender and Literature"
+   },
+   {
+      "code": "4001",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "33933",
+      "department": "English",
+      "instructor": "Lauren Fitzgerald",
+      "prereqs": "",
+      "section": "481",
+      "time": [
+         {
+            "day": "W",
+            "end": "9:45pm",
+            "start": "8:15pm"
+         }
+      ],
+      "title": "Senior Colloquium"
+   },
+   {
+      "code": "1002",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34007",
+      "department": "Experimental & Quant. Methods",
+      "instructor": "Raji Viswanathan",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:45pm",
+            "start": "4:30pm"
+         },
+         {
+            "day": "W",
+            "end": "5:45 pm",
+            "start": "4:30 pm"
+         }
+      ],
+      "title": "Analysis of Environmntl Toxins"
+   },
+   {
+      "code": "1007",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35578",
+      "department": "Experimental & Quant. Methods",
+      "instructor": "Daniel Kimmel",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Epidemiology"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34068",
+      "department": "First Year Writing",
+      "instructor": "Liesl Schwabe",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34069",
+      "department": "First Year Writing",
+      "instructor": "Liesl Schwabe",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34072",
+      "department": "First Year Writing",
+      "instructor": "Elizabeth Stewart",
+      "prereqs": "",
+      "section": "232",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34070",
+      "department": "First Year Writing",
+      "instructor": "Lauren Fitzgerald",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34076",
+      "department": "First Year Writing",
+      "instructor": "Norma Silbermintz",
+      "prereqs": "",
+      "section": "242",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing:ESL"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34117",
+      "department": "First Year Writing",
+      "instructor": "Barbara A. Blatner",
+      "prereqs": "",
+      "section": "244",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35582",
+      "department": "First Year Writing",
+      "instructor": "Richard Leonard Nochimson",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34071",
+      "department": "First Year Writing",
+      "instructor": "Barbara A. Blatner",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1020",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34073",
+      "department": "First Year Writing",
+      "instructor": "Barbara A. Blatner",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "First Year Writing"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33881",
+      "department": "French",
+      "instructor": "Raisa Rexer",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Elementary French I"
+   },
+   {
+      "code": "1201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34119",
+      "department": "French",
+      "instructor": "Raisa Rexer",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intermediate French I"
+   },
+   {
+      "code": "1004",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34012",
+      "department": "Hebrew",
+      "instructor": "Lori Linzer",
+      "prereqs": "",
+      "section": "201",
+      "time": [
+         {
+            "day": "MWR",
+            "end": "12:50pm",
+            "start": "12:01pm"
+         },
+         {
+            "day": "T",
+            "end": "1:10 pm",
+            "start": "12:20 pm"
+         }
+      ],
+      "title": "Elementary Biblical Hebrew II"
+   },
+   {
+      "code": "1004",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33976",
+      "department": "Hebrew",
+      "instructor": "Lori Linzer",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MTWR",
+            "end": "2:50pm",
+            "start": "2:00pm"
+         }
+      ],
+      "title": "Elementary Biblical Hebrew II"
+   },
+   {
+      "code": "1005",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34013",
+      "department": "Hebrew",
+      "instructor": "Rachel Kra Schaum",
+      "prereqs": "",
+      "section": "201",
+      "time": [
+         {
+            "day": "MWR",
+            "end": "12:50pm",
+            "start": "12:01pm"
+         },
+         {
+            "day": "T",
+            "end": "1:10 pm",
+            "start": "12:20 pm"
+         }
+      ],
+      "title": "Intermed. Biblical Hebrew I"
+   },
+   {
+      "code": "1005",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33952",
+      "department": "Hebrew",
+      "instructor": "Rachel Kra Schaum",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MWR",
+            "end": "1:55pm",
+            "start": "1:05pm"
+         },
+         {
+            "day": "T",
+            "end": "2:00 pm",
+            "start": "1:10 pm"
+         }
+      ],
+      "title": "Intermed. Biblical Hebrew I"
+   },
+   {
+      "code": "1006",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33948",
+      "department": "Hebrew",
+      "instructor": "Ezra H. Frazer",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MTWR",
+            "end": "2:25pm",
+            "start": "1:35pm"
+         }
+      ],
+      "title": "Intermed. Biblical Hebrew II"
+   },
+   {
+      "code": "1006",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34014",
+      "department": "Hebrew",
+      "instructor": "Ezra H. Frazer",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "T",
+            "end": "6:40 pm",
+            "start": "5:50 pm"
+         }
+      ],
+      "title": "Intermed. Biblical Hebrew II"
+   },
+   {
+      "code": "1105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33953",
+      "department": "Hebrew",
+      "instructor": "Chaya Glaser",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MTWR",
+            "end": "2:25pm",
+            "start": "1:35pm"
+         }
+      ],
+      "title": "intermediate Hebrew"
+   },
+   {
+      "code": "1105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34015",
+      "department": "Hebrew",
+      "instructor": "Chaya Glaser",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:20pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "T",
+            "end": "1:00 pm",
+            "start": "12:20 pm"
+         }
+      ],
+      "title": "intermediate Hebrew"
+   },
+   {
+      "code": "1106",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34016",
+      "department": "Hebrew",
+      "instructor": "Chaya Glaser",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "W",
+            "end": "12:50 pm",
+            "start": "12:01 pm"
+         }
+      ],
+      "title": "intermediate 2"
+   },
+   {
+      "code": "1205",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36037",
+      "department": "Hebrew",
+      "instructor": "Sarah Kasher-Bendet",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew I"
+   },
+   {
+      "code": "1206",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35662",
+      "department": "Hebrew",
+      "instructor": "Sigal Shalom",
+      "prereqs": "",
+      "section": "211",
+      "time": [
+         {
+            "day": "MW",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew II"
+   },
+   {
+      "code": "1206",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34053",
+      "department": "Hebrew",
+      "instructor": "Samuel Schneider",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew II - 34053 - HEB 1206 - 231"
+   },
+   {
+      "code": "1206",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34017",
+      "department": "Hebrew",
+      "instructor": "Samuel Schneider",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew II - 34017 - HEB 1206 - 241"
+   },
+   {
+      "code": "1206",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35663",
+      "department": "Hebrew",
+      "instructor": "Samuel Schneider",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew II - 35663 - HEB 1206 - 261"
+   },
+   {
+      "code": "1206",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34054",
+      "department": "Hebrew",
+      "instructor": "Sigal Shalom",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Upper Intermediate Hebrew II"
+   },
+   {
+      "code": "1306",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34055",
+      "department": "Hebrew",
+      "instructor": "Sarah Kasher-Bendet",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Advanced Hebrew II - 34055 - HEB 1306 - 231"
+   },
+   {
+      "code": "1306",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34034",
+      "department": "Hebrew",
+      "instructor": "Sarah Kasher-Bendet",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Advanced Hebrew II - 34034 - HEB 1306 - 331"
+   },
+   {
+      "code": "1306H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35664",
+      "department": "Hebrew",
+      "instructor": "Sarah Kasher-Bendet",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Advanced Hebrew II - 35664 - HEB 1306H - 241"
+   },
+   {
+      "code": "1105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35602",
+      "department": "History",
+      "instructor": "Shalom E. Holtz",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "His. of the Ancient Near East"
+   },
+   {
+      "code": "2127H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35666",
+      "department": "History",
+      "instructor": "Jeffrey Freedman",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "European Enlightenment"
+   },
+   {
+      "code": "2128",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34137",
+      "department": "History",
+      "instructor": "Jeffrey Freedman",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Origins of Democratic Political Culture"
+   },
+   {
+      "code": "2165",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35711",
+      "department": "History",
+      "instructor": "Mario Kessler",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Europe since 1945"
+   },
+   {
+      "code": "2520",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35604",
+      "department": "History",
+      "instructor": "Douglas Burgess",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Atlantic World"
+   },
+   {
+      "code": "2604",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35605",
+      "department": "History",
+      "instructor": "Douglas Burgess",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Piracy & the Nation State"
+   },
+   {
+      "code": "4977H",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33984",
+      "department": "Honors",
+      "instructor": "Gabriel Cwilich",
+      "prereqs": "",
+      "section": "HON",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Honors Thesis Proposal"
+   },
+   {
+      "code": "4978H",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33929",
+      "department": "Honors",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Honors Thesis Seminar I"
+   },
+   {
+      "code": "4979H",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33930",
+      "department": "Honors",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Honors Thesis Seminar II"
+   },
+   {
+      "code": "4980H",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33917",
+      "department": "Honors",
+      "instructor": "Gabriel Cwilich",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Honors Thesis: Preparation"
+   },
+   {
+      "code": "4981H",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33918",
+      "department": "Honors",
+      "instructor": "Gabriel Cwilich",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Honors Thesis: Writing"
+   },
+   {
+      "code": "1006",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34050",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Elias C. Grivoyannis",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Economics Efficiency & Justice"
+   },
+   {
+      "code": "1007",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33967",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Ariel Malka",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Psychology and Public Opinion"
+   },
+   {
+      "code": "1007H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35583",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Ariel Malka",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Psychology and Public Opinion"
+   },
+   {
+      "code": "1012",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35585",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Akiva J. Covitz",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Courts and Social Change"
+   },
+   {
+      "code": "1014",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35659",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Jamie Aroosi",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "American Public Policy"
+   },
+   {
+      "code": "1016H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35660",
+      "department": "Human Behavior Soc Institution",
+      "instructor": "Amy Stuart",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Sociology of Race and Racism"
+   },
+   {
+      "code": "1003",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35606",
+      "department": "Interpreting the Creative",
+      "instructor": "William Lamborn Lee",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Shakespeare and the Arts"
+   },
+   {
+      "code": "1007",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35608",
+      "department": "Interpreting the Creative",
+      "instructor": "Richard Leonard Nochimson",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Fiction & Artistic Imagination"
+   },
+   {
+      "code": "1016",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33994",
+      "department": "Interpreting the Creative",
+      "instructor": "Jess J. Olson",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Culture of the Fin de Siecle"
+   },
+   {
+      "code": "1018",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34131",
+      "department": "Interpreting the Creative",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Aesthetic Revolutions"
+   },
+   {
+      "code": "1022",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35607",
+      "department": "Interpreting the Creative",
+      "instructor": "Ronnie Perelis",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Travel Narratives"
+   },
+   {
+      "code": "1023H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35688",
+      "department": "Interpreting the Creative",
+      "instructor": "Jacob Wisse, Meir Yakov Soloveichik ",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Rembrandt and the Jews"
+   },
+   {
+      "code": "1200",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33986",
+      "department": "Jewish History",
+      "instructor": "Steven Fine",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Classical Jewish History"
+   },
+   {
+      "code": "1300",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33987",
+      "department": "Jewish History",
+      "instructor": "Chaviva Levin",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Medieval Jewish History"
+   },
+   {
+      "code": "1300H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35611",
+      "department": "Jewish History",
+      "instructor": "Chaviva Levin",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Medieval Jewish History"
+   },
+   {
+      "code": "1400",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34006",
+      "department": "Jewish History",
+      "instructor": "Joshua Karlip",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Modern Jewish History"
+   },
+   {
+      "code": "1400",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35668",
+      "department": "Jewish History",
+      "instructor": "Jess J. Olson",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Modern Jewish History"
+   },
+   {
+      "code": "1410",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36386",
+      "department": "Jewish History",
+      "instructor": "Shalom Carmy",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Early Modern Intellectual JHI"
+   },
+   {
+      "code": "2210H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35695",
+      "department": "Jewish History",
+      "instructor": "Moshe J. Bernstein",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Classical Intellectual JHI"
+   },
+   {
+      "code": "1380",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35610",
+      "department": "Jewish Philosophy",
+      "instructor": "Jonathan V. Dauber",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Early Kabbalah"
+   },
+   {
+      "code": "1160",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33882",
+      "department": "Mathematics",
+      "instructor": "Donald Taylor-Bruce",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         },
+         {
+            "day": "TR",
+            "end": "5:45 pm",
+            "start": "4:30 pm"
+         }
+      ],
+      "title": "Precalculus"
+   },
+   {
+      "code": "1401",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "34040",
+      "department": "Mathematics",
+      "instructor": "Yan Li",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "M",
+            "end": "5:20pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Problem Seminar I - 34040 - MAT 1401 - 241"
+   },
+   {
+      "code": "1401",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33883",
+      "department": "Mathematics",
+      "instructor": "Yan Li",
+      "prereqs": "",
+      "section": "251",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Problem Seminar I - 33883 - MAT 1401 - 251"
+   },
+   {
+      "code": "1401",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33884",
+      "department": "Mathematics",
+      "instructor": "Yan Li",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "7:35pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Problem Seminar I - 33884 - MAT 1401 - 361"
+   },
+   {
+      "code": "1402",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33925",
+      "department": "Mathematics",
+      "instructor": "Yan Li",
+      "prereqs": "",
+      "section": "551",
+      "time": [
+         {
+            "day": "R",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Problem Seminar II - 33925 - MAT 1402 - 551"
+   },
+   {
+      "code": "1403",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33885",
+      "department": "Mathematics",
+      "instructor": "Donald Taylor-Bruce",
+      "prereqs": "",
+      "section": "551",
+      "time": [
+         {
+            "day": "R",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Problem Seminar III"
+   },
+   {
+      "code": "1412",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33886",
+      "department": "Mathematics",
+      "instructor": "Yan Li",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Calculus I - 33886 - MAT 1412 - 341"
+   },
+   {
+      "code": "1413",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33887",
+      "department": "Mathematics",
+      "instructor": "Wenxiong Chen",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Calculus II"
+   },
+   {
+      "code": "1504C",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33957",
+      "department": "Mathematics",
+      "instructor": "Arnold Lebow",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         },
+         {
+            "day": "R",
+            "end": "8:00 pm",
+            "start": "6:45 pm"
+         }
+      ],
+      "title": "Discrete Structures"
+   },
+   {
+      "code": "1510",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33888",
+      "department": "Mathematics",
+      "instructor": "Wenxiong Chen",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Multivariable Calculus"
+   },
+   {
+      "code": "1520",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33889",
+      "department": "Mathematics",
+      "instructor": "Wenxiong Chen",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Advanced Calculus I"
+   },
+   {
+      "code": "2105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33942",
+      "department": "Mathematics",
+      "instructor": "Maxwell Musser",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Linear Algebra"
+   },
+   {
+      "code": "2461",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33890",
+      "department": "Mathematics",
+      "instructor": "Arnold Lebow",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Probability Theory"
+   },
+   {
+      "code": "1014",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35669",
+      "department": "Music",
+      "instructor": "Jonathan Schapiro",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "American Musical Cultures"
+   },
+   {
+      "code": "1018",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34135",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Aesthetic Revolutions"
+   },
+   {
+      "code": "1350",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33996",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Baroque & Classical Music"
+   },
+   {
+      "code": "1829H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34074",
+      "department": "Music",
+      "instructor": "Harry Ballan",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Music and the Brain"
+   },
+   {
+      "code": "2111",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34018",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Diatonic Harmony&Counterpoint"
+   },
+   {
+      "code": "2111L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "34019",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "251",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Ear Training I"
+   },
+   {
+      "code": "2113",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33934",
+      "department": "Music",
+      "instructor": "Kurt Nelson",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Chromatic Harmony & Counterpoint I Mus 2113"
+   },
+   {
+      "code": "2113L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "35670",
+      "department": "Music",
+      "instructor": "Kurt Nelson",
+      "prereqs": "",
+      "section": "251",
+      "time": [
+         {
+            "day": "MW",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Ear Training III - 35670 - MUS 2113L - 251"
+   },
+   {
+      "code": "2120",
+      "coreqs": "",
+      "credits": 2,
+      "crn": "34042",
+      "department": "Music",
+      "instructor": "Jonathan Schapiro",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "3:50pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Introduction to Composition"
+   },
+   {
+      "code": "3464",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "35616",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Performance: Chamber Ensemble"
+   },
+   {
+      "code": "3469",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "35617",
+      "department": "Music",
+      "instructor": "Jonathan Schapiro",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Performance: Jazz Ensemble"
+   },
+   {
+      "code": "4111",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33937",
+      "department": "Music",
+      "instructor": "Daniel Beliavsky",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": " ",
+            "start": "TBA"
+         }
+      ],
+      "title": "Applied Musical Study"
+   },
+   {
+      "code": "1010",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35696",
+      "department": "Natural World",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Frontiers of Science"
+   },
+   {
+      "code": "1110",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35697",
+      "department": "Natural World",
+      "instructor": "Gabriel Cwilich",
+      "prereqs": "",
+      "section": "611",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:00pm",
+            "start": "9:30am"
+         }
+      ],
+      "title": "The Imagination of Nature"
+   },
+   {
+      "code": "1100",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35618",
+      "department": "Philosophy",
+      "instructor": "David R. Johnson",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Logic"
+   },
+   {
+      "code": "2170H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34109",
+      "department": "Philosophy",
+      "instructor": "David R. Johnson",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Ancient & Medieval Philosophy"
+   },
+   {
+      "code": "4930H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34146",
+      "department": "Philosophy",
+      "instructor": "Meir Yakov Soloveichik",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Topics: Judaism and Democracy"
+   },
+   {
+      "code": "4931",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35671",
+      "department": "Philosophy",
+      "instructor": "David R. Johnson",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Seminar: Paradoxes"
+   },
+   {
+      "code": "4932",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36144",
+      "department": "Philosophy",
+      "instructor": "Daniel Rynhold",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Seminar: Kant's First Critique"
+   },
+   {
+      "code": "1120",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33956",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "20"
+         }
+      ],
+      "title": "Team Golf"
+   },
+   {
+      "code": "1326",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33945",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "15"
+         }
+      ],
+      "title": "Team Volleyball"
+   },
+   {
+      "code": "1346",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33944",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "15"
+         }
+      ],
+      "title": "Team Tennis"
+   },
+   {
+      "code": "1426",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33904",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "42"
+         }
+      ],
+      "title": "Team Basketball"
+   },
+   {
+      "code": "1511",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33905",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "30"
+         }
+      ],
+      "title": "Team Soccer"
+   },
+   {
+      "code": "1611",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33906",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "30"
+         }
+      ],
+      "title": "Team Baseball"
+   },
+   {
+      "code": "2316",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33907",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "20"
+         }
+      ],
+      "title": "Team Cross-Country"
+   },
+   {
+      "code": "2466",
+      "coreqs": "",
+      "credits": 0.5,
+      "crn": "33908",
+      "department": "Physical Education",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "TBA",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "25"
+         }
+      ],
+      "title": "Team Fencing"
+   },
+   {
+      "code": "1031L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33892",
+      "department": "Physics",
+      "instructor": "Neer Asherie",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "8:25pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro Physics Lab"
+   },
+   {
+      "code": "1031L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33964",
+      "department": "Physics",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "411",
+      "time": [
+         {
+            "day": "W",
+            "end": "2:45pm",
+            "start": "1:05pm"
+         }
+      ],
+      "title": "Intro Physics Lab"
+   },
+   {
+      "code": "1031L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33982",
+      "department": "Physics",
+      "instructor": "Clifford Marc Bastuscheck",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "8:25pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro Physics Lab"
+   },
+   {
+      "code": "1031R",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "33893",
+      "department": "Physics",
+      "instructor": "Neer Asherie",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intro Physics Lecture"
+   },
+   {
+      "code": "1031T",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "35634",
+      "department": "Physics",
+      "instructor": "Neer Asherie",
+      "prereqs": "",
+      "section": "251",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Intro Physics I - Recitation"
+   },
+   {
+      "code": "1031T",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "35638",
+      "department": "Physics",
+      "instructor": "Neer Asherie",
+      "prereqs": "",
+      "section": "451",
+      "time": [
+         {
+            "day": "W",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "Intro Physics I - Recitation"
+   },
+   {
+      "code": "1051R",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "34010",
+      "department": "Physics",
+      "instructor": "Fredy Zypman",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Calculus Based Physics"
+   },
+   {
+      "code": "1051T",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "35888",
+      "department": "Physics",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "251",
+      "time": [
+         {
+            "day": "M",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "General Physics I-Recitation"
+   },
+   {
+      "code": "1401",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35676",
+      "department": "Physics",
+      "instructor": "Fredy Zypman",
+      "prereqs": "",
+      "section": "631",
+      "time": [
+         {
+            "day": "F",
+            "end": "1:30pm",
+            "start": "11:00am"
+         }
+      ],
+      "title": "PHY Solid State"
+   },
+   {
+      "code": "1510H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35672",
+      "department": "Physics",
+      "instructor": "Gabriel Cwilich",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Statistical Mechanics"
+   },
+   {
+      "code": "1621",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33926",
+      "department": "Physics",
+      "instructor": "Sergey V. Buldyrev",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Intro to Quantum Mechanics"
+   },
+   {
+      "code": "2051R",
+      "coreqs": "",
+      "credits": 4,
+      "crn": "34088",
+      "department": "Physics",
+      "instructor": "Sergey V. Buldyrev",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "General Physics III"
+   },
+   {
+      "code": "2051T",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "35678",
+      "department": "Physics",
+      "instructor": "Sergey V. Buldyrev",
+      "prereqs": "",
+      "section": "451",
+      "time": [
+         {
+            "day": "W",
+            "end": "6:40pm",
+            "start": "5:50pm"
+         }
+      ],
+      "title": "General Physics III-Recitation"
+   },
+   {
+      "code": "2061L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "34087",
+      "department": "Physics",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "8:45pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "General Physics III Lab"
+   },
+   {
+      "code": "2061L",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "35633",
+      "department": "Physics",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "8:45pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "General Physics III Lab"
+   },
+   {
+      "code": "4901",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "34140",
+      "department": "Physics",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "0"
+         }
+      ],
+      "title": "Research in Physics"
+   },
+   {
+      "code": "4935",
+      "coreqs": "",
+      "credits": 1,
+      "crn": "33941",
+      "department": "Physics",
+      "instructor": "Mahdokht Behravan",
+      "prereqs": "",
+      "section": "301",
+      "time": [
+         {
+            "day": "T",
+            "end": "12:50pm",
+            "start": "12:00pm"
+         }
+      ],
+      "title": "Physics Colloquium"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33981",
+      "department": "Political Science",
+      "instructor": "Jamie Aroosi",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Intro to American Politics"
+   },
+   {
+      "code": "1105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34094",
+      "department": "Political Science",
+      "instructor": "Jamie Aroosi",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intro American Public Policy"
+   },
+   {
+      "code": "1305H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35620",
+      "department": "Political Science",
+      "instructor": "Maria N. Zaitseva",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "American Foreign Policy"
+   },
+   {
+      "code": "1501",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33988",
+      "department": "Political Science",
+      "instructor": "Ruth Bevan",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Fundamentals of Political Science"
+   },
+   {
+      "code": "2320",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35623",
+      "department": "Political Science",
+      "instructor": "Roberto Genoves",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Politics and Global Markets"
+   },
+   {
+      "code": "2430",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35622",
+      "department": "Political Science",
+      "instructor": "Ruth Bevan",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "American Political Thought"
+   },
+   {
+      "code": "2505",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35639",
+      "department": "Political Science",
+      "instructor": "Maria N. Zaitseva",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Writing Politics:Dir. Research"
+   },
+   {
+      "code": "3115H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35621",
+      "department": "Political Science",
+      "instructor": "Joseph Lieberman, Ruth Bevan ",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Presidential Elections"
+   },
+   {
+      "code": "3575",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35843",
+      "department": "Political Science",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Research Methods"
+   },
+   {
+      "code": "1010",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33895",
+      "department": "Psychology",
+      "instructor": "Eliezer H. Schnall",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Introduction to Psychology"
+   },
+   {
+      "code": "1010",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35625",
+      "department": "Psychology",
+      "instructor": "Jenny Isaacs",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Introduction to Psychology"
+   },
+   {
+      "code": "1021",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33968",
+      "department": "Psychology",
+      "instructor": "Ariel Malka",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Statistics for Psychology"
+   },
+   {
+      "code": "1110",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33896",
+      "department": "Psychology",
+      "instructor": "Eliezer H. Schnall",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Developmental I: Child"
+   },
+   {
+      "code": "1130",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35626",
+      "department": "Psychology",
+      "instructor": "Stephen I. Glicksman",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Developmental 2: Adult"
+   },
+   {
+      "code": "2100C",
+      "coreqs": "",
+      "credits": 5,
+      "crn": "33897",
+      "department": "Psychology",
+      "instructor": "Bruno Galantucci",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         },
+         {
+            "day": "R",
+            "end": "7:45 pm",
+            "start": "6:00 pm"
+         }
+      ],
+      "title": "Experimental Psychology"
+   },
+   {
+      "code": "2150",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34112",
+      "department": "Psychology",
+      "instructor": "Bruno Galantucci",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Cognitive Psychology"
+   },
+   {
+      "code": "2414",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35998",
+      "department": "Psychology",
+      "instructor": "Jenny Isaacs",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Abnormal Psychology"
+   },
+   {
+      "code": "3105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33898",
+      "department": "Psychology",
+      "instructor": "Eliezer H. Schnall",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Social Psychology"
+   },
+   {
+      "code": "3110",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34077",
+      "department": "Psychology",
+      "instructor": "Ariel Malka",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Psychology and Public Opinion"
+   },
+   {
+      "code": "3110H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35624",
+      "department": "Psychology",
+      "instructor": "Ariel Malka",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Psychology and Public Opinion"
+   },
+   {
+      "code": "3435",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34047",
+      "department": "Psychology",
+      "instructor": "E. Hoffman",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Industrial & Organization Psyc"
+   },
+   {
+      "code": "3440",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35627",
+      "department": "Psychology",
+      "instructor": "Ari Shechter",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Drugs & Behavior"
+   },
+   {
+      "code": "3804",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33899",
+      "department": "Psychology",
+      "instructor": "Ido Davidesco",
+      "prereqs": "",
+      "section": "461",
+      "time": [
+         {
+            "day": "W",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Psychobiology"
+   },
+   {
+      "code": "3829H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34075",
+      "department": "Psychology",
+      "instructor": "Harry Ballan",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Music and the Brain"
+   },
+   {
+      "code": "4901",
+      "coreqs": "",
+      "credits": 0,
+      "crn": "33980",
+      "department": "Psychology",
+      "instructor": "08/29-01/11",
+      "prereqs": "",
+      "section": "901",
+      "time": [
+         {
+            "day": "TBA",
+            "start": "0"
+         }
+      ],
+      "title": "Research in Psychology"
+   },
+   {
+      "code": "4930",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35628",
+      "department": "Psychology",
+      "instructor": "Esther Devorah Rollhaus",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "MW",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Topics: Psychopharmacology"
+   },
+   {
+      "code": "4933",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35842",
+      "department": "Psychology",
+      "instructor": "Jenny Isaacs",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:30pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Research Seminar"
+   },
+   {
+      "code": "1001",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33900",
+      "department": "Sociology",
+      "instructor": "Daniel Kimmel",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Introduction to Sociology"
+   },
+   {
+      "code": "2105",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35630",
+      "department": "Sociology",
+      "instructor": "Jonathan J. Zisook",
+      "prereqs": "",
+      "section": "611",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:00pm",
+            "start": "9:30am"
+         }
+      ],
+      "title": "Religion and Society"
+   },
+   {
+      "code": "2306H",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35629",
+      "department": "Sociology",
+      "instructor": "Amy Stuart",
+      "prereqs": "",
+      "section": "261",
+      "time": [
+         {
+            "day": "M",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Sociology of Race and Racism"
+   },
+   {
+      "code": "2407",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35632",
+      "department": "Sociology",
+      "instructor": "Daniel Kimmel",
+      "prereqs": "",
+      "section": "341",
+      "time": [
+         {
+            "day": "TR",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Epidemiology"
+   },
+   {
+      "code": "2701",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34004",
+      "department": "Sociology",
+      "instructor": "Eliezer H. Schnall",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Social Psychology"
+   },
+   {
+      "code": "3003",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "34003",
+      "department": "Sociology",
+      "instructor": "TBA",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Social Research Methods"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33901",
+      "department": "Spanish",
+      "instructor": "Graciela Bazet de Broitman",
+      "prereqs": "",
+      "section": "231",
+      "time": [
+         {
+            "day": "MW",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Elementary Spanish I 33901 SPA 1101 231"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33902",
+      "department": "Spanish",
+      "instructor": "Graciela Bazet de Broitman",
+      "prereqs": "",
+      "section": "311",
+      "time": [
+         {
+            "day": "TR",
+            "end": "2:45pm",
+            "start": "1:30pm"
+         }
+      ],
+      "title": "Elementary Spanish I 33902 SPA 1101  311"
+   },
+   {
+      "code": "1201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36557",
+      "department": "Spanish",
+      "instructor": "Graciela Bazet de Broitman",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Intermediate Spanish I - 36557 - SPA 1201 - 241"
+   },
+   {
+      "code": "1201",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33903",
+      "department": "Spanish",
+      "instructor": "Graciela Bazet de Broitman",
+      "prereqs": "",
+      "section": "331",
+      "time": [
+         {
+            "day": "TR",
+            "end": "4:15pm",
+            "start": "3:00pm"
+         }
+      ],
+      "title": "Intermediate Spanish I - 33903 - SPA 1201 - 331"
+   },
+   {
+      "code": "1231",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36038",
+      "department": "Spanish",
+      "instructor": "Marcelo Broitman",
+      "prereqs": "",
+      "section": "241",
+      "time": [
+         {
+            "day": "MW",
+            "end": "5:45pm",
+            "start": "4:30pm"
+         }
+      ],
+      "title": "Advanced Spanish - 36038 - SPA 1231 - 241"
+   },
+   {
+      "code": "1021",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "33909",
+      "department": "Statistics",
+      "instructor": "Andreas Kakolyris",
+      "prereqs": "",
+      "section": "621",
+      "time": [
+         {
+            "day": "F",
+            "end": "12:30pm",
+            "start": "10:00am"
+         }
+      ],
+      "title": "Intro to Statistics"
+   },
+   {
+      "code": "2910",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "35698",
+      "department": "Theater Arts",
+      "instructor": "Lin Snider",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "T",
+            "end": "9:15pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Art of the Actor"
+   },
+   {
+      "code": "1101",
+      "coreqs": "",
+      "credits": 3,
+      "crn": "36036",
+      "department": "Yiddish",
+      "instructor": "Jonathan L. Lerner",
+      "prereqs": "",
+      "section": "361",
+      "time": [
+         {
+            "day": "TR",
+            "end": "8:00pm",
+            "start": "6:45pm"
+         }
+      ],
+      "title": "Elementary Yiddish"
+   }
+]

@@ -1,0 +1,5 @@
+7/1/2016 11:42:28 AM - consider allowing multiple tabs with multiple calendars using jQuery tabs. Then, a class could be added to multiple/all calendars at once by rapid double clicking http://jqueryui.com/tabs/. combine with render function http://fullcalendar.io/docs/display/render/
+7/1/2016 11:58:14 AM - will need to consider timezone handling if expanding to more colleges. also, if using overseas will adjust course times - http://fullcalendar.io/docs/timezone/timezone/
+
+7/3/2016 4:03:22 PM - Figuring out how to delete events
+7/3/2016 5:13:37 PM - Successfully enabled deletion of events with identical crns by doubleclicking
